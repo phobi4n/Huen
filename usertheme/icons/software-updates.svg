@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg" version="1.1" xmlns:dc="http://purl.org/dc/elements/1.1/" width="100%" xmlns="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" height="100%" viewBox="0 0 22 22" xmlns:cc="http://creativecommons.org/ns#">
+ <defs id="defs81">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#7B7C7E;
+      }
+      .ColorScheme-Background{
+        color:#EFF0F1;
+      }
+      .ColorScheme-Highlight{
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ViewBackground{
+        color:#FCFCFC;
+      }
+      .ColorScheme-ViewHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewFocus{
+        color:#1E92FF;
+      }
+      .ColorScheme-ButtonText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#EFF0F1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#1E92FF;
+      }</style>
+ </defs>
+ <metadata id="metadata34">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="software-updates-additional" transform="translate(-255 -1267.4)">
+  <rect id="rect7997" y="1237.4" fill="#fdbc4b" height="22" x="225" fill-opacity=".0039216" width="22" opacity="0.01"/>
+  <path id="path3019" d="m236 1240.4c-4.432 0-8 3.568-8 8 0 1.4417 0.38795 2.7842 1.05 3.95l0.725-0.725c-0.49738-0.9629-0.775-2.0625-0.775-3.225 0-3.878 3.122-7 7-7 1.1625 0 2.2621 0.2776 3.225 0.775l0.725-0.725c-1.1658-0.662-2.5083-1.05-3.95-1.05zm6.95 4.05-0.725 0.725c0.49737 0.9629 0.775 2.0625 0.775 3.225 0 3.878-3.122 7-7 7-1.1625 0-2.2621-0.2776-3.225-0.775l-0.725 0.725c1.1658 0.662 2.5083 1.05 3.95 1.05 4.432 0 8-3.568 8-8 0-1.4417-0.38795-2.7842-1.05-3.95z" fill="#ffffff"/>
+  <path id="path9380" d="m235 1244.4v3h-3v2h3v3h2v-3h3v-2h-3v-3h-2z" fill="#ffffff"/>
+ </g>
+ <g id="software-updates-security" transform="translate(-225 -1267.4)">
+  <rect id="rect8039" y="1237.4" fill="#fdbc4b" height="22" x="225" fill-opacity=".0039216" width="22" opacity="0.01"/>
+  <path id="path8043" d="m236 1240.4c-4.432 0-8 3.568-8 8 0 1.4417 0.38795 2.7842 1.05 3.95l0.725-0.725c-0.49738-0.9629-0.775-2.0625-0.775-3.225 0-3.878 3.122-7 7-7 1.1625 0 2.2621 0.2776 3.225 0.775l0.725-0.725c-1.1658-0.662-2.5083-1.05-3.95-1.05zm0 3c-1.9925 0-3 1.4704-3 2.8v1.2h-1v1.6 3.4h1 6 1v-5h-1v-1.2c0-1.3296-1-2.8-3-2.8zm0 1c0.9972 0 2 0.9366 2 2.1v0.9h-4v-0.9c0-1.1634 1.0028-2.1 2-2.1zm6.95 0.05-0.725 0.725c0.49737 0.9629 0.775 2.0625 0.775 3.225 0 3.878-3.122 7-7 7-1.1625 0-2.2621-0.2776-3.225-0.775l-0.725 0.725c1.1658 0.662 2.5083 1.05 3.95 1.05 4.432 0 8-3.568 8-8 0-1.4417-0.38795-2.7842-1.05-3.95z" class="ColorScheme-Text" fill="#ffffff"/>
+ </g>
+ <g id="software-updates-important" transform="translate(-195 -1267.4)">
+  <rect id="rect8071" y="1237.4" fill="#fdbc4b" height="22" x="225" fill-opacity=".0039216" width="22" opacity="0.01"/>
+  <path id="path3028" d="m236 1240.4c-4.432 0-8 3.568-8 8 0 1.4417 0.38795 2.7842 1.05 3.95l0.725-0.725c-0.49738-0.9629-0.775-2.0625-0.775-3.225 0-3.878 3.122-7 7-7 1.1625 0 2.2621 0.2776 3.225 0.775l0.725-0.725c-1.1658-0.662-2.5083-1.05-3.95-1.05zm6.95 4.05-0.725 0.725c0.49737 0.9629 0.775 2.0625 0.775 3.225 0 3.878-3.122 7-7 7-1.1625 0-2.2621-0.2776-3.225-0.775l-0.725 0.725c1.1658 0.662 2.5083 1.05 3.95 1.05 4.432 0 8-3.568 8-8 0-1.4417-0.38795-2.7842-1.05-3.95z" fill="#ffffff"/>
+  <path id="path3026" d="m235 1244.4v5h2v-5z" fill="#ffffff"/>
+  <path id="path8075" d="m235 1250.4v2h2v-2h-2z" fill="#ffffff"/>
+ </g>
+ <g id="software-updates-release" transform="translate(-255 -1237.4)">
+  <rect id="rect8088" y="1237.4" fill="#fdbc4b" height="22" x="225" fill-opacity=".0039216" width="22" opacity="0.01"/>
+  <path id="path8092" d="m236 1256.4c4.432 0 8-3.568 8-8 0-1.4417-0.38287-2.7893-1.0449-3.9551l-0.73828 0.7383c0.49737 0.9629 0.7832 2.0543 0.7832 3.2168 0 3.878-3.122 7-7 7-1.1625 0-2.2539-0.2858-3.2168-0.7832l-0.73828 0.7383c1.1658 0.662 2.5134 1.0449 3.9551 1.0449zm-6.9551-4.0449 0.73828-0.7383c-0.49738-0.9629-0.7832-2.0543-0.7832-3.2168 0-3.878 3.122-7 7-7 1.1625 0 2.2539 0.2858 3.2168 0.7832l0.73828-0.7383c-1.1658-0.662-2.5134-1.0449-3.9551-1.0449-4.432 0-8 3.568-8 8 0 1.4417 0.38287 2.7893 1.0449 3.9551z" fill="#7ba3a5"/>
+  <path id="path3955-8" style="color:#7b7c7e" d="m236 1243.4c-2.7614 0-5 2.2386-5 5h5zm0 5v5c2.7614 0 5-2.2386 5-5z" class="ColorScheme-Text" fill="#7ba3a5"/>
+ </g>
+ <g id="software-updates-updates" transform="translate(-225 -1237.4)">
+  <rect id="rect8131" y="1237.4" fill="#fdbc4b" height="22" x="225" fill-opacity=".0039216" width="22" opacity="0.01"/>
+  <path id="path3009" d="m242.95 1244.4-0.725 0.725c0.49737 0.9629 0.775 2.0625 0.775 3.225 0 3.878-3.122 7-7 7-1.1625 0-2.2621-0.2776-3.225-0.775l-0.725 0.725c1.1658 0.662 2.5083 1.05 3.95 1.05 4.432 0 8-3.568 8-8 0-1.4417-0.38795-2.7842-1.05-3.95zm-6.95-4.05c-4.432 0-8 3.568-8 8 0 1.4417 0.38795 2.7842 1.05 3.95l0.725-0.725c-0.49738-0.9628-0.775-2.0625-0.775-3.225 0-3.878 3.122-7 7-7 1.1625 0 2.2621 0.2776 3.225 0.775l0.725-0.725c-1.1658-0.662-2.5083-1.05-3.95-1.05z" fill="#ffffff"/>
+  <path id="path3007" d="m233 1247.4c-0.55229 0-1 0.4477-1 1s0.44771 1 1 1c0.55228 0 1-0.4477 1-1s-0.44772-1-1-1z" fill="#ffffff"/>
+  <path id="path3005" d="m236 1247.4c-0.55229 0-1 0.4477-1 1s0.44771 1 1 1c0.55228 0 1-0.4477 1-1s-0.44772-1-1-1z" fill="#ffffff"/>
+  <path id="path8135" d="m239 1247.4c-0.55229 0-1 0.4477-1 1s0.44771 1 1 1c0.55228 0 1-0.4477 1-1s-0.44772-1-1-1z" fill="#ffffff"/>
+ </g>
+ <g id="software-updates-inactive" transform="translate(-195 -1237.4)">
+  <rect id="rect8152" y="1237.4" fill="#fdbc4b" height="22" x="225" fill-opacity=".0039216" width="22" opacity="0.01"/>
+  <path id="path8157" opacity=".4" d="m236 1256.4c4.432 0 8-3.568 8-8 0-1.4417-0.38287-2.7893-1.0449-3.9551l-0.73828 0.7383c0.49737 0.9629 0.7832 2.0543 0.7832 3.2168 0 3.878-3.122 7-7 7-1.1625 0-2.2539-0.2858-3.2168-0.7832l-0.73828 0.7383c1.1658 0.662 2.5134 1.0449 3.9551 1.0449zm-6.9551-4.0449 0.73828-0.7383c-0.49738-0.9629-0.7832-2.0543-0.7832-3.2168 0-3.878 3.122-7 7-7 1.1625 0 2.2539 0.2858 3.2168 0.7832l0.73828-0.7383c-1.1658-0.662-2.5134-1.0449-3.9551-1.0449-4.432 0-8 3.568-8 8 0 1.4417 0.38287 2.7893 1.0449 3.9551z" class="ColorScheme-Text" fill="#ffffff"/>
+ </g>
+</svg>

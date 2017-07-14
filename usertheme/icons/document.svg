@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg" xmlns="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" height="100%" xmlns:cc="http://creativecommons.org/ns#" version="1.1" viewBox="0 0 22 22" xmlns:dc="http://purl.org/dc/elements/1.1/" width="100%">
+ <defs id="defs81">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#7B7C7E;
+      }
+      .ColorScheme-Background{
+        color:#EFF0F1;
+      }
+      .ColorScheme-Highlight{
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ViewBackground{
+        color:#FCFCFC;
+      }
+      .ColorScheme-ViewHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewFocus{
+        color:#1E92FF;
+      }
+      .ColorScheme-ButtonText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#EFF0F1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#1E92FF;
+      }</style>
+  <style id="style11379" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+ </defs>
+ <metadata id="metadata34">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="document-decrypt" transform="translate(0,28)">
+  <rect id="rect3008" height="22" width="22" opacity="0.01" y="1.9496e-13" fill-opacity="0" x="5.0495e-15"/>
+  <path id="path3010" d="m11 3c-2.216 0-4 1.784-4 4v1h1v-0.5c0-1.939 1.338-3.5 3-3.5s3 1.561 3 3.5v3.5h-2-4-1-2v2 6h1 10 1v-8h-1-1v-4c0-2.216-1.784-4-4-4z" class="ColorScheme-Text" fill="#ffffff" style="color:#31363b"/>
+ </g>
+ <g id="document-encrypt" transform="translate(0,54)">
+  <rect id="rect3792" height="22" width="22" opacity="0.01" y="1.9496e-13" fill-opacity="0" x="5.0495e-15"/>
+  <path id="path3794" d="m11 57c-2.216 0-4 1.784-4 4v4h-2v2 6h1 10 1v-8h-1-1v-4c0-2.216-1.784-4-4-4zm0 1c1.662 0 3 1.561 3 3.5v3.5h-1.338-0.023-4.639v-3.5c0-1.939 1.338-3.5 3-3.5z" class="ColorScheme-Text" transform="translate(0,-54)" fill="#ffffff" style="color:#31363b"/>
+ </g>
+ <g id="22-22-document-open-recent">
+  <rect id="rect3802" height="22" class="ColorScheme-Text" width="22" opacity="0" y="0" x="0"/>
+ </g>
+ <path id="rect4139" d="m4 3v16h1 5v-1h-5v-14h12v7h1v-8h-1-12-1zm10 8c-2.216 0-4 1.784-4 4s1.784 4 4 4 4-1.784 4-4-1.784-4-4-4zm0 1c1.662 0 3 1.338 3 3s-1.338 3-3 3-3-1.338-3-3 1.338-3 3-3zm-1 1v2 1h1 1v-1h-1v-2h-1z" class="ColorScheme-Text" fill="#ffffff"/>
+ <g id="document-open-recent" transform="translate(-40)">
+  <path id="rect4244" d="m0-3v28h10v-1h-9v-26h20v15h1v-16h-22zm16 16a6 6 0 0 0 -6 6 6 6 0 0 0 6 6 6 6 0 0 0 6 -6 6 6 0 0 0 -6 -6zm0 1a5 5 0 0 1 5 5 5 5 0 0 1 -5 5 5 5 0 0 1 -5 -5 5 5 0 0 1 5 -5zm-1 1v5h1 3v-1h-3v-4h-1z" class="ColorScheme-Text" fill="#ffffff"/>
+  <rect id="rect4262" height="32" width="32" fill="none" y="-5" x="-5"/>
+ </g>
+</svg>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg3869" xmlns="http://www.w3.org/2000/svg" height="32" version="1.1" xmlns:cc="http://creativecommons.org/ns#" viewBox="0 0 32 32" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" width="32">
+ <defs id="defs3871">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+ </defs>
+ <metadata id="metadata3874">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer1" transform="translate(-321 -529.36)">
+  <g id="phone">
+   <rect id="rect4436" width="32" fill="none" y="529.36" x="321" height="32"/>
+   <path id="path4167" d="m8 2v24 1 3h16v-28h-16zm5 1h6v1h-6v-1zm-4 2h14v23h-14v-23z" class="ColorScheme-Text" fill="#ffffff" transform="translate(321 529.36)"/>
+  </g>
+  <g id="22-22-phone">
+   <rect id="rect4442" width="16" fill="none" y="537.36" x="303" height="16"/>
+   <path id="path4193" d="m-14 10v12h8v-12h-8zm3 1h2v1h-2v-1zm-2 2h6v7h-6v-7z" class="ColorScheme-Text" fill="#ffffff" transform="translate(321 529.36)"/>
+  </g>
+  <g id="16-16-phone" transform="translate(-1)">
+   <rect id="rect4444" width="22" fill="none" y="534.36" x="356" height="22"/>
+   <path id="path4181" d="m40 8v16h10v-16h-10zm3 1h4v1h-4v-1zm-2 2h8v12h-8v-12z" class="ColorScheme-Text" fill="#ffffff" transform="translate(322 529.36)"/>
+  </g>
+  <g id="phone-battery" transform="translate(0,32)">
+   <rect id="rect4162" width="32" fill="none" y="529.36" x="321" height="32"/>
+   <path id="path4214" d="m8 34v24 1 3h16v-28h-16zm5 1h6v1h-6v-1zm-4 2h14v22 1h-14v-1-22zm7.5 4l-4 8h2.5v6l4.5-8h-3v-6z" class="ColorScheme-Text" fill="#ffffff" transform="translate(321 497.36)"/>
+  </g>
+  <g id="16-16-phone-battery" transform="translate(0,32)">
+   <rect id="rect4168" width="16" fill="none" y="537.36" x="303" height="16"/>
+   <path id="path4201" d="m-14 42v12h8v-12zm3 1h2v1h-2zm-2 2h6v7h-3-3zm3 6 1-3h-1v-2l-1 3h1z" class="ColorScheme-Text" fill="#ffffff" transform="translate(321 497.36)"/>
+  </g>
+  <g id="22-22-phone-battery" transform="translate(-1,32)">
+   <rect id="rect4174" width="22" fill="none" y="534.36" x="356" height="22"/>
+   <path id="path4239" d="m40 40v16h10v-16h-10zm3 1h4v1h-4v-1zm-2 2h8v12h-8v-12zm4 2l-2 5h2v3l2-5h-2v-3z" class="ColorScheme-Text" fill="#ffffff" transform="translate(322 497.36)"/>
+  </g>
+ </g>
+</svg>

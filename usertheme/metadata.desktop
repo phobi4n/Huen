@@ -1,0 +1,21 @@
+[Desktop Entry]
+Name=Huen
+
+X-KDE-PluginInfo-Author=Phobi4n
+X-KDE-PluginInfo-Email=magpie240@gmx.com
+X-KDE-PluginInfo-Name=Huen
+X-KDE-PluginInfo-Version=1.0
+X-KDE-PluginInfo-Website=
+X-KDE-PluginInfo-Category=
+X-KDE-PluginInfo-Depends=
+X-KDE-PluginInfo-License=Creative Commons by-sa
+X-KDE-PluginInfo-EnabledByDefault=true
+X-Plasma-API=5.0
+
+
+
+[ContrastEffect]
+enabled=true
+contrast=0.2
+intensity=0.4
+saturation=1.7

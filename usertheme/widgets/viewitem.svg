@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg7080"
+   version="1.0"
+   viewBox="0 0 25 115.00003"
+   height="115"
+   width="25"
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="viewitem.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1498"
+     inkscape:window-height="860"
+     id="namedview28"
+     showgrid="false"
+     inkscape:zoom="22.161899"
+     inkscape:cx="13.274273"
+     inkscape:cy="42.715953"
+     inkscape:current-layer="svg7080"
+     inkscape:pagecheckerboard="true"
+     inkscape:window-x="273"
+     inkscape:window-y="171"
+     inkscape:window-maximized="0" />
+  <defs
+     id="defs7082">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#ffffff;
+        stop-color:#ffffff;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+        stop-color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      </style>
+    <linearGradient
+       id="linearGradient1580"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop1578" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5158"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop5156" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5114"
+       osb:paint="solid">
+      <stop
+         style="stop-color:#ff2e13;stop-opacity:1;"
+         offset="0"
+         id="stop5112" />
+    </linearGradient>
+    <linearGradient
+       id="Hover-3"
+       osb:paint="solid">
+      <stop
+         id="stop5510"
+         offset="0"
+         stop-opacity=".49412"
+         style="stop-color:#2a2a2a;stop-opacity:1;" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient5514"
+       y2="544.36"
+       y1="544.36"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#Hover-3"
+       x2="146.43"
+       x1="134.43"
+       gradientTransform="translate(-128.43,-470.36)" />
+    <linearGradient
+       id="linearGradient5522"
+       y2="-131.43"
+       y1="-131.43"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#Hover-3"
+       x2="556.36"
+       x1="550.36"
+       gradientTransform="translate(-470.36,128.43)" />
+    <linearGradient
+       id="linearGradient5526"
+       y2="-149.43"
+       y1="-149.43"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#Hover-3"
+       x2="556.36"
+       x1="550.36"
+       gradientTransform="translate(-470.36,128.43)" />
+    <linearGradient
+       id="linearGradient5530"
+       y2="-149.43"
+       y1="-149.43"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#Hover-3"
+       x2="538.36"
+       x1="532.36"
+       gradientTransform="translate(-470.36,128.43)" />
+    <linearGradient
+       id="linearGradient5534"
+       y2="-131.43"
+       y1="-131.43"
+       gradientUnits="userSpaceOnUse"
+       xlink:href="#Hover-3"
+       x2="538.36"
+       x1="532.36"
+       gradientTransform="translate(-470.36,128.43)" />
+    <linearGradient
+       id="linearGradient5588"
+       y2="-131.43"
+       y1="-131.43"
+       xlink:href="#Hover-3"
+       gradientUnits="userSpaceOnUse"
+       x2="550.36"
+       x1="538.36" />
+  </defs>
+  <metadata
+     id="metadata7085">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="opacity:1;fill:currentColor;fill-opacity:1"
+     y="24.342033"
+     width="5"
+     x="-16.090324"
+     height="5"
+     id="hint-stretch-borders" />
+  <rect
+     id="hover-top"
+     y="55.530499"
+     x="2.2810371"
+     width="24.000013"
+     height="4"
+     class="ColorScheme-Background"
+     style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649685" />
+  <rect
+     style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649685"
+     class="ColorScheme-Background"
+     height="4"
+     width="24.000013"
+     x="2.2810249"
+     y="83.395134"
+     id="hover-bottom" />
+  <rect
+     transform="rotate(90)"
+     style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649709;opacity:1"
+     class="ColorScheme-Background"
+     height="4"
+     width="23.999998"
+     x="59.530506"
+     y="-30.281038"
+     id="hover-right" />
+  <rect
+     style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649709;opacity:1"
+     class="ColorScheme-Background"
+     height="4"
+     width="23.999998"
+     x="-83.395134"
+     y="-1.7189751"
+     id="hover-left"
+     transform="rotate(-90)" />
+  <rect
+     id="hover-center"
+     y="59.395123"
+     x="2.2810249"
+     width="24.000013"
+     height="24.000013"
+     class="ColorScheme-Background"
+     style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:2.00000119" />
+  <rect
+     id="hover-bottomright"
+     y="-30.281038"
+     x="83.530502"
+     width="4"
+     height="4"
+     class="ColorScheme-Background"
+     style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355"
+     transform="rotate(90)" />
+  <rect
+     transform="rotate(90)"
+     style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355"
+     class="ColorScheme-Background"
+     height="4"
+     width="4"
+     x="55.530506"
+     y="-30.281038"
+     id="hover-topright" />
+  <rect
+     id="hover-topleft"
+     y="-2.2810249"
+     x="55.530491"
+     width="4"
+     height="4"
+     class="ColorScheme-Background"
+     style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355"
+     transform="rotate(90)" />
+  <rect
+     transform="rotate(90)"
+     style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355"
+     class="ColorScheme-Background"
+     height="4"
+     width="4"
+     x="83.395134"
+     y="-2.2810249"
+     id="hover-bottomleft" />
+</svg>

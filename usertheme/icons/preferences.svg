@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg" width="100%" version="1.1" viewBox="0 0 22 22" height="100%" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns="http://www.w3.org/2000/svg">
+ <defs id="defs81">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#7B7C7E;
+      }
+      .ColorScheme-Background{
+        color:#EFF0F1;
+      }
+      .ColorScheme-Highlight{
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ViewBackground{
+        color:#FCFCFC;
+      }
+      .ColorScheme-ViewHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewFocus{
+        color:#1E92FF;
+      }
+      .ColorScheme-ButtonText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#EFF0F1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#1E92FF;
+      }</style>
+  <style id="current-color-scheme-5" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+ </defs>
+ <metadata id="metadata34">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="preferences-desktop-display-randr" transform="translate(0,-1)">
+  <rect id="rect3832" width="22" y="1" height="22" fill-opacity="0" x="1"/>
+  <path id="rect7235" class="ColorScheme-Text" d="m7 20h10v1h-10zm3-2h4v2h-4zm-8-14v14h20v-14zm1 1h18v10h-18z" fill="#ffffff"/>
+  <path id="rect3018" class="ColorScheme-Text" d="m4 10 4 4h-4z" fill="#ffffff"/>
+  <path id="path3028" class="ColorScheme-Text" d="m20 10-4-4h4z" fill="#ffffff"/>
+ </g>
+ <g id="preferences-desktop-notification" transform="translate(-1,39)">
+  <rect id="rect3068" width="22" y="1" height="22" fill-opacity="0" x="1"/>
+  <rect id="rect4130-82-0" width="16" ry="8" y="4" height="16" fill="#3daee9" x="4"/>
+  <path id="rect4142-6" fill="#55e0e9" d="m11.203 7.2-0.0026 7.2h1.6l0.0026-7.2zm0.8 8c-0.44182 0-0.8 0.35817-0.8 0.8s0.35818 0.8 0.8 0.8 0.8-0.35817 0.8-0.8-0.35818-0.8-0.8-0.8z"/>
+ </g>
+ <g id="22-22-preferences-system-bluetooth" transform="translate(-22,94)">
+  <rect id="rect4645" width="22" y="0" height="22" fill="none" x="66"/>
+  <path id="rect4163-9" class="ColorScheme-Text" d="m76.998 3v0.00195 7.0391l-3.293-3.293-0.002 0.00195c-0.356-0.356-0.996-0.9961-0.996-0.9961l-0.707 0.707 4.545 4.5411-4.545 4.541 0.707 0.707s0.64035-0.64009 0.99609-0.99609h0.002l3.295-3.293v7.039h1l4-4-4-4 4-4-4-4zm1.002 1.416 2.586 2.586-2.586 2.5859zm0 8 2.5859 2.5859l-2.586 2.586z" fill="#ffffff"/>
+ </g>
+ <g id="22-22-preferences-system-bluetooth-activated" transform="translate(0,94)">
+  <rect id="rect4674" width="22" y="0" height="22" fill="none" x="66"/>
+  <path id="path4676" class="ColorScheme-Text" d="m76.998 3v0.00195 7.0391l-3.293-3.293-0.002 0.00195c-0.356-0.356-0.996-0.9961-0.996-0.9961l-0.707 0.707 4.545 4.5411-4.545 4.541 0.707 0.707s0.64035-0.64009 0.99609-0.99609h0.002l3.295-3.293v7.039h1l4-4-4-4 4-4-4-4h-1.002zm1.002 1.416 2.586 2.586-2.586 2.5859v-5.1719zm-11 5.584a1 1 0 0 0 -1 1 1 1 0 0 0 1 1 1 1 0 0 0 1 -1 1 1 0 0 0 -1 -1zm4 0a1 1 0 0 0 -1 1 1 1 0 0 0 1 1 1 1 0 0 0 1 -1 1 1 0 0 0 -1 -1zm12 0a1 1 0 0 0 -1 1 1 1 0 0 0 1 1 1 1 0 0 0 1 -1 1 1 0 0 0 -1 -1zm4 0a1 1 0 0 0 -1 1 1 1 0 0 0 1 1 1 1 0 0 0 1 -1 1 1 0 0 0 -1 -1zm-9 2.416 2.5859 2.5859l-2.586 2.586v-5.172z" fill="#ffffff"/>
+ </g>
+ <g id="22-22-preferences-system-bluetooth-inactive" transform="translate(-44,94)">
+  <rect id="rect4162" width="22" y="0" height="22" fill="none" x="66"/>
+  <path id="path4164" opacity=".5" class="ColorScheme-Text" d="m76.998 3v0.00195 7.0391l-3.293-3.293-0.002 0.00195c-0.356-0.356-0.996-0.9961-0.996-0.9961l-0.707 0.707 4.545 4.5411-4.545 4.541 0.707 0.707s0.64035-0.64009 0.99609-0.99609h0.002l3.295-3.293v7.039h1l4-4-4-4 4-4-4-4zm1.002 1.416 2.586 2.586-2.586 2.5859zm0 8 2.5859 2.5859l-2.586 2.586z" fill="#ffffff"/>
+ </g>
+ <g id="preferences-system-bluetooth" transform="translate(44,94)">
+  <rect id="rect4168" width="32" y="22" height="32" fill="none" x="-5"/>
+  <path id="rect4331" class="ColorScheme-Text" d="m11 26v0.41016 10.588l-5.998-5.998-0.7051 0.705 6.2931 6.295-6.2931 6.295 0.7051 0.705 5.998-5.998v10.998h1 0.002l5.998-5.998v-0.002-0.002l-5.998-5.998 5.998-5.998v-0.002-0.002l-5.998-5.998h-0.002-1zm1 1.41 4.588 4.59-4.588 4.59v-9.18zm0 12l4.588 4.59-4.588 4.59v-9.18z" fill="#ffffff"/>
+ </g>
+ <g id="preferences-system-bluetooth-activated" transform="translate(44,94)">
+  <rect id="rect4422" width="32" y="22" height="32" fill="none" x="27"/>
+  <path id="path4424" class="ColorScheme-Text" d="m43 26v0.41016 10.588l-5.998-5.998-0.705 0.705 6.293 6.295-6.293 6.295 0.705 0.705 5.998-5.998v10.998h1 0.002l5.998-5.998v-0.002-0.002l-5.998-5.998 5.998-5.998v-0.002-0.002l-5.998-5.998h-0.002-1zm1 1.41 4.588 4.59-4.588 4.59v-9.18zm-14 9.59a1 1 0 0 0 -1 1 1 1 0 0 0 1 1 1 1 0 0 0 1 -1 1 1 0 0 0 -1 -1zm6 0a1 1 0 0 0 -1 1 1 1 0 0 0 1 1 1 1 0 0 0 1 -1 1 1 0 0 0 -1 -1zm14 0a1 1 0 0 0 -1 1 1 1 0 0 0 1 1 1 1 0 0 0 1 -1 1 1 0 0 0 -1 -1zm6 0a1 1 0 0 0 -1 1 1 1 0 0 0 1 1 1 1 0 0 0 1 -1 1 1 0 0 0 -1 -1zm-12 2.41 4.588 4.59-4.588 4.59v-9.18z" fill="#ffffff"/>
+ </g>
+ <g id="preferences-system-bluetooth-inactive" transform="translate(44,94)">
+  <rect id="rect4426" width="32" y="22" height="32" fill="none" x="-37"/>
+  <path id="path4428" opacity=".5" class="ColorScheme-Text" d="m-21 26v0.41016 10.588l-5.998-5.998-0.705 0.705 6.293 6.295-6.293 6.295 0.705 0.705 5.998-5.998v10.998h1 0.002l5.998-5.998v-0.002-0.002l-5.998-5.998 5.998-5.998v-0.002-0.002l-5.998-5.998h-0.002-1zm1 1.4102l4.588 4.59-4.588 4.59v-9.1797zm0 12l4.588 4.59-4.588 4.59v-9.1797z" fill="#ffffff"/>
+ </g>
+</svg>

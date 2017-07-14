@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   height="130"
+   viewBox="0 0 130 130"
+   version="1.0"
+   width="130"
+   inkscape:version="0.92.1 r"
+   sodipodi:docname="busywidget.svg">
+  <defs
+     id="defs36" />
+  <style
+       id="current-color-scheme"
+       type="text/css">      .ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1215"
+     inkscape:window-height="696"
+     id="namedview34"
+     showgrid="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="3.0260989"
+     inkscape:cx="83.532555"
+     inkscape:cy="52.347068"
+     inkscape:current-layer="svg2"
+     inkscape:window-x="487"
+     inkscape:window-y="209"
+     inkscape:window-maximized="0" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="busywidget"
+     transform="translate(5.727539,-142.22985)"
+     style="stroke-width:6.54099989">
+    <path
+       id="path4426"
+       style="fill:none;stroke:currentColor;stroke-width:14;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
+        class="ColorScheme-Text"
+       sodipodi:type="arc"
+       sodipodi:cx="57.5"
+       sodipodi:cy="207.5"
+       sodipodi:rx="44.578999"
+       sodipodi:ry="44.578999"
+       sodipodi:start="0"
+       sodipodi:end="4.712389"
+       d="M 102.079,207.5 A 44.578999,44.578999 0 0 1 74.559644,248.68562 44.578999,44.578999 0 0 1 25.977888,239.02211 44.578999,44.578999 0 0 1 16.314376,190.44036 44.578999,44.578999 0 0 1 57.500001,162.921"
+       sodipodi:open="true" />
+    <g
+       id="g4424"
+       transform="translate(-4.5098,148.63)">
+      <rect
+         id="rect4416"
+         x="-1.9902"
+         height="128"
+         width="128"
+         y="-5.1265001"
+         style="fill:none" />
+      <g
+         id="g4422"
+         transform="matrix(0.079592,0,0,0.079592,9.2139,28.078)"
+         style="stroke-width:82.18199921" />
+    </g>
+  </g>
+</svg>

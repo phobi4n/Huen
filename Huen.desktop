@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Huen
+GenericName=Plasma Colouriser
+Comment=Set Plasma colours from current wallpaper
+Icon=huen-icon
+Exec=Huen
+Categories=Settings;DesktopSettings;
+MimeType=
+StartupNotify=false
+Terminal=false

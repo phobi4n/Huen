@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" height="100%" width="100%" version="1.1" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" viewBox="0 0 22 22">
+ <defs id="defs81">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#7B7C7E;
+      }
+      .ColorScheme-Background{
+        color:#EFF0F1;
+      }
+      .ColorScheme-Highlight{
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ViewBackground{
+        color:#FCFCFC;
+      }
+      .ColorScheme-ViewHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewFocus{
+        color:#1E92FF;
+      }
+      .ColorScheme-ButtonText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#EFF0F1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#1E92FF;
+      }</style>
+ </defs>
+ <metadata id="metadata34">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="view-refresh" transform="translate(-1,1)">
+  <rect id="rect3009" x="1" width="22" height="22" fill-opacity="0" y="-1"/>
+  <path id="rect4085" fill="#ffffff" class="ColorScheme-Text" d="m12 2c-1.442 0-2.803 0.3692-3.9688 1.0312l0.71875 0.6875 0.0625 0.0625 2.75 2.7812 0.71875-0.71875-2.5-2.4688c0.6988-0.2345 1.4388-0.3748 2.2188-0.3748 3.878 0 7 3.122 7 7 0 1.1625-0.28388 2.2558-0.78125 3.2188l0.75 0.75c0.662-1.166 1.031-2.527 1.031-3.969 0-4.432-3.568-8-8-8zm-6.9688 4.0312c-0.662 1.1658-1.0312 2.5271-1.0312 3.9688 0 4.432 3.568 8 8 8 1.4417 0 2.803-0.36925 3.9688-1.0312l-0.6875-0.6875-0.0625-0.0625-2.781-2.781-0.688 0.718 2.469 2.469c-0.699 0.235-1.439 0.375-2.219 0.375-3.878 0-7-3.122-7-7 0-1.1625 0.2839-2.2558 0.7812-3.2188l-0.75-0.75z"/>
+ </g>
+ <g id="view-history" transform="matrix(.49612 0 0 .49612 -73.752 -525.35)">
+  <rect id="rect2989" fill="#bababa" opacity="0.01" x="24" width="22" height="22" transform="matrix(2.0156 0 0 2.0156 148.66 1058.9)" y="0"/>
+  <path id="rect4120" fill="#ffffff" class="ColorScheme-Text" d="m219.2 1064.4c-2.3131 0-4.1752 1.8621-4.1752 4.1752 0 0.2031 0.0245 0.401 0.053 0.5954-6.0742 1.7722-10.491 7.356-10.491 14.018 0 8.0958 6.5175 14.613 14.613 14.613 8.0958 0 14.613-6.5176 14.613-14.613 0-3.3115-1.1009-6.3495-2.9439-8.7948 0.50738-0.3801 0.85625-0.9576 0.85625-1.6431 0-1.1566-0.93107-2.0876-2.0876-2.0876-0.68556 0-1.263 0.3489-1.6432 0.8562-1.3865-1.0449-2.9606-1.8491-4.6726-2.3485 0.0284-0.1944 0.053-0.3923 0.053-0.5954 0-2.3131-1.8622-4.1752-4.1752-4.1752zm0 2.0877c1.1566 0 2.0876 0.931 2.0876 2.0875 0 0.056-0.0283 0.1035-0.0326 0.1591-0.67333-0.094-1.3548-0.1591-2.055-0.1591-0.70013 0-1.3816 0.065-2.055 0.1591-0.005-0.055-0.0326-0.1023-0.0326-0.1591 0-1.1565 0.93105-2.0875 2.0876-2.0875zm0 4.1752c0.54191 0 1.0724 0.041 1.5943 0.1103 0.0726 0.011 0.14394 0.023 0.2161 0.033 0.50539 0.076 1.0032 0.1784 1.4882 0.3099 5.3254 1.443 9.227 6.2787 9.227 12.073 0 6.9392-5.5864 12.526-12.526 12.526-6.9392 0-12.526-5.5865-12.526-12.526 0-5.7943 3.9017-10.63 9.2271-12.073 0.48503-0.1315 0.98283-0.2334 1.4882-0.3099 0.0722-0.011 0.14353-0.024 0.2161-0.033 0.52182-0.069 1.0523-0.1103 1.5942-0.1103zm0 2.0876v8.3504c1.1565 0 2.0876 0.931 2.0876 2.0875h8.3504c0-5.7827-4.6554-10.438-10.438-10.438z"/>
+ </g>
+</svg>

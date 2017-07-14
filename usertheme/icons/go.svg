@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg" version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22" width="100%" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" height="100%" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs81">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#7B7C7E;
+      }
+      .ColorScheme-Background{
+        color:#EFF0F1;
+      }
+      .ColorScheme-Highlight{
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ViewBackground{
+        color:#FCFCFC;
+      }
+      .ColorScheme-ViewHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewFocus{
+        color:#1E92FF;
+      }
+      .ColorScheme-ButtonText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#EFF0F1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#1E92FF;
+      }</style>
+ </defs>
+ <metadata id="metadata34">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="go-down" transform="matrix(.91667 0 0 .91667 -30.083 0)">
+  <rect id="rect3098" x="155" width="24" opacity="0.01" fill="#00000f" y="0" height="24" fill-opacity=".0039216"/>
+  <path id="rect4176-9" d="m157.88 7.0279-0.88 0.8838 7.66 7.6563 2.34 2.344 2.34-2.344 7.66-7.6563-0.88-0.8838-7.66 7.6561-1.46 1.46-1.46-1.46-7.66-7.6561z" class="ColorScheme-Text" fill="#ffffff"/>
+ </g>
+ <g id="go-home" transform="scale(.91667)">
+  <rect id="rect2996" x="0" width="24" opacity="0.01" fill="#ed1515" y="0" height="24" fill-opacity=".0039216"/>
+  <path id="rect4164" d="m12 3.2727-0.771 0.7713-7.9563 7.956l0.77131 0.77131 0.3196-0.3196v8.2756h1.0909 5.4545 3.2727 5.4545v-1.0909-7.1847l0.3196 0.3196 0.77-0.771-3.272-3.2727v-3.2727h-3.2727l-1.411-1.4106-0.771-0.7713zm0 1.5426 6.5455 6.5455v8.2756h-4.3636v-5.4545h-3.2727-1.0909v5.4545h-4.3636v-8.2756l6.5455-6.5447z" class="ColorScheme-Text" fill="#ffffff"/>
+ </g>
+ <g id="go-next" transform="matrix(.91667 0 0 .91667 -17.333 0)">
+  <rect id="rect3094" x="80" width="24" opacity="0.01" fill="#00000f" y="0" height="24" fill-opacity=".0039216"/>
+  <path id="rect4176-6" d="m88.949 1.9489-0.88831 0.88831 7.6954 7.6954 1.4674 1.4674-1.4674 1.4674-7.6954 7.6954 0.88831 0.88831 7.6954-7.6954l2.356-2.355-2.356-2.3557-7.695-7.6954z" class="ColorScheme-Text" fill="#ffffff"/>
+ </g>
+ <g id="go-previous" transform="matrix(.91667 0 0 .91667 -8.6667 0)">
+  <rect id="rect3092" x="40" width="24" opacity="0.01" fill="#00000f" y="0" height="24" fill-opacity=".0039216"/>
+  <path id="rect4176-31" d="m56.088 2-7.6563 7.6563-2.3438 2.3438 2.3438 2.3438 7.6563 7.6563 0.88379-0.88375l-7.656-7.656-1.46-1.46 1.46-1.46 7.656-7.6561-0.884-0.8839z" class="ColorScheme-Text" fill="#ffffff"/>
+ </g>
+ <g id="go-up" transform="matrix(.91667 0 0 .91667 -21.417 0)">
+  <rect id="rect3096" x="115" width="24" opacity="0.01" fill="#00000f" y="0" height="24" fill-opacity=".0039216"/>
+  <path id="rect4176-2" d="m117.88 16.912-0.88-0.884 7.66-7.6564 2.34-2.3437l2.3438 2.3438 7.6562 7.6562-0.88379 0.88375-7.6562-7.6562-1.46-1.46-1.46 1.46-7.6562 7.6562z" class="ColorScheme-Text" fill="#ffffff"/>
+ </g>
+</svg>

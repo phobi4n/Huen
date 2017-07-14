@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:osb="http://www.openswatchbook.org/uri/2009/osb"
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="panel-background.svg"
+   inkscape:version="0.92.1 r"
+   width="57.5"
+   height="62"
+   version="1.0"
+   viewBox="0 0 57.5 62"
+   id="svg3642">
+  <sodipodi:namedview
+     inkscape:current-layer="svg3642"
+     inkscape:cy="25.109027"
+     inkscape:cx="15.751232"
+     inkscape:zoom="11.23525"
+     showgrid="false"
+     id="namedview36"
+     inkscape:window-height="898"
+     inkscape:window-width="1551"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     inkscape:window-x="134"
+     inkscape:window-y="171"
+     inkscape:window-maximized="0"
+     inkscape:pagecheckerboard="true"
+     inkscape:showpageshadow="false" />
+  <defs
+     id="defs3644">
+    <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-Background {
+        
+        stop-
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+        stop-color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+        stop-color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      </style>
+    <linearGradient
+       id="linearGradient7102"
+       osb:paint="solid">
+      <stop
+         id="stop7100"
+         stop-color="#424242"
+         offset="0" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient7120"
+       y1="238.5"
+       gradientUnits="userSpaceOnUse"
+       x1="272"
+       xlink:href="#linearGradient7102"
+       y2="238.5"
+       x2="321"
+       gradientTransform="matrix(0.010204,0,0,0.5,57.72,-119.5)" />
+    <linearGradient
+       id="linearGradient7124"
+       y1="238.5"
+       gradientUnits="userSpaceOnUse"
+       x1="272"
+       xlink:href="#linearGradient7102"
+       y2="238.5"
+       x2="321"
+       gradientTransform="matrix(0.010204,0,0,0.5,3.72,-119.5)" />
+    <linearGradient
+       id="linearGradient7128"
+       y1="238.5"
+       gradientUnits="userSpaceOnUse"
+       x1="272"
+       xlink:href="#linearGradient7102"
+       y2="238.5"
+       x2="321"
+       gradientTransform="matrix(0.010204,0,0,0.5,3.72,-175.5)" />
+    <linearGradient
+       id="linearGradient7132"
+       y1="238.5"
+       gradientUnits="userSpaceOnUse"
+       x1="272"
+       xlink:href="#linearGradient7102"
+       y2="238.5"
+       x2="321"
+       gradientTransform="matrix(0.010204,0,0,0.5,58.72,-176.5)" />
+    <linearGradient
+       id="linearGradient10967"
+       y1=".78878"
+       gradientUnits="userSpaceOnUse"
+       x1="-15.429"
+       xlink:href="#linearGradient4795"
+       y2=".78878"
+       x2="-14.929"
+       gradientTransform="matrix(0,-2,1,0,292.21,206.58)" />
+    <linearGradient
+       id="linearGradient4795"
+       osb:paint="solid">
+      <stop
+         id="stop4793"
+         offset="0" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient10969"
+       y1=".78878"
+       gradientUnits="userSpaceOnUse"
+       x1="-15.429"
+       xlink:href="#linearGradient4740"
+       y2=".78878"
+       x2="-14.929"
+       gradientTransform="matrix(0,-2,1,0,292.21,207.58)" />
+    <linearGradient
+       id="linearGradient4740"
+       osb:paint="solid">
+      <stop
+         id="stop4738"
+         stop-color="#ccc"
+         offset="0" />
+    </linearGradient>
+    <linearGradient
+       id="linearGradient3273-6">
+      <stop
+         id="stop3275-1"
+         offset="0"
+         style="stop-color:#000000;stop-opacity:0.78431374;" />
+      <stop
+         id="stop3277-0"
+         offset="1"
+         style="stop-color:#000000;stop-opacity:0;" />
+    </linearGradient>
+  </defs>
+  <metadata
+     id="metadata3647">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.95999998;opacity:1"
+     class="ColorScheme-Background"
+     width="48"
+     y="12"
+     x="3.5"
+     height="48"
+     id="center" />
+  <rect
+     id="top"
+     height="1"
+     x="3.5"
+     y="11"
+     width="48"
+     class="ColorScheme-Background"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.13856407" />
+  <rect
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.13856407"
+     class="ColorScheme-Background"
+     width="48"
+     y="65"
+     x="3.5"
+     height="1"
+     id="bottom" />
+  <rect
+     transform="rotate(90)"
+     id="right"
+     height="6"
+     x="12"
+     y="-57.5"
+     width="48"
+     class="ColorScheme-Background"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.33941126" />
+  <rect
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.33941126"
+     class="ColorScheme-Background"
+     width="48"
+     y="-3.5"
+     x="12"
+     height="6"
+     id="left"
+     transform="rotate(90)" />
+  <rect
+     transform="rotate(90)"
+     id="topleft"
+     height="6"
+     x="11"
+     y="-3.5"
+     width="1"
+     class="ColorScheme-Background"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.0489898" />
+  <rect
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.0489898"
+     class="ColorScheme-Background"
+     width="1"
+     y="-57.5"
+     x="11"
+     height="6"
+     id="topright"
+     transform="rotate(90)" />
+  <rect
+     transform="rotate(90)"
+     id="bottomright"
+     height="6"
+     x="65"
+     y="-57.5"
+     width="1"
+     class="ColorScheme-Background"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.0489898" />
+  <rect
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.0489898"
+     class="ColorScheme-Background"
+     width="1"
+     y="-3.5"
+     x="65"
+     height="6"
+     id="bottomleft"
+     transform="rotate(90)" />
+</svg>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg4153" xmlns:cc="http://creativecommons.org/ns#" height="32" width="32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" viewBox="0 0 32.000004 32">
+ <metadata id="metadata4159">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs id="defs4157">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background {
+        color:#eff0f1;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+ </defs>
+ <g id="22-22-klipper" transform="translate(49 5)">
+  <path id="path4146" fill="#ffffff" class="ColorScheme-Text" d="m7 3v2h-2-1v14h1 13v-1-13h-1-2v-2h-8zm-2 3h1v2h10v-2h1v12h-12v-12zm2 3v1h8v-1h-8zm0 3v1h6v-1h-6zm0 3v1h3v-1h-3z"/>
+  <rect id="rect4148" x="0" y="0" height="22" fill="none" width="22"/>
+ </g>
+ <g id="klipper">
+  <path id="rect4202" fill="#ffffff" class="ColorScheme-Text" d="m13 4v2h-2v1h-5v21h20v-21h-5v-1h-2v-2zm-6 4h4v1.3h10v-1.3h4v19h-18zm3 3v1h12v-1zm0 3v1h12v-1zm0 4v1h5v-1zm0 3v1h5v-1zm0 3v1h11v-1z"/>
+  <rect id="rect4230" x="-2.8954e-8" y="-.000001" fill="none" height="32" width="32"/>
+ </g>
+</svg>

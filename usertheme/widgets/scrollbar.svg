@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg3120"
+   version="1.1"
+   width="48"
+   height="98"
+   sodipodi:docname="scrollbar.svg"
+   inkscape:version="0.92.1 r">
+  <defs
+     id="defs60" />
+  <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Background {
+        
+        stop-
+      }
+      .ColorScheme-Background {
+        color:#ffffff;
+        stop-color:#ffffff;
+      }
+      .ColorScheme-Highlight {
+        
+        stop-
+      }
+      .ColorScheme-ViewText {
+        
+        stop-
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+        stop-color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        
+        stop-
+      }
+      .ColorScheme-ButtonText {
+        
+        stop-
+      }
+      .ColorScheme-ButtonBackground {
+        color:#eff0f1;
+        stop-color:#eff0f1;
+      }
+      .ColorScheme-Background {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        
+        stop-
+      }
+      </style>
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1313"
+     inkscape:window-height="833"
+     id="namedview58"
+     showgrid="false"
+     inkscape:showpageshadow="false"
+     inkscape:pagecheckerboard="true"
+     inkscape:zoom="10.259193"
+     inkscape:cx="25.383403"
+     inkscape:cy="58.670621"
+     inkscape:window-x="227"
+     inkscape:window-y="105"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg3120" />
+  <metadata
+     id="metadata3125">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <rect
+     style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     id="slider-center"
+     width="1"
+     height="10"
+     x="23.407452"
+     y="13.695679"
+     class="ColorScheme-Background" />
+  <g
+     id="slider-right"
+     transform="matrix(0.75,0,0,1,18.65745,6.6956781)">
+    <path
+       id="rect3838"
+       d="m 9,7 v 10 h 4 V 7 Z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background" />
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3856"
+       width="1"
+       height="10"
+       x="29"
+       y="20"
+       transform="matrix(1.3333333,0,0,1,-25.666667,-13)" />
+  </g>
+  <g
+     id="slider-topright"
+     transform="matrix(0.75,0,0,0.75,18.65745,7.4456781)">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3852"
+       width="4"
+       height="4"
+       x="26"
+       y="15"
+       transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-18.333333)" />
+    <path
+       id="rect3840"
+       d="m 9,3 v 4 h 4 C 13,3 13,3 9,3 Z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     id="slider-bottomright"
+     transform="matrix(0.75,0,0,0.75,18.65745,11.945678)">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3862"
+       width="4"
+       height="4"
+       x="26"
+       y="31"
+       transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-24.333333)" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 9,21 v -4 h 4 c 0,4 0,4 -4,4 z"
+       id="path3871"
+       class="ColorScheme-Background"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     id="slider-left"
+     transform="matrix(-0.75,0,0,1,29.15745,6.6956781)">
+    <path
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 9,7 v 10 h 4 V 7 Z"
+       id="path3891"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background" />
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3854"
+       width="1"
+       height="10"
+       x="19"
+       y="20"
+       transform="matrix(-1.3333333,0,0,1,39.666667,-13)" />
+  </g>
+  <g
+     id="slider-topleft"
+     transform="matrix(-0.75,0,0,0.75,29.15745,7.4456781)">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3848"
+       width="4"
+       height="4"
+       x="19"
+       y="15"
+       transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-18.333333)" />
+    <path
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 9,3 v 4 h 4 C 13,3 13,3 9,3 Z"
+       id="path3895"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     id="slider-bottomleft"
+     transform="matrix(-0.75,0,0,0.75,29.15745,11.945678)">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3858"
+       width="4"
+       height="4"
+       x="19"
+       y="31"
+       transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-24.333333)" />
+    <path
+       id="path3901"
+       d="m 9,21 v -4 h 4 c 0,4 0,4 -4,4 z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     transform="matrix(0,-0.75,-0.1,0,25.10745,19.445678)"
+     id="slider-top">
+    <rect
+       style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3850"
+       width="1"
+       height="4"
+       x="24"
+       y="15"
+       transform="matrix(0,-10,-1.3333333,0,34.333333,257)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3909"
+       d="m 9,7 v 10 h 4 V 7 Z"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     id="slider-bottom"
+     transform="matrix(0,0.75,-0.1,0,25.10745,17.945678)">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3860"
+       width="1"
+       height="4"
+       x="24"
+       y="31"
+       transform="matrix(0,-10,1.3333333,0,-32.333333,257)" />
+    <path
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 9,7 v 10 h 4 V 7 Z"
+       id="path3915"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background" />
+  </g>
+  <rect
+     ry="8"
+     rx="0"
+     y="18.695679"
+     x="3.4074509"
+     height="8"
+     width="8"
+     id="hint-scrollbar-size"
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+  <rect
+     style="fill:#4e9a06;fill-opacity:1;fill-rule:nonzero;stroke:none"
+     id="hint-tile-center"
+     width="2.0329318"
+     height="2.077126"
+     x="6.6674113"
+     y="5.3550963"
+     rx="0"
+     ry="2.077126" />
+  <rect
+     style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     id="background-vertical-center"
+     width="1"
+     height="10"
+     x="37.407452"
+     y="13.695679"
+     class="ColorScheme-Background"
+     inkscape:label="#slider-center-1" />
+  <g
+     id="background-vertical-right"
+     transform="matrix(0.75,0,0,1,32.65745,6.6956781)"
+     inkscape:label="#slider-right-1">
+    <path
+       id="rect3838-1"
+       d="m 9,7 v 10 h 4 V 7 Z"
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background" />
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3872"
+       width="1"
+       height="10"
+       x="43"
+       y="20"
+       transform="matrix(1.3333333,0,0,1,-44.333333,-13)" />
+  </g>
+  <g
+     id="background-vertical-topright"
+     transform="matrix(0.75,0,0,0.75,32.65745,7.4456781)"
+     inkscape:label="#slider-topright-5">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3868"
+       width="4"
+       height="4"
+       x="40"
+       y="15"
+       transform="matrix(1.3333333,0,0,1.3333333,-44.333333,-18.333333)" />
+    <path
+       id="rect3840-1"
+       d="m 9,3 v 4 h 4 C 13,3 13,3 9,3 Z"
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     id="background-vertical-bottomright"
+     transform="matrix(0.75,0,0,0.75,32.65745,11.945678)"
+     inkscape:label="#slider-bottomright-2">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3878"
+       width="4"
+       height="4"
+       x="40"
+       y="31"
+       transform="matrix(1.3333333,0,0,1.3333333,-44.333333,-24.333333)" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 9,21 v -4 h 4 c 0,4 0,4 -4,4 z"
+       id="path3871-2"
+       class="ColorScheme-Background"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     id="background-vertical-left"
+     transform="matrix(-0.75,0,0,1,43.15745,6.6956781)"
+     inkscape:label="#slider-left-4">
+    <path
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 9,7 v 10 h 4 V 7 Z"
+       id="path3891-2"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background" />
+    <rect
+       style="opacity:0.01000001;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3870"
+       width="1"
+       height="10"
+       x="33"
+       y="20"
+       transform="matrix(-1.3333333,0,0,1,58.333333,-13)" />
+  </g>
+  <g
+     id="background-vertical-topleft"
+     transform="matrix(-0.75,0,0,0.75,43.15745,7.4456781)"
+     inkscape:label="#slider-topleft-8">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3864"
+       width="4"
+       height="4"
+       x="33"
+       y="15"
+       transform="matrix(-1.3333333,0,0,1.3333333,58.333333,-18.333333)" />
+    <path
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 9,3 v 4 h 4 C 13,3 13,3 9,3 Z"
+       id="path3895-9"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     id="background-vertical-bottomleft"
+     transform="matrix(-0.75,0,0,0.75,43.15745,11.945678)"
+     inkscape:label="#slider-bottomleft-2">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3874"
+       width="4"
+       height="4"
+       x="33"
+       y="31"
+       transform="matrix(-1.3333333,0,0,1.3333333,58.333333,-24.333333)" />
+    <path
+       id="path3901-7"
+       d="m 9,21 v -4 h 4 c 0,4 0,4 -4,4 z"
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     transform="matrix(0,-0.75,-0.1,0,39.10745,19.445678)"
+     id="background-vertical-top"
+     inkscape:label="#slider-top-0">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3866"
+       width="1"
+       height="4"
+       x="38"
+       y="15"
+       transform="matrix(0,-10,-1.3333333,0,34.333333,397)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3909-8"
+       d="m 9,7 v 10 h 4 V 7 Z"
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     id="background-vertical-bottom"
+     transform="matrix(0,0.75,-0.1,0,39.10745,17.945678)"
+     inkscape:label="#slider-bottom-2">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3876"
+       width="1"
+       height="4"
+       x="38"
+       y="31"
+       transform="matrix(0,-10,1.3333333,0,-32.333333,397)" />
+    <path
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 9,7 v 10 h 4 V 7 Z"
+       id="path3915-5"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background" />
+  </g>
+  <rect
+     style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     id="mouseover-slider-center"
+     width="1"
+     height="10"
+     x="23.407452"
+     y="35.695679"
+     class="ColorScheme-Text"
+     inkscape:label="#slider-center-6" />
+  <g
+     id="mouseover-slider-right"
+     transform="matrix(0.75,0,0,1,18.65745,28.695678)"
+     inkscape:label="#slider-right-9">
+    <path
+       id="rect3838-4"
+       d="m 9,7 v 10 h 4 V 7 Z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Text" />
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3904"
+       width="1"
+       height="10"
+       x="29"
+       y="42"
+       transform="matrix(1.3333333,0,0,1,-25.666667,-35)" />
+  </g>
+  <g
+     id="mouseover-slider-topright"
+     transform="matrix(0.75,0,0,0.75,18.65745,29.445678)"
+     inkscape:label="#slider-topright-4">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3894"
+       width="4"
+       height="4"
+       x="26"
+       y="37"
+       transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-47.666667)" />
+    <path
+       id="rect3840-2"
+       d="m 9,3 v 4 h 4 C 13,3 13,3 9,3 Z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Text"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     id="mouseover-slider-bottomright"
+     transform="matrix(0.75,0,0,0.75,18.65745,33.945678)"
+     inkscape:label="#slider-bottomright-7"
+     style="fill:#939393;fill-opacity:1">
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 9,21 v -4 h 4 c 0,4 0,4 -4,4 z"
+       id="path3871-1"
+       class="ColorScheme-Text"
+       sodipodi:nodetypes="cccc" />
+    <rect
+       style="opacity:0;fill:#939393;fill-opacity:1;stroke:none"
+       id="rect3908"
+       width="4"
+       height="4"
+       x="26"
+       y="53"
+       transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-53.666667)" />
+  </g>
+  <g
+     id="mouseover-slider-left"
+     transform="matrix(-0.75,0,0,1,29.15745,28.695678)"
+     inkscape:label="#slider-left-5">
+    <path
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 9,7 v 10 h 4 V 7 Z"
+       id="path3891-9"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Text" />
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3902"
+       width="1"
+       height="10"
+       x="19"
+       y="42"
+       transform="matrix(-1.3333333,0,0,1,39.666667,-35)" />
+  </g>
+  <g
+     id="mouseover-slider-topleft"
+     transform="matrix(-0.75,0,0,0.75,29.15745,29.445678)"
+     inkscape:label="#slider-topleft-2">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3880"
+       width="4"
+       height="4"
+       x="19"
+       y="37"
+       transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-47.666667)" />
+    <path
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 9,3 v 4 h 4 C 13,3 13,3 9,3 Z"
+       id="path3895-2"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Text"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     id="mouseover-slider-bottomleft"
+     transform="matrix(-0.75,0,0,0.75,29.15745,33.945678)"
+     inkscape:label="#slider-bottomleft-5">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3890"
+       width="4"
+       height="4"
+       x="19"
+       y="53"
+       transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-53.666667)" />
+    <path
+       id="path3901-9"
+       d="m 9,21 v -4 h 4 c 0,4 0,4 -4,4 z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Text"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     transform="matrix(0,-0.75,-0.1,0,25.10745,41.445678)"
+     id="mouseover-slider-top"
+     inkscape:label="#slider-top-5">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3892"
+       width="1"
+       height="4"
+       x="24"
+       y="37"
+       transform="matrix(0,-10,-1.3333333,0,63.666667,257)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3909-6"
+       d="m 9,7 v 10 h 4 V 7 Z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       class="ColorScheme-Text" />
+  </g>
+  <g
+     id="mouseover-slider-bottom"
+     transform="matrix(0,0.75,-0.1,0,25.10745,39.945678)"
+     inkscape:label="#slider-bottom-0">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3906"
+       width="1"
+       height="4"
+       x="24"
+       y="53"
+       transform="matrix(0,-10,1.3333333,0,-61.666667,257)" />
+    <path
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 9,7 v 10 h 4 V 7 Z"
+       id="path3915-6"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Text" />
+  </g>
+  <rect
+     style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     id="sunken-slider-center"
+     width="1"
+     height="10"
+     x="23.407452"
+     y="57.695679"
+     class="ColorScheme-Background"
+     inkscape:label="#slider-center-6" />
+  <g
+     id="sunken-slider-right"
+     transform="matrix(0.75,0,0,1,18.65745,50.695678)"
+     inkscape:label="#slider-right-9">
+    <path
+       id="rect3838-4-8"
+       d="m 9,7 v 10 h 4 V 7 Z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background" />
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3924"
+       width="1"
+       height="10"
+       x="29"
+       y="64"
+       transform="matrix(1.3333333,0,0,1,-25.666667,-57)" />
+  </g>
+  <g
+     id="sunken-slider-topright"
+     transform="matrix(0.75,0,0,0.75,18.65745,51.445678)"
+     inkscape:label="#slider-topright-4">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3920"
+       width="4"
+       height="4"
+       x="26"
+       y="59"
+       transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-77)" />
+    <path
+       id="rect3840-2-9"
+       d="m 9,3 v 4 h 4 C 13,3 13,3 9,3 Z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     id="sunken-slider-bottomright"
+     transform="matrix(0.75,0,0,0.75,18.65745,55.945678)"
+     inkscape:label="#slider-bottomright-7">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3930"
+       width="4"
+       height="4"
+       x="26"
+       y="75"
+       transform="matrix(1.3333333,0,0,1.3333333,-25.666667,-83)" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 9,21 v -4 h 4 c 0,4 0,4 -4,4 z"
+       id="path3871-1-7"
+       class="ColorScheme-Background"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     id="sunken-slider-left"
+     transform="matrix(-0.75,0,0,1,29.15745,50.695678)"
+     inkscape:label="#slider-left-5">
+    <path
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 9,7 v 10 h 4 V 7 Z"
+       id="path3891-9-4"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background" />
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3922"
+       width="1"
+       height="10"
+       x="19"
+       y="64"
+       transform="matrix(-1.3333333,0,0,1,39.666667,-57)" />
+  </g>
+  <g
+     id="sunken-slider-topleft"
+     transform="matrix(-0.75,0,0,0.75,29.15745,51.445678)"
+     inkscape:label="#slider-topleft-2">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3916"
+       width="4"
+       height="4"
+       x="19"
+       y="59"
+       transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-77)" />
+    <path
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 9,3 v 4 h 4 C 13,3 13,3 9,3 Z"
+       id="path3895-2-1"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     id="sunken-slider-bottomleft"
+     transform="matrix(-0.75,0,0,0.75,29.15745,55.945678)"
+     inkscape:label="#slider-bottomleft-5">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3926"
+       width="4"
+       height="4"
+       x="19"
+       y="75"
+       transform="matrix(-1.3333333,0,0,1.3333333,39.666667,-83)" />
+    <path
+       id="path3901-9-9"
+       d="m 9,21 v -4 h 4 c 0,4 0,4 -4,4 z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     transform="matrix(0,-0.75,-0.1,0,25.10745,63.445678)"
+     id="sunken-slider-top"
+     inkscape:label="#slider-top-5">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3918"
+       width="1"
+       height="4"
+       x="24"
+       y="59"
+       transform="matrix(0,-10,-1.3333333,0,93,257)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3909-6-1"
+       d="m 9,7 v 10 h 4 V 7 Z"
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     id="sunken-slider-bottom"
+     transform="matrix(0,0.75,-0.1,0,25.10745,61.945678)"
+     inkscape:label="#slider-bottom-0">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3928"
+       width="1"
+       height="4"
+       x="24"
+       y="75"
+       transform="matrix(0,-10,1.3333333,0,-91,257)" />
+    <path
+       style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 9,7 v 10 h 4 V 7 Z"
+       id="path3915-6-3"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background" />
+  </g>
+  <rect
+     style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+     id="background-horizontal-center"
+     width="1"
+     height="10"
+     x="37.407452"
+     y="35.695679"
+     class="ColorScheme-Background"
+     inkscape:label="#slider-center-1" />
+  <g
+     id="background-horizontal-right"
+     transform="matrix(0.75,0,0,1,32.65745,28.695678)"
+     inkscape:label="#slider-right-1">
+    <path
+       id="rect3838-1-3"
+       d="m 9,7 v 10 h 4 V 7 Z"
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background" />
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3888"
+       width="1"
+       height="10"
+       x="43"
+       y="42"
+       transform="matrix(1.3333333,0,0,1,-44.333333,-35)" />
+  </g>
+  <g
+     id="background-horizontal-topright"
+     transform="matrix(0.75,0,0,0.75,32.65745,29.445678)"
+     inkscape:label="#slider-topright-5">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3884"
+       width="4"
+       height="4"
+       x="40"
+       y="37"
+       transform="matrix(1.3333333,0,0,1.3333333,-44.333333,-47.666667)" />
+    <path
+       id="rect3840-1-0"
+       d="m 9,3 v 4 h 4 C 13,3 13,3 9,3 Z"
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     id="background-horizontal-bottomright"
+     transform="matrix(0.75,0,0,0.75,32.65745,33.945678)"
+     inkscape:label="#slider-bottomright-2">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3914"
+       width="4"
+       height="4"
+       x="40"
+       y="53"
+       transform="matrix(1.3333333,0,0,1.3333333,-44.333333,-53.666667)" />
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 9,21 v -4 h 4 c 0,4 0,4 -4,4 z"
+       id="path3871-2-0"
+       class="ColorScheme-Background"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     id="background-horizontal-left"
+     transform="matrix(-0.75,0,0,1,43.15745,28.695678)"
+     inkscape:label="#slider-left-4">
+    <path
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 9,7 v 10 h 4 V 7 Z"
+       id="path3891-2-6"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background" />
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3886"
+       width="1"
+       height="10"
+       x="33"
+       y="42"
+       transform="matrix(-1.3333333,0,0,1,58.333333,-35)" />
+  </g>
+  <g
+     id="background-horizontal-topleft"
+     transform="matrix(-0.75,0,0,0.75,43.15745,29.445678)"
+     inkscape:label="#slider-topleft-8">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3896"
+       width="4"
+       height="4"
+       x="33"
+       y="37"
+       transform="matrix(-1.3333333,0,0,1.3333333,58.333333,-47.666667)" />
+    <path
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 9,3 v 4 h 4 C 13,3 13,3 9,3 Z"
+       id="path3895-9-8"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     id="background-horizontal-bottomleft"
+     transform="matrix(-0.75,0,0,0.75,43.15745,33.945678)"
+     inkscape:label="#slider-bottomleft-2">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3910"
+       width="4"
+       height="4"
+       x="33"
+       y="53"
+       transform="matrix(-1.3333333,0,0,1.3333333,58.333333,-53.666667)" />
+    <path
+       id="path3901-7-8"
+       d="m 9,21 v -4 h 4 c 0,4 0,4 -4,4 z"
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background"
+       sodipodi:nodetypes="cccc" />
+  </g>
+  <g
+     transform="matrix(0,-0.75,-0.1,0,39.10745,41.445678)"
+     id="background-top-7"
+     inkscape:label="#slider-top-0">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3898"
+       width="1"
+       height="4"
+       x="38"
+       y="37"
+       transform="matrix(0,-10,-1.3333333,0,63.666667,397)" />
+    <path
+       inkscape:connector-curvature="0"
+       id="path3909-8-0"
+       d="m 9,7 v 10 h 4 V 7 Z"
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       class="ColorScheme-Background" />
+  </g>
+  <g
+     id="background-horizontal-bottom"
+     transform="matrix(0,0.75,-0.1,0,39.10745,39.945678)"
+     inkscape:label="#slider-bottom-2">
+    <rect
+       style="opacity:0;fill:#e4e6e8;fill-opacity:1;stroke:none"
+       id="rect3912"
+       width="1"
+       height="4"
+       x="38"
+       y="53"
+       transform="matrix(0,-10,1.3333333,0,-61.666667,397)" />
+    <path
+       style="opacity:0.1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none"
+       d="m 9,7 v 10 h 4 V 7 Z"
+       id="path3915-5-7"
+       inkscape:connector-curvature="0"
+       class="ColorScheme-Background" />
+  </g>
+</svg>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="svg" xmlns="http://www.w3.org/2000/svg" height="100%" width="100%" viewBox="0 0 22 22" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" version="1.1">
+ <defs id="defs81">
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#7B7C7E;
+      }
+      .ColorScheme-Background{
+        color:#EFF0F1;
+      }
+      .ColorScheme-Highlight{
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ViewBackground{
+        color:#FCFCFC;
+      }
+      .ColorScheme-ViewHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewFocus{
+        color:#1E92FF;
+      }
+      .ColorScheme-ButtonText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#EFF0F1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#1E92FF;
+      }</style>
+ </defs>
+ <metadata id="metadata34">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="configure" transform="matrix(1.5 0 0 1.5 -5.5 -1551)">
+  <rect id="rect2985" height="14.667" width="14.667" y="1034" opacity="0.01" fill="#ed1515" fill-opacity=".0039216" x="3.6667"/>
+  <path id="rect4139" transform="matrix(.66667 0 0 .66667 3 1033.4)" fill="#ffffff" class="ColorScheme-Text" d="m12.5 4c-1.212 0-2.205 0.8587-2.438 2h-6.062v1h6.062c0.23235 1.1413 1.2256 2 2.4375 2s2.2051-0.85874 2.4375-2h5.063v-1h-5.062c-0.233-1.1413-1.226-2-2.438-2zm-6 11c-1.385 0-2.5 1.115-2.5 2.5s1.115 2.5 2.5 2.5c1.2119 0 2.2051-0.859 2.4375-2h11.062v-1h-11.062c-0.2329-1.141-1.2261-2-2.438-2zm0 1c0.831 0 1.5 0.669 1.5 1.5s-0.669 1.5-1.5 1.5-1.5-0.669-1.5-1.5 0.669-1.5 1.5-1.5z"/>
+ </g>
+</svg>
