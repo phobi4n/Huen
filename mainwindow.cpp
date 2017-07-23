@@ -57,6 +57,7 @@ void MainWindow::loadPlasmaWallpaper()
     rR = static_cast<int>(wallpaperImage.getRed());
     gR = static_cast<int>(wallpaperImage.getGreen());
     bR = static_cast<int>(wallpaperImage.getBlue());
+    qDebug() << "MAIN" << rR << gR << bR;
 
     holder = pixmap.scaled(labelWidth, labelHeight, Qt::KeepAspectRatio, Qt::SmoothTransformation);
     ui->label->setAlignment(Qt::AlignCenter);

@@ -96,22 +96,19 @@ void ImageRGB::processHistogramPeak(QString currentWallpaper)
 
 void ImageRGB::processResize(QString currentWallpaper)
 {
-    QProcess *magickProcess = new QProcess(this);
-    QString program = "convert";
-    QStringList args;
-    args << currentWallpaper << "-resize" << "1x1" << "\"" << "!" << "-format"
-         << "%[fx:int(255*r+.5)],%[fx:int(255*g+.5)],%[fx:int(255*b+.5)]" << "info:-";
+    red = 0;
+    green = 0;
+    blue = 0;
 
-    magickProcess->start(program, args);
-    magickProcess->waitForFinished();
+    Magick::Image image(currentWallpaper.toLatin1().data());
+    image.resize("1x1");
+    Magick::Color val = image.pixelColor(1,1);
 
-    QString buff(magickProcess->readAllStandardOutput());
-    QStringList holder = buff.split(",");
-
-    red =   holder[0].toInt();
-    green = holder[1].toInt();
-    blue =  holder[2].toInt();
+    red = val.redQuantum() / 65535 * 256;
+    green = val.greenQuantum() / 65535 * 256;
+    blue = val.blueQuantum() / 65535 * 256;
 }
+
 
 
 float ImageRGB::getRed()

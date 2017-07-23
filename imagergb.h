@@ -18,6 +18,7 @@ public:
     void processHistogram(QString);
     void processHistogramPeak(QString);
     void processResize(QString);
+    void processResizeSTL(QString);
     
 private:
     void changeSaturation(float *, float *, float *, float);
