@@ -17,7 +17,7 @@ void ImageRGB::processHistogram(QString currentWallpaper)
     green = 0;
     blue = 0;
     
-    Magick::Image image(currentWallpaper.toLatin1().data());
+    Magick::Image image(currentWallpaper.toStdString());
     unsigned long counter3 = 0;
     
     std::vector<std::pair<Magick::Color, unsigned long>> histogram;
@@ -65,7 +65,7 @@ void ImageRGB::changeSaturation(float *R, float *G, float *B, float change)
 
 void ImageRGB::processHistogramPeak(QString currentWallpaper)
 {
-    Magick::Image image(currentWallpaper.toLatin1().data());
+    Magick::Image image(currentWallpaper.toStdString());
     red = 0;
     green = 0;
     blue = 0;
@@ -100,7 +100,7 @@ void ImageRGB::processResize(QString currentWallpaper)
     green = 0;
     blue = 0;
 
-    Magick::Image image(currentWallpaper.toLatin1().data());
+    Magick::Image image(currentWallpaper.toStdString());
     image.resize("1x1");
     Magick::Color val = image.pixelColor(1,1);
 
