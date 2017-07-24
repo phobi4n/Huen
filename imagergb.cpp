@@ -4,7 +4,7 @@
 #include <QProcess>
 #include "imagergb.h"
 
-#define SATURATION_MULTIPLIER 1.4
+#define SATURATION_MULTIPLIER 1.1
 
 ImageRGB::ImageRGB(QObject *parent)
     :QObject(parent)
@@ -35,8 +35,7 @@ void ImageRGB::processHistogram(QString currentWallpaper)
     float fRed = (float)red;
     float fGreen = (float)green;
     float fBlue = (float)blue;
-
-    ImageRGB::changeSaturation(&fRed, &fGreen, &fBlue, SATURATION_MULTIPLIER);
+    //ImageRGB::changeSaturation(&fRed, &fGreen, &fBlue, SATURATION_MULTIPLIER);
 
     red = fRed / counter3 * 255 / 65535;
     green = fGreen / counter3 * 255 / 65535;
