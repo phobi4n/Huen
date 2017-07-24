@@ -1,13 +1,21 @@
 #include "mainwindow.h"
+#include "oneclick.h"
 #include <QApplication>
 
 int main(int argc, char *argv[])
 {
-    QApplication a(argc, argv);
-    MainWindow w;
-    w.setWindowIcon(QIcon(":/huen-icon.svg"));
-    w.setFixedSize(678,578);
-    w.show();
+    int retVal = 0;
 
-    return a.exec();
+    if (argc > 1) {
+        oneClick q;
+    } else {
+        QApplication a(argc, argv);
+        MainWindow w;
+        w.setWindowIcon(QIcon(":/huen-icon.svg"));
+        w.setFixedSize(678,578);
+        w.show();
+        retVal = a.exec();
+    }
+
+    return retVal;
 }

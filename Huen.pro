@@ -35,14 +35,16 @@ SOURCES += \
         mainwindow.cpp \
         readplasmaconfig.cpp \
         imagergb.cpp \
-        writetheme.cpp
+        writetheme.cpp \
+        oneclick.cpp
 
 HEADERS += \
         mainwindow.h \
         readplasmaconfig.h \
         imagergb.h \
         writetheme.h \
-        template.h
+        template.h \
+    oneclick.h
 
 FORMS += \
         mainwindow.ui
