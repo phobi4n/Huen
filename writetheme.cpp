@@ -80,6 +80,6 @@ void WriteTheme::generate(QString replacement)
     }
 
     system("kwriteconfig5 --file=plasmarc --group=Theme --key=name Default; \
-            sleep 0.5; \
+            sleep 0.4; \
             kwriteconfig5 --file=plasmarc --group=Theme --key=name Huen");
 }
