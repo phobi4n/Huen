@@ -278,9 +278,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.2177201"
-     inkscape:cx="1945.3702"
-     inkscape:cy="565.30863"
+     inkscape:zoom="1.3400692"
+     inkscape:cx="2369.6745"
+     inkscape:cy="623.74794"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -300,7 +300,13 @@
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:measure-start="0,0"
-     inkscape:measure-end="0,0" />
+     inkscape:measure-end="0,0">
+    <sodipodi:guide
+       position="293.80666,209.96427"
+       orientation="0,1"
+       id="guide913"
+       inkscape:locked="false" />
+  </sodipodi:namedview>
   <metadata
      id="metadata5">
     <rdf:RDF>
@@ -319,7 +325,7 @@
      id="layer1"
      transform="translate(422.29296,19.493215)">
     <g
-       transform="matrix(-0.67818918,1.4473275,-1.1727264,-0.83699129,1376.7001,-764.83351)"
+       transform="matrix(-0.67818918,1.4473275,-1.1727264,-0.83699129,1378.8499,-751.21808)"
        id="SecondHand"
        inkscape:transform-center-x="-0.076490913"
        inkscape:transform-center-y="237.61476"
@@ -410,92 +416,44 @@
          r="6.4994531" />
     </g>
     <g
-       id="HourHand">
+       id="g4564"
+       transform="matrix(1,0,0,-1,-11.465626,550.34684)">
       <rect
-         style="opacity:0.01000001;fill:#232629;fill-opacity:0.60392157;stroke:none;stroke-width:1.56835079"
+         style="opacity:0.01000001;fill:#232629;fill-opacity:0.60392157;stroke:none;stroke-width:1.56674445"
          id="rect4673"
-         width="24.341665"
-         height="116.40957"
-         x="54.570164"
-         y="224.93346" />
+         width="24.198763"
+         height="116.85728"
+         x="69.582787"
+         y="199.54634" />
       <rect
          ry="0"
-         y="224.93346"
-         x="61.950443"
+         y="221.06351"
+         x="75.23793"
          height="95.340111"
-         width="9.58111"
+         width="12.888472"
          id="rect4667"
          class="ColorScheme-Text"
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.37452865;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686" />
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.59421396;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686" />
     </g>
     <g
        id="MinuteHand">
       <rect
-         y="226.90858"
-         x="174.6088"
-         height="154.59969"
-         width="27.884821"
+         y="234.23888"
+         x="183.54745"
+         height="138.08658"
+         width="20.062826"
          id="rect4682"
-         style="opacity:0.01000001;fill:#232629;fill-opacity:0.60392157;stroke:none;stroke-width:1.93446982" />
+         style="opacity:0.01000001;fill:#232629;fill-opacity:0.60392157;stroke:none;stroke-width:1.55076337" />
       <rect
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.43235028;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.40467012;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
          id="rect4686"
          class="ColorScheme-Text"
-         width="7.4083333"
-         height="133.89404"
-         x="184.84705"
-         y="226.90858"
-         ry="0" />
+         width="8.4892559"
+         height="112.37308"
+         x="189.33424"
+         y="243.32112"
+         ry="4.244628" />
     </g>
-    <g
-       id="MinuteHandShadow"
-       transform="translate(-322.18487,78.489706)">
-      <rect
-         ry="3.8060157"
-         y="147.58206"
-         x="562.16791"
-         height="107.45412"
-         width="7.7945542"
-         class="ColorScheme-Text"
-         id="rect1627"
-         style="opacity:1;fill:none;fill-opacity:0.1146789;fill-rule:nonzero;stroke:none;stroke-width:1.31618011;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686" />
-      <rect
-         ry="0"
-         y="138.89211"
-         x="558.41357"
-         height="116.14407"
-         width="15.303218"
-         id="rect1638"
-         style="opacity:1;fill:none;fill-opacity:0.07826089;fill-rule:nonzero;stroke:none;stroke-width:0.9404974;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686" />
-    </g>
-    <g
-       id="HourHandShadow"
-       transform="translate(-349.75214,77.585861)">
-      <rect
-         ry="0"
-         y="145.67094"
-         x="472.65317"
-         height="90.384491"
-         width="19.432665"
-         id="rect5326"
-         style="opacity:1;fill:none;fill-opacity:0.1146789;fill-rule:nonzero;stroke:none;stroke-width:1.74104476;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686" />
-      <rect
-         style="opacity:1;fill:none;fill-opacity:0.11009174;fill-rule:nonzero;stroke:none;stroke-width:1.39616084;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686"
-         class="ColorScheme-Text"
-         id="rect5319"
-         width="11.409934"
-         height="82.598381"
-         x="476.45728"
-         y="152.32726"
-         ry="4.6625638" />
-    </g>
-    <circle
-       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.55904615;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       class="ColorScheme-Text"
-       id="HandCenterScrew"
-       cx="65.786392"
-       cy="148.74825"
-       r="6.3499999" />
     <g
        id="ClockFace">
       <rect
@@ -588,6 +546,43 @@
          id="INNER"
          class="ColorScheme-Background"
          style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:3.06932449;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    </g>
+    <g
+       id="HourHand">
+      <rect
+         style="opacity:0.01000001;fill:#232629;fill-opacity:0.60392157;stroke:none;stroke-width:1.55076337"
+         id="rect4558"
+         width="20.062826"
+         height="138.08658"
+         x="129.25145"
+         y="234.43633" />
+      <rect
+         ry="5.0343885"
+         y="245.12196"
+         x="134.24849"
+         height="72.490196"
+         width="10.068777"
+         class="ColorScheme-Text"
+         id="rect4560"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.22867322;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.99215686" />
+    </g>
+    <g
+       id="HandCenterScrew"
+       transform="matrix(1.1475591,0,0,1.1475591,-35.311405,-33.701097)">
+      <circle
+         r="8.0282402"
+         cy="236.41867"
+         cx="247.33163"
+         id="circle4598"
+         class="ColorScheme-Text"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.97108614;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <circle
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.32359791;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         class="ColorScheme-Background"
+         id="INNERSCREW"
+         cx="247.33163"
+         cy="236.41867"
+         r="5.3910189" />
     </g>
   </g>
 </svg>
