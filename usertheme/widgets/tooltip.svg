@@ -31,7 +31,7 @@
      showgrid="false"
      inkscape:pagecheckerboard="true"
      inkscape:zoom="11.171317"
-     inkscape:cx="78.208687"
+     inkscape:cx="62.230267"
      inkscape:cy="89.828264"
      inkscape:window-x="124"
      inkscape:window-y="210"
@@ -39,6 +39,54 @@
      inkscape:current-layer="svg3642" />
   <defs
      id="defs3644">
+      <style
+       type="text/css"
+       id="current-color-scheme">
+      .ColorScheme-Text {
+        
+        stop-
+      }
+      .ColorScheme-Background {
+        color:currentColor;
+        stop-color:currentColor;
+      }
+      .ColorScheme-Highlight {
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ViewText {
+        
+        stop-
+      }
+      .ColorScheme-ViewBackground {
+        color:#fcfcfc;
+        stop-color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        
+        stop-
+      }
+      .ColorScheme-ButtonBackground {
+        color:currentColor;
+        stop-color:currentColor;
+      }
+      .ColorScheme-ButtonHover {
+        color:#93cee9;
+        stop-color:#93cee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+        stop-color:#3daee9;
+      }
+      </style>
     <linearGradient
        id="linearGradient4465">
       <stop
@@ -150,10 +198,12 @@
      height="16"
      width="16"
      id="center"
-     style="fill:#040a0e;fill-opacity:1;stroke:none;stroke-width:0.32000008" />
+     class="ColorScheme-ViewBackground"
+     style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.32000008" />
   <rect
-     style="fill:#040a0e;fill-opacity:1;stroke:none;stroke-width:0.16000004"
+     style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.16000004"
      id="top"
+      class="ColorScheme-ViewBackground"
      width="16"
      height="4"
      x="69.76178"
@@ -164,11 +214,13 @@
      height="4"
      width="16"
      id="bottom"
-     style="fill:#040a0e;fill-opacity:1;stroke:none;stroke-width:0.16000004" />
+      class="ColorScheme-ViewBackground"
+     style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.16000004" />
   <rect
      transform="rotate(90)"
-     style="fill:#040a0e;fill-opacity:1;stroke:none;stroke-width:0.16000004"
+     style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.16000004"
      id="left"
+      class="ColorScheme-ViewBackground"
      width="16"
      height="4"
      x="117.1339"
@@ -179,12 +231,14 @@
      height="4"
      width="16"
      id="right"
-     style="fill:#040a0e;fill-opacity:1;stroke:none;stroke-width:0.16000004"
+      class="ColorScheme-ViewBackground"
+     style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.16000004"
      transform="rotate(90)" />
   <rect
      transform="rotate(90)"
-     style="fill:#040a0e;fill-opacity:1;stroke:none;stroke-width:0.08000002"
+     style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.08000002"
      id="topright"
+      class="ColorScheme-ViewBackground"
      width="4"
      height="4"
      x="113.1339"
@@ -195,12 +249,14 @@
      height="4"
      width="4"
      id="topleft"
-     style="fill:#040a0e;fill-opacity:1;stroke:none;stroke-width:0.08000002"
+      class="ColorScheme-ViewBackground"
+     style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.08000002"
      transform="rotate(90)" />
   <rect
      transform="rotate(90)"
-     style="fill:#040a0e;fill-opacity:1;stroke:none;stroke-width:0.08000002"
+     style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.08000002"
      id="bottomleft"
+      class="ColorScheme-ViewBackground"
      width="4"
      height="4"
      x="137.1339"
@@ -211,6 +267,7 @@
      height="4"
      width="4"
      id="bottomright"
-     style="fill:#040a0e;fill-opacity:1;stroke:none;stroke-width:0.08000002"
+      class="ColorScheme-ViewBackground"
+     style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.08000002"
      transform="rotate(90)" />
 </svg>
