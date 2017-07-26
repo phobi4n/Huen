@@ -1,15 +1,13 @@
 #ifndef IMAGERGB_H
 #define IMAGERGB_H
 
-#include <QObject>
 #include <QString>
 
 
-class ImageRGB : public QObject
+class ImageRGB
 {
-    Q_OBJECT
 public:
-    explicit ImageRGB(QObject *parent = 0);
+    explicit ImageRGB();
 
     float getRed(void);
     float getGreen(void);

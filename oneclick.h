@@ -1,6 +1,7 @@
 #ifndef ONECLICK_H
 #define ONECLICK_H
 
+#include <QString>
 
 class oneClick
 {

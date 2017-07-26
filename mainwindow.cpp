@@ -57,7 +57,6 @@ void MainWindow::loadPlasmaWallpaper()
     rR = static_cast<int>(wallpaperImage.getRed());
     gR = static_cast<int>(wallpaperImage.getGreen());
     bR = static_cast<int>(wallpaperImage.getBlue());
-    qDebug() << "MAIN" << rR << gR << bR;
 
     holder = pixmap.scaled(labelWidth, labelHeight, Qt::KeepAspectRatio, Qt::SmoothTransformation);
     ui->label->setAlignment(Qt::AlignCenter);
@@ -82,6 +81,7 @@ bool MainWindow::darkText(int r, int g, int b)
         max = (max >= b) ? max : b;
 
         int lightness = ((min + max) / 2);
+        qDebug() << "Lightness" << lightness;
         return (lightness > 168) ? true : false;
 }
 
@@ -96,7 +96,7 @@ void MainWindow::drawPreview(QPixmap preview, int r, int g, int b, bool d)
     const QRect panel = QRect(0, preview.height() - panelHeight, preview.width(), panelHeight);
     paint.fillRect(panel, QColor(r,g,b,255));
 
-    QString tformat = "HH:mm   ";
+    QString tformat = "HH:mm a   ";
     QDateTime now = QDateTime::currentDateTime();
     QString showTime = now.toString(tformat);
 
@@ -106,6 +106,7 @@ void MainWindow::drawPreview(QPixmap preview, int r, int g, int b, bool d)
         paint.setPen(QColor(252,252,252,255));
 
     paint.drawText(panel, Qt::AlignRight, showTime);
+    paint.drawText(panel, Qt::AlignLeft, "  K");
     ui->label->setPixmap(preview);
 }
 

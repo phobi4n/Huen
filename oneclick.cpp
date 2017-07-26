@@ -4,6 +4,10 @@
 #include "mainwindow.h"
 #include "writetheme.h"
 #include <QDebug>
+#include <QString>
+
+
+
 
 oneClick::oneClick()
 {
@@ -48,6 +52,9 @@ oneClick::oneClick()
     exit(0);
 }
 
+
+
+
 int oneClick::getSaturation(int r, int g, int b)
 {
     int min = (r <= g) ? r : g;
@@ -82,5 +89,6 @@ bool oneClick::darkText(int r, int g, int b)
         max = (max >= b) ? max : b;
 
         int lightness = ((min + max) / 2);
+        qDebug() << "Lightness" << lightness;
         return (lightness > 168) ? true : false;
 }
