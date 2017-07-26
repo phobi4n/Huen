@@ -17,13 +17,9 @@ public:
 
 private slots:
     void on_radioAverage_clicked();
-
     void on_radioPeak_clicked();
-
     void on_radioResize_clicked();
-
     void on_pushReload_clicked();
-
     void on_pushApply_clicked();
 
 private:
@@ -48,8 +44,7 @@ private:
     int labelWidth;
     int labelHeight;
 
-    void drawPreview(QPixmap, int, int, int, bool);
-    bool darkText(int, int, int);
+    void drawPreview(QPixmap, int, int, int);
     void loadPlasmaWallpaper(void);
 };
 

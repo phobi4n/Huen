@@ -3,7 +3,8 @@
 #include "readplasmaconfig.h"
 #include "imagergb.h"
 #include "writetheme.h"
-#include <QDebug>
+#include "colourops.h"
+#include "defs.h"
 #include <QString>
 #include <QPainter>
 #include <QDateTime>
@@ -69,24 +70,16 @@ void MainWindow::loadPlasmaWallpaper()
     bb = bA;
 
     ui->radioAverage->setChecked(true);
-    drawPreview(holder, rr, gg, bb, 0);
+    drawPreview(holder, rr, gg, bb);
 }
 
-bool MainWindow::darkText(int r, int g, int b)
+void MainWindow::drawPreview(QPixmap preview, int r, int g, int b)
 {
-    int min = (r <= g) ? r : g;
-        min = (min <= b) ? min : b;
+    bool d = false;
 
-        int max = (r >= g) ? r : g;
-        max = (max >= b) ? max : b;
+    if (luminance(rr, gg, bb) > DARK_TEXT)
+            d = true;
 
-        int lightness = ((min + max) / 2);
-        qDebug() << "Lightness" << lightness;
-        return (lightness > 168) ? true : false;
-}
-
-void MainWindow::drawPreview(QPixmap preview, int r, int g, int b, bool d)
-{
     QPainter paint(&preview);
     QFont font = paint.font();
     font.setBold(true);
@@ -121,8 +114,7 @@ void MainWindow::on_radioAverage_clicked()
     gg = gA;
     bb = bA;
 
-    bool d = MainWindow::darkText(rr, gg, bb);
-    drawPreview(holder, rr, gg, bb, d);
+    drawPreview(holder, rr, gg, bb);
 }
 
 void MainWindow::on_radioPeak_clicked()
@@ -131,8 +123,7 @@ void MainWindow::on_radioPeak_clicked()
     gg = gP;
     bb = bP;
 
-    bool d = MainWindow::darkText(rr, gg, bb);
-    drawPreview(holder, rr, gg, bb, d);
+    drawPreview(holder, rr, gg, bb);
 }
 
 void MainWindow::on_radioResize_clicked()
@@ -141,8 +132,7 @@ void MainWindow::on_radioResize_clicked()
     gg = gR;
     bb = bR;
 
-    bool d = MainWindow::darkText(rr, gg, bb);
-    drawPreview(holder, rr, gg, bb, d);
+    drawPreview(holder, rr, gg, bb);
 }
 
 void MainWindow::on_pushReload_clicked()

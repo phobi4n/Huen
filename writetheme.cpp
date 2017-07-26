@@ -21,10 +21,7 @@ WriteTheme::WriteTheme()
     darkText = false;
 }
 
-void WriteTheme::setDarkText()
-{
-    darkText = true;
-}
+
 
 
 void WriteTheme::generate(int rr, int gg, int bb)

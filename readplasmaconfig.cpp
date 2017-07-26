@@ -1,7 +1,7 @@
 #include <QFile>
 #include <QString>
 #include <QStandardPaths>
-#include <QDebug>
+#include <QTextStream>
 #include "readplasmaconfig.h"
 
 ReadPlasmaConfig::ReadPlasmaConfig()
@@ -18,8 +18,7 @@ QString ReadPlasmaConfig::getWallpaper()
 
     QFile file(localConfig);
     if (!file.open(QIODevice::ReadOnly | QIODevice::Text)) {
-        qDebug() << "Unable to open local Plasma config.";
-        exit(1);
+        qFatal("Unable to open local Plasma config.");
     }
 
     QTextStream in(&file);
@@ -41,10 +40,8 @@ QString ReadPlasmaConfig::getWallpaper()
     }
 
     if (in.atEnd()) {
-        qDebug() << "Reached end of Plasma config without finding what I wanted.";
-        exit(1);
+        qFatal("Reached end of Plasma config without finding what I wanted.");
     }
 
     return gotcha.mid(13);
-    exit(0);
 }

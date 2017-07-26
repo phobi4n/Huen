@@ -10,7 +10,6 @@ class WriteTheme
 public:
     WriteTheme();
     void generate(int, int, int);
-    void setDarkText();
     
 private:
     bool darkText;

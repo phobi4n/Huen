@@ -43,21 +43,7 @@ void ImageRGB::processHistogram(QString currentWallpaper)
     blue = (red > 255) ? 255 : blue;
 }
 
-void ImageRGB::changeSaturation(float *R, float *G, float *B, float change)
-{
-    float Pr = 0.299;
-    float Pg = 0.587;
-    float Pb = 0.114;
 
-    float  P=sqrt(
-                 (*R)*(*R)*Pr+
-                 (*G)*(*G)*Pg+
-                 (*B)*(*B)*Pb ) ;
-
-    *R=P+((*R)-P)*change;
-    *G=P+((*G)-P)*change;
-    *B=P+((*B)-P)*change;
-}
 
 void ImageRGB::processHistogramPeak(QString currentWallpaper)
 {
