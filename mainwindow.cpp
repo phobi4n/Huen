@@ -152,16 +152,6 @@ void MainWindow::on_pushReload_clicked()
 
 void MainWindow::on_pushApply_clicked()
 {
-    qDebug() << rr << gg << bb;
     WriteTheme newTheme;
-
-    if (MainWindow::darkText(rr, gg, bb))
-            newTheme.setDarkText();
-
-    QString baseColor =
-            QString::number(rr) + ',' +
-            QString::number(gg) + ',' +
-            QString::number(bb);
-
-    newTheme.generate(baseColor);
+    newTheme.generate(rr, gg, bb);
 }

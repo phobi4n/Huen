@@ -10,6 +10,10 @@
 #include <QDebug>
 #include "writetheme.h"
 #include "template.h"
+#include "colourops.h"
+#include "defs.h"
+
+extern int luminance(int, int, int);
 
 
 WriteTheme::WriteTheme()
@@ -23,8 +27,16 @@ void WriteTheme::setDarkText()
 }
 
 
-void WriteTheme::generate(QString replacement)
+void WriteTheme::generate(int rr, int gg, int bb)
 {
+    if (luminance(rr, gg, bb) > DARK_TEXT)
+        darkText = true;
+
+    QString replacement =
+            QString::number(rr) + ',' +
+            QString::number(gg) + ',' +
+            QString::number(bb);
+
     QString plasmaTemplate = QString::fromStdString(pt);
     QString textColour = "252,252,252";
     QString dialogColour = "10,10,10";

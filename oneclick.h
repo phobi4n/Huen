@@ -1,8 +1,6 @@
 #ifndef ONECLICK_H
 #define ONECLICK_H
 
-#include <QString>
-
 class oneClick
 {
 public:
@@ -18,9 +16,6 @@ private:
     int rr;
     int gg;
     int bb;
-
-    int getSaturation(int, int, int);
-    bool darkText(int, int, int);
 };
 
 #endif // ONECLICK_H

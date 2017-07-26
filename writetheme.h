@@ -9,7 +9,7 @@ class WriteTheme
 {
 public:
     WriteTheme();
-    void generate(QString);
+    void generate(int, int, int);
     void setDarkText();
     
 private:

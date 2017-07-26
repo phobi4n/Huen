@@ -36,7 +36,8 @@ SOURCES += \
         readplasmaconfig.cpp \
         imagergb.cpp \
         writetheme.cpp \
-        oneclick.cpp
+        oneclick.cpp \
+    colourops.cpp
 
 HEADERS += \
         mainwindow.h \
@@ -44,7 +45,9 @@ HEADERS += \
         imagergb.h \
         writetheme.h \
         template.h \
-    oneclick.h
+    oneclick.h \
+    colourops.h \
+    defs.h
 
 FORMS += \
         mainwindow.ui
