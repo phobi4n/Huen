@@ -13,4 +13,4 @@ sudo ./install.sh
 Two  menu entries should appear under Settings. __N.B.__ If updating from previous version, you must delete ~/.local/share/plasma/desktoptheme/Huen to allow the new theme to be copied over.
 
 ## Customisation
-Edit "defs.h" so set your own text and background colours.  
+Edit "defs.h" to set your own text and background colours.  
