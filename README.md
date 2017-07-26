@@ -11,3 +11,6 @@ sudo ./install.sh
 ```
 
 Two  menu entries should appear under Settings.  
+
+## Customisation
+Edit "defs.h" so set your own text and background colours.  
