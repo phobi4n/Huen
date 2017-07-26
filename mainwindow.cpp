@@ -77,7 +77,7 @@ void MainWindow::drawPreview(QPixmap preview, int r, int g, int b)
 {
     bool d = false;
 
-    if (luminance(rr, gg, bb) > DARK_TEXT)
+    if (luminance(rr, gg, bb) > DARK_THRESHOLD)
             d = true;
 
     QPainter paint(&preview);

@@ -7,7 +7,6 @@
 #include <QTextStream>
 #include <QStandardPaths>
 #include <QDir>
-#include <QDebug>
 #include "writetheme.h"
 #include "template.h"
 #include "colourops.h"
@@ -26,7 +25,7 @@ WriteTheme::WriteTheme()
 
 void WriteTheme::generate(int rr, int gg, int bb)
 {
-    if (luminance(rr, gg, bb) > DARK_TEXT)
+    if (luminance(rr, gg, bb) > DARK_THRESHOLD)
         darkText = true;
 
     QString replacement =
@@ -35,13 +34,13 @@ void WriteTheme::generate(int rr, int gg, int bb)
             QString::number(bb);
 
     QString plasmaTemplate = QString::fromStdString(pt);
-    QString textColour = "252,252,252";
-    QString dialogColour = "10,10,10";
-    QString buttonText = "252,252,252";
+    QString textColour = NORMAL_TEXT;
+    QString dialogColour = NORMAL_DIALOG;
+    QString buttonText = NORMAL_TEXT;
 
     if (darkText) {
-        textColour = "34,34,34";
-        dialogColour = "228,228,228";
+        textColour = DARK_TEXT;
+        dialogColour = LIGHT_DIALOG;
     }
 
     plasmaTemplate.replace("xxx,xxx,xxx", replacement);
@@ -57,23 +56,19 @@ void WriteTheme::generate(int rr, int gg, int bb)
     QDir dir(destDir);
 
     if (!dir.exists()) {
-        qDebug() << "Making theme directory";
         if (!dir.mkpath(destDir)) {
-            qDebug() << "Unable to create local theme directory.";
-            exit(EXIT_FAILURE);
+            qFatal("Unable to create local theme directory.");
         }
 
         QString sourceDir = "/usr/share/huen/* ";
         QString command = "cp -r ";
         command += sourceDir;
         command += destDir;
-        qDebug() << command;
 
         int result = system(command.toStdString().c_str());
 
         if (result != 0) {
-                qDebug() << "Couldn't create local copy of theme.";
-                exit(EXIT_FAILURE);
+                qFatal("Couldn't create local copy of theme.");
             }
     }
 
@@ -84,8 +79,7 @@ void WriteTheme::generate(int rr, int gg, int bb)
         outFileStream << plasmaTemplate;
         outFile.close();
     } else {
-        qDebug() << "Unable to write colors.";
-        exit(EXIT_FAILURE);
+        qFatal("Unable to write colors.");
     }
 
     system("kwriteconfig5 --file=plasmarc --group=Theme --key=name Default; \
