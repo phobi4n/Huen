@@ -27,7 +27,7 @@
      fit-margin-top="10"
      inkscape:current-layer="svg2"
      inkscape:cy="22.870319"
-     inkscape:cx="66.851215"
+     inkscape:cx="48.743821"
      inkscape:zoom="9.9702061"
      showgrid="false"
      id="namedview99"
@@ -46,8 +46,8 @@
   <defs
      id="defs4">
     <style
-       id="current-color-scheme"
-       type="text/css">
+       type="text/css"
+       id="current-color-scheme">
       .ColorScheme-Text {
         color:#31363b;
         stop-color:#31363b;
@@ -94,92 +94,92 @@
       }
       </style>
     <linearGradient
-       id="linearGradient5558"
-       osb:paint="solid">
+       osb:paint="solid"
+       id="linearGradient5558">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         id="stop5556"
          offset="0"
-         id="stop5556" />
+         style="stop-color:#000000;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       id="linearGradient5808"
-       osb:paint="solid">
+       osb:paint="solid"
+       id="linearGradient5808">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         id="stop5806"
          offset="0"
-         id="stop5806" />
+         style="stop-color:#000000;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       id="linearGradient5802"
-       osb:paint="solid">
+       osb:paint="solid"
+       id="linearGradient5802">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         id="stop5800"
          offset="0"
-         id="stop5800" />
+         style="stop-color:#000000;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       id="linearGradient5796"
-       osb:paint="solid">
+       osb:paint="solid"
+       id="linearGradient5796">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         id="stop5794"
          offset="0"
-         id="stop5794" />
+         style="stop-color:#000000;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       id="linearGradient5790"
-       osb:paint="solid">
+       osb:paint="solid"
+       id="linearGradient5790">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         id="stop5788"
          offset="0"
-         id="stop5788" />
+         style="stop-color:#000000;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       id="linearGradient5784"
-       osb:paint="solid">
+       osb:paint="solid"
+       id="linearGradient5784">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         id="stop5782"
          offset="0"
-         id="stop5782" />
+         style="stop-color:#000000;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       id="linearGradient5778"
-       osb:paint="solid">
+       osb:paint="solid"
+       id="linearGradient5778">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         id="stop5776"
          offset="0"
-         id="stop5776" />
+         style="stop-color:#000000;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       id="linearGradient5772"
-       osb:paint="solid">
+       osb:paint="solid"
+       id="linearGradient5772">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         id="stop5770"
          offset="0"
-         id="stop5770" />
+         style="stop-color:#000000;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       id="linearGradient5766"
-       osb:paint="solid">
+       osb:paint="solid"
+       id="linearGradient5766">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         id="stop5764"
          offset="0"
-         id="stop5764" />
+         style="stop-color:#000000;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       id="activetab-4"
-       osb:paint="solid">
+       osb:paint="solid"
+       id="activetab-4">
       <stop
-         style="stop-color:#fafafa;stop-opacity:1;"
+         id="stop5758"
          offset="0"
-         id="stop5758" />
+         style="stop-color:#fafafa;stop-opacity:1;" />
     </linearGradient>
     <style
-       id="style24"
-       type="text/css">.ColorScheme-Text {
+       type="text/css"
+       id="style24">.ColorScheme-Text {
         color:#31363b;
       }
       .ColorScheme-Background{
-        color:#eff0f1;
+        
       }
       .ColorScheme-ViewText {
         color:#31363b;
@@ -197,7 +197,7 @@
         color:#31363b;
       }
       .ColorScheme-ButtonBackground{
-        color:#eff0f1;
+        
       }
       .ColorScheme-ButtonHover {
         color:#3daee9;
@@ -219,191 +219,165 @@
     </rdf:RDF>
   </metadata>
   <rect
-     style="fill:none;fill-opacity:1;stroke-width:0.99999988"
-     height="5"
-     width="5"
+     id="south-active-tab-topleft"
+     y="-15"
+     transform="scale(1,-1)"
      x="10"
-     transform="scale(1,-1)"
-     y="-15"
-     id="south-active-tab-topleft" />
-  <rect
-     style="fill:none;fill-opacity:1;stroke-width:0.99999988"
-     height="5"
      width="5"
-     x="30"
-     transform="scale(1,-1)"
-     y="-15"
-     id="south-active-tab-topright" />
+     height="5"
+     class="ColorScheme-Background"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.99999988" />
   <rect
-     style="fill:none;fill-opacity:1;stroke-width:1.00000012"
+     id="south-active-tab-topright"
+     y="-15"
+     transform="scale(1,-1)"
+     x="30"
+     width="5"
+     class="ColorScheme-Background"
+     height="5"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.99999988" />
+  <rect
+     id="south-active-tab-top"
+     class="ColorScheme-Background"
+     y="-15"
+     transform="scale(1,-1)"
+     x="15"
+     width="15"
+     height="5"
+     style="fill:currentColor;fill-opacity:1;stroke-width:1.00000012" />
+  <rect
+     id="south-active-tab-left"
+     class="ColorScheme-Background"
+     y="-30.000008"
+     transform="scale(1,-1)"
+     x="10"
+     width="5"
+     height="15"
+     style="fill:currentColor;fill-opacity:1;stroke-width:1.00000012" />
+  <rect
+     id="south-active-tab-right"
+     class="ColorScheme-Background"
+     y="-30.000008"
+     transform="scale(1,-1)"
+     x="30"
+     width="5"
+     height="15"
+     style="fill:currentColor;fill-opacity:1;stroke-width:1.00000012" />
+  <rect
+     id="south-active-tab-center"
+     class="ColorScheme-Background"
+     y="-30.000008"
+     transform="scale(1,-1)"
+     x="15"
+     width="15"
+     height="15"
+     style="fill:currentColor;fill-opacity:1" />
+  <rect
+     style="fill:currentColor;fill-opacity:1;stroke-width:1.00000012"
+     class="ColorScheme-Background"
      height="5"
      width="15"
      x="15"
      transform="scale(1,-1)"
-     y="-15"
-     id="south-active-tab-top" />
+     y="-35.000008"
+     id="south-active-tab-bottom" />
   <rect
-     style="fill:none;fill-opacity:1;stroke-width:1.00000012"
-     height="15"
-     width="5"
-     x="10"
-     transform="scale(1,-1)"
-     y="-30.000008"
-     id="south-active-tab-left" />
-  <rect
-     style="fill:none;fill-opacity:1;stroke-width:1.00000012"
-     height="15"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.99999988"
+     class="ColorScheme-Background"
+     height="5"
      width="5"
      x="30"
      transform="scale(1,-1)"
-     y="-30.000008"
-     id="south-active-tab-right" />
+     y="-35.000008"
+     id="south-active-tab-bottomright" />
   <rect
-     style="fill:none;fill-opacity:1"
-     height="15"
-     width="15"
-     x="15"
-     transform="scale(1,-1)"
-     y="-30.000008"
-     id="south-active-tab-center" />
-  <g
-     id="south-active-tab-bottom"
-     transform="matrix(1,0,0,0.19999997,-28.612377,11.538831)"
-     style="fill:currentColor;fill-opacity:1">
-    <rect
-       y="102.3059"
-       x="43.612377"
-       height="5"
-       width="15"
-       id="rect4334"
-        class="ColorScheme-Text"
-       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.47801113;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.44984102;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-        class="ColorScheme-Text"
-       id="rect4325"
-       width="15"
-       height="1"
-       x="43.612377"
-       y="106.3059" />
-    <rect
-       y="105.3059"
-       x="43.612377"
-       height="1"
-       width="15"
-       id="rect4327"
-        class="ColorScheme-Text"
-       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.44984102;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-  </g>
-  <rect
-     id="south-active-tab-bottomright"
-     y="-33.000008"
-     transform="scale(1,-1)"
-     x="30"
-     width="5"
-     height="0.99999982"
-      class="ColorScheme-Text"
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.44721353" />
-  <rect
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.44721353"
-      class="ColorScheme-Text"
-     height="0.99999982"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.99999988"
+     class="ColorScheme-Background"
+     height="5"
      width="5"
      x="10"
      transform="scale(1,-1)"
-     y="-33.000008"
+     y="-35.000008"
      id="south-active-tab-bottomleft" />
   <rect
-     id="north-active-tab-topleft"
-     y="-15.74064"
-     transform="scale(1,-1)"
-     x="72.460579"
-     width="5"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.99999988"
+     class="ColorScheme-Background"
      height="5"
-     style="fill:none;fill-opacity:1;stroke-width:0.99999988" />
-  <rect
-     id="north-active-tab-topright"
-     y="-15.74064"
-     transform="scale(1,-1)"
-     x="92.460579"
      width="5"
-     height="5"
-     style="fill:none;fill-opacity:1;stroke-width:0.99999988" />
-  <rect
-     id="north-active-tab-top"
-     y="-15.74064"
+     x="67.772125"
      transform="scale(1,-1)"
-     x="77.460579"
+     y="-15.300897"
+     id="north-active-tab-topleft" />
+  <rect
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.99999988"
+     height="5"
+     class="ColorScheme-Background"
+     width="5"
+     x="87.772125"
+     transform="scale(1,-1)"
+     y="-15.300897"
+     id="north-active-tab-topright" />
+  <rect
+     style="fill:currentColor;fill-opacity:1;stroke-width:1.00000012"
+     height="5"
      width="15"
-     height="5"
-     style="fill:none;fill-opacity:1;stroke-width:1.00000012" />
-  <rect
-     id="north-active-tab-left"
-     y="-30.740646"
+     x="72.772125"
      transform="scale(1,-1)"
-     x="72.460579"
+     y="-15.300897"
+     class="ColorScheme-Background"
+     id="north-active-tab-top" />
+  <rect
+     style="fill:currentColor;fill-opacity:1;stroke-width:1.00000012"
+     height="15"
      width="5"
-     height="15"
-     style="fill:none;fill-opacity:1;stroke-width:1.00000012" />
-  <rect
-     id="north-active-tab-right"
-     y="-30.740646"
+     x="67.772125"
      transform="scale(1,-1)"
-     x="92.460579"
+     y="-30.300903"
+     class="ColorScheme-Background"
+     id="north-active-tab-left" />
+  <rect
+     style="fill:currentColor;fill-opacity:1;stroke-width:1.00000012"
+     height="15"
      width="5"
-     height="15"
-     style="fill:none;fill-opacity:1;stroke-width:1.00000012" />
-  <rect
-     id="north-active-tab-center"
-     y="-30.740646"
+     x="87.772125"
      transform="scale(1,-1)"
-     x="77.460579"
-     width="15"
-     height="15"
-     style="fill:none;fill-opacity:1" />
-  <g
+     y="-30.300903"
+     class="ColorScheme-Background"
+     id="north-active-tab-right" />
+  <rect
      style="fill:currentColor;fill-opacity:1"
-     transform="matrix(1,0,0,0.2,33.848202,12.279466)"
-     id="north-active-tab-bottom">
-    <rect
-       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:5.47801113;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-        class="ColorScheme-Text"
-       id="rect4523"
-       width="15"
-       height="5"
-       x="43.612377"
-       y="102.3059" />
-    <rect
-       y="106.3059"
-       x="43.612377"
-       height="1"
-       width="15"
-       id="rect4525"
-        class="ColorScheme-Text"
-       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.44984102;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <rect
-       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.44984102;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-        class="ColorScheme-Text"
-       id="rect4527"
-       width="15"
-       height="1"
-       x="43.612377"
-       y="105.3059" />
-  </g>
-  <rect
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.44721353"
-     height="1"
-     width="5"
-     x="92.460579"
+     height="15"
+     width="15"
+     x="72.772125"
      transform="scale(1,-1)"
-     y="-33.740646"
-     id="north-active-tab-bottomright" />
+     y="-30.300903"
+     class="ColorScheme-Background"
+     id="north-active-tab-center" />
+  <rect
+     id="north-active-tab-bottom"
+     y="-35.300903"
+     transform="scale(1,-1)"
+     x="72.772125"
+     width="15"
+     height="5"
+     class="ColorScheme-Background"
+     style="fill:currentColor;fill-opacity:1;stroke-width:1.00000012" />
+  <rect
+     id="north-active-tab-bottomright"
+     y="-35.300903"
+     transform="scale(1,-1)"
+     x="87.772125"
+     width="5"
+     height="5"
+     class="ColorScheme-Background"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.99999988" />
   <rect
      id="north-active-tab-bottomleft"
-     y="-33.740646"
+     y="-35.300903"
      transform="scale(1,-1)"
-     x="72.460579"
+     x="67.772125"
      width="5"
-     height="1"
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.44721353" />
+     height="5"
+     class="ColorScheme-Background"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.99999988" />
 </svg>
