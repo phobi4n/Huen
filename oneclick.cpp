@@ -15,14 +15,14 @@ oneClick::oneClick()
 
     ImageRGB wallpaperImage;
     wallpaperImage.processResize(wall);
-    rR = static_cast<int>(wallpaperImage.getRed());
-    gR = static_cast<int>(wallpaperImage.getGreen());
-    bR = static_cast<int>(wallpaperImage.getBlue());
+    rR = wallpaperImage.getRed();
+    gR = wallpaperImage.getGreen();
+    bR = wallpaperImage.getBlue();
 
     wallpaperImage.processHistogramPeak(wall);
-    rP = static_cast<int>(wallpaperImage.getRed());
-    gP = static_cast<int>(wallpaperImage.getGreen());
-    bP = static_cast<int>(wallpaperImage.getBlue());
+    rP = wallpaperImage.getRed();
+    gP = wallpaperImage.getGreen();
+    bP = wallpaperImage.getBlue();
 
     int satPeak = saturation(rP, gP, bP);
     int satResize = saturation(rR, gR,bR);

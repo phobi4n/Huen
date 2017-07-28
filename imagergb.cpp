@@ -84,15 +84,15 @@ void ImageRGB::processResize(QString currentWallpaper)
 
 int ImageRGB::getRed()
 {
-    return red;
+    return static_cast<int>(red);
 }
 
 int ImageRGB::getGreen()
 {
-    return green;
+    return static_cast<int>(green);
 }
 
 int ImageRGB::getBlue()
 {
-    return blue;
+    return static_cast<int>(blue);
 }

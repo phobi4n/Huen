@@ -28,18 +28,18 @@ void workerAverage(QString *wall, int *r, int *g, int *b)
 {
     ImageRGB wallpaperImage;
     wallpaperImage.processHistogram(*wall);
-    *r = static_cast<int>(wallpaperImage.getRed());
-    *g = static_cast<int>(wallpaperImage.getGreen());
-    *b = static_cast<int>(wallpaperImage.getBlue());
+    *r = wallpaperImage.getRed();
+    *g = wallpaperImage.getGreen();
+    *b = wallpaperImage.getBlue();
 }
 
 void workerPeak(QString *wall, int *r, int *g, int *b)
 {
     ImageRGB wallpaperImage;
     wallpaperImage.processHistogramPeak(*wall);
-    *r = static_cast<int>(wallpaperImage.getRed());
-    *g = static_cast<int>(wallpaperImage.getGreen());
-    *b = static_cast<int>(wallpaperImage.getBlue());
+    *r = wallpaperImage.getRed();
+    *g = wallpaperImage.getGreen();
+    *b = wallpaperImage.getBlue();
 }
 
 
@@ -55,9 +55,9 @@ void MainWindow::loadPlasmaWallpaper()
 
     ImageRGB wallpaperImage;
     wallpaperImage.processResize(wall);
-    rR = static_cast<int>(wallpaperImage.getRed());
-    gR = static_cast<int>(wallpaperImage.getGreen());
-    bR = static_cast<int>(wallpaperImage.getBlue());
+    rR = wallpaperImage.getRed();
+    gR = wallpaperImage.getGreen();
+    bR = wallpaperImage.getBlue();
 
     holder = pixmap.scaled(labelWidth, labelHeight, Qt::KeepAspectRatio, Qt::SmoothTransformation);
     ui->label->setAlignment(Qt::AlignCenter);
