@@ -16,31 +16,23 @@ void ImageRGB::processHistogram(QString currentWallpaper)
     blue = 0;
     
     Magick::Image image(currentWallpaper.toStdString());
-    unsigned long counter3 = 0;
+    long counter3 = 0;
     
-    std::vector<std::pair<Magick::Color, unsigned long>> histogram;
+    std::vector<std::pair<Magick::Color, long>> histogram;
     Magick::colorHistogram(&histogram, image);
-    std::vector<std::pair<Magick::Color, unsigned long>>::const_iterator p = histogram.begin();
+    std::vector<std::pair<Magick::Color, long>>::const_iterator p = histogram.begin();
     
     while (p != histogram.end()) {
-        red = red + static_cast < unsigned long >(p->first.redQuantum());
-        green = green + static_cast < unsigned long >(p->first.greenQuantum());
-        blue = blue + static_cast < unsigned long >(p->first.blueQuantum());
+        red = red + static_cast<long>(p->first.redQuantum());
+        green = green + static_cast<long>(p->first.greenQuantum());
+        blue = blue + static_cast <long>(p->first.blueQuantum());
         ++p;
         ++counter3;
     }
 
-    float fRed = (float)red;
-    float fGreen = (float)green;
-    float fBlue = (float)blue;
-
-    red = fRed / counter3 * 255 / 65535;
-    green = fGreen / counter3 * 255 / 65535;
-    blue = fBlue / counter3 * 255 / 65535;
-
-    red = (red > 255) ? 255 : red;
-    green = (red > 255) ? 255 : green;
-    blue = (red > 255) ? 255 : blue;
+    red = red / counter3 * 255 / 65535;
+    green = green / counter3 * 255 / 65535;
+    blue = blue / counter3 * 255 / 65535;
 }
 
 
@@ -51,59 +43,56 @@ void ImageRGB::processHistogramPeak(QString currentWallpaper)
     red = 0;
     green = 0;
     blue = 0;
-    unsigned long tmp = 0;
-    unsigned long counter = 0;
+    long tmp = 0;
+    long counter = 0;
     
-    std::vector<std::pair<Magick::Color,unsigned long>> histogram;
+    std::vector<std::pair<Magick::Color, long>> histogram;
     Magick::colorHistogram( &histogram, image );
-    std::vector<std::pair<Magick::Color,unsigned long>>::const_iterator p=histogram.begin();
+    std::vector<std::pair<Magick::Color, long>>::const_iterator p=histogram.begin();
     
     while (p != histogram.end())
     {
-        tmp = static_cast < unsigned long >(p->second);
+        tmp = static_cast<long>(p->second);
+
         if (tmp>counter) {
-            red = static_cast < unsigned long >(p->first.redQuantum());
-            green = static_cast < unsigned long >(p->first.greenQuantum());
-            blue = static_cast < unsigned long >(p->first.blueQuantum());
+            red = static_cast<long>(p->first.redQuantum());
+            green = static_cast<long>(p->first.greenQuantum());
+            blue = static_cast<long>(p->first.blueQuantum());
             counter = tmp;
         }
        
        p++;
     }
-    
-    red = red  / 65535 * 255;
-    green = green  / 65535 * 255;
-    blue = blue  / 65535 * 255;
+
+    red = red * 255/ 65535;
+    green = green * 255 / 65535;
+    blue = blue * 255 / 65535;
 }
 
 void ImageRGB::processResize(QString currentWallpaper)
 {
-    red = 0;
-    green = 0;
-    blue = 0;
-
     Magick::Image image(currentWallpaper.toStdString());
     image.resize("1x1");
     Magick::Color val = image.pixelColor(1,1);
 
-    red = val.redQuantum() / 65535 * 256;
-    green = val.greenQuantum() / 65535 * 256;
-    blue = val.blueQuantum() / 65535 * 256;
+    red = static_cast<long>(val.redQuantum()) * 256 / 65535 ;
+    green = static_cast<long>(val.greenQuantum()) * 256 / 65535;
+    blue = static_cast<long>(val.blueQuantum()) * 256 / 65535;
 }
 
 
 
-float ImageRGB::getRed()
+int ImageRGB::getRed()
 {
     return red;
 }
 
-float ImageRGB::getGreen()
+int ImageRGB::getGreen()
 {
     return green;
 }
 
-float ImageRGB::getBlue()
+int ImageRGB::getBlue()
 {
     return blue;
 }

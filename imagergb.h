@@ -9,9 +9,9 @@ class ImageRGB
 public:
     explicit ImageRGB();
 
-    float getRed(void);
-    float getGreen(void);
-    float getBlue(void);
+    int getRed(void);
+    int getGreen(void);
+    int getBlue(void);
 
     void processHistogram(QString);
     void processHistogramPeak(QString);
@@ -19,11 +19,9 @@ public:
     void processResizeSTL(QString);
     
 private:
-    void changeSaturation(float *, float *, float *, float);
-
-    float red;
-    float green;
-    float blue;
+    long red;
+    long green;
+    long blue;
 };
 
 #endif
