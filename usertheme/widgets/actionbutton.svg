@@ -104,7 +104,7 @@
     </rdf:RDF>
   </metadata>
   <rect
-     style="opacity:0.6;fill:currentColor;fill-opacity:0.50480771;fill-rule:nonzero;stroke:none;stroke-width:1.72143602;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.00869565"
+     style="opacity:0;fill:currentColor;fill-opacity:0.50480771;fill-rule:nonzero;stroke:none;stroke-width:1.72143602;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.00869565"
       class="ColorScheme-Text"
      id="normal"
      width="28"
@@ -120,7 +120,7 @@
      width="28"
      id="pressed"
       class="ColorScheme-Background"
-     style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.72143602;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.00869565" />
+     style="opacity:0;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.72143602;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.00869565" />
   <rect
      ry="14"
      y="60.818813"
@@ -129,5 +129,5 @@
      width="28"
      id="hover"
       class="ColorScheme-Background"
-     style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.72143602;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.00869565" />
+     style="opacity:0;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.72143602;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.00869565" />
 </svg>
