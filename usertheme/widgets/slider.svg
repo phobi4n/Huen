@@ -33,8 +33,8 @@
      id="namedview41"
      showgrid="false"
      inkscape:zoom="11.952503"
-     inkscape:cx="35.565676"
-     inkscape:cy="32.279244"
+     inkscape:cx="46.698439"
+     inkscape:cy="2.1600296"
      inkscape:current-layer="svg3025"
      inkscape:snap-to-guides="false"
      inkscape:window-x="130"
@@ -49,7 +49,7 @@
      inkscape:bbox-paths="true" />
   <defs
      id="defs43">
-      <style
+    <style
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
@@ -348,14 +348,6 @@
      inkscape:connector-curvature="0"
      style="fill:url(#linearGradient8461);fill-opacity:1;stroke-width:1.77777839;opacity:1" />
   <rect
-     style="opacity:1;fill:#f2f2f2;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.75005722;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.00869565"
-     id="horizontal-slider-handle"
-     width="16"
-     height="6"
-     x="43.197193"
-     y="30.986946"
-     ry="0" />
-  <rect
      ry="2.5"
      y="-25.145874"
      x="31.907703"
@@ -376,7 +368,7 @@
      id="groove-right" />
   <path
      style="fill:currentColor;fill-opacity:1;stroke-width:1.77777839"
-      class="ColorScheme-Background"
+     class="ColorScheme-Background"
      inkscape:connector-curvature="0"
      d="m 44.22358,10.104729 h 5.333334 v 5.333334 H 44.22358 Z"
      id="groove-highlight-center" />
@@ -384,13 +376,13 @@
      id="groove-highlight-left"
      d="m 38.890247,10.104729 h 5.333333 v 5.333334 h -5.333333 z"
      inkscape:connector-curvature="0"
-      class="ColorScheme-Background"
+     class="ColorScheme-Background"
      style="fill:currentColor;fill-opacity:1;stroke-width:1.77777839" />
   <path
      id="groove-highlight-right"
      d="m 49.556914,10.104729 h 5.333333 v 5.333334 h -5.333333 z"
      inkscape:connector-curvature="0"
-      class="ColorScheme-Background"
+     class="ColorScheme-Background"
      style="fill:currentColor;fill-opacity:1;stroke-width:1.77777839" />
   <g
      id="groove-highlight-top"
@@ -404,7 +396,7 @@
        id="path8413"
        d="m 45.557841,-0.7727729 h 5.333334 v 2.6666665 h -5.333334 z"
        inkscape:connector-curvature="0"
-        class="ColorScheme-Background"
+       class="ColorScheme-Background"
        style="fill:currentColor;fill-opacity:1;stroke-width:1.25707912" />
   </g>
   <g
@@ -417,7 +409,7 @@
        style="fill:none;fill-opacity:1;stroke-width:1.77777839" />
     <path
        style="fill:currentColor;fill-opacity:1;stroke-width:1.25707912"
-        class="ColorScheme-Background"
+       class="ColorScheme-Background"
        inkscape:connector-curvature="0"
        d="m 45.557841,-0.7727729 h 5.333334 v 2.6666665 h -5.333334 z"
        id="path8423" />
@@ -434,7 +426,7 @@
        id="path8429"
        d="m 45.557841,-0.7727729 h 5.333334 v 2.6666665 h -5.333334 z"
        inkscape:connector-curvature="0"
-        class="ColorScheme-Background"
+       class="ColorScheme-Background"
        style="fill:currentColor;fill-opacity:1;stroke-width:1.25707912" />
   </g>
   <g
@@ -449,7 +441,7 @@
        id="path8435"
        d="m 45.557841,-0.7727729 h 5.333334 v 2.6666665 h -5.333334 z"
        inkscape:connector-curvature="0"
-        class="ColorScheme-Background"
+       class="ColorScheme-Background"
        style="fill:currentColor;fill-opacity:1;stroke-width:1.25707912" />
   </g>
   <g
@@ -462,7 +454,7 @@
        style="fill:none;fill-opacity:1;stroke-width:1.77777839" />
     <path
        style="fill:currentColor;fill-opacity:1;stroke-width:1.25707912"
-        class="ColorScheme-Background"
+       class="ColorScheme-Background"
        inkscape:connector-curvature="0"
        d="m 45.557841,-0.7727729 h 5.333334 v 2.6666665 h -5.333334 z"
        id="path8441" />
@@ -477,7 +469,7 @@
        style="fill:none;fill-opacity:1;stroke-width:1.77777839" />
     <path
        style="fill:currentColor;fill-opacity:1;stroke-width:1.25707912"
-        class="ColorScheme-Background"
+       class="ColorScheme-Background"
        inkscape:connector-curvature="0"
        d="m 45.557841,-0.7727729 h 5.333334 v 2.6666665 h -5.333334 z"
        id="path8447" />
@@ -565,5 +557,23 @@
        d="m 9.0030768,-4.9684758 h 5.3333342 v 2.6666666 H 9.0030768 Z"
        inkscape:connector-curvature="0"
        style="fill:url(#linearGradient8507);fill-opacity:1;stroke-width:1.25707912" />
+  </g>
+  <g
+     id="horizontal-slider-handle">
+    <rect
+       ry="0"
+       y="43.557129"
+       x="52.126949"
+       height="18"
+       width="18"
+       id="rect4572"
+       style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:17.42789078;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+    <circle
+       r="8"
+       cy="52.557129"
+       cx="61.126949"
+       id="path4570"
+        class="ColorScheme-ViewText"
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:17.00658226;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   </g>
 </svg>
