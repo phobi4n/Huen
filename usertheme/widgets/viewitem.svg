@@ -31,13 +31,13 @@
      inkscape:window-height="860"
      id="namedview28"
      showgrid="false"
-     inkscape:zoom="22.161899"
-     inkscape:cx="13.274273"
-     inkscape:cy="42.715953"
+     inkscape:zoom="10.951365"
+     inkscape:cx="7.1866698"
+     inkscape:cy="44.453682"
      inkscape:current-layer="svg7080"
      inkscape:pagecheckerboard="true"
-     inkscape:window-x="273"
-     inkscape:window-y="171"
+     inkscape:window-x="48"
+     inkscape:window-y="69"
      inkscape:window-maximized="0" />
   <defs
      id="defs7082">
@@ -184,7 +184,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -202,9 +202,9 @@
      width="24.000013"
      height="4"
      class="ColorScheme-Background"
-     style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649685" />
+     style="opacity:0.705;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649685" />
   <rect
-     style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649685"
+     style="opacity:0.705;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649685"
      class="ColorScheme-Background"
      height="4"
      width="24.000013"
@@ -213,7 +213,7 @@
      id="hover-bottom" />
   <rect
      transform="rotate(90)"
-     style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649709;opacity:1"
+     style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649709;opacity:0.705"
      class="ColorScheme-Background"
      height="4"
      width="23.999998"
@@ -221,7 +221,7 @@
      y="-30.281038"
      id="hover-right" />
   <rect
-     style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649709;opacity:1"
+     style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649709;opacity:0.705"
      class="ColorScheme-Background"
      height="4"
      width="23.999998"
@@ -236,7 +236,7 @@
      width="24.000013"
      height="24.000013"
      class="ColorScheme-Background"
-     style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:2.00000119" />
+     style="opacity:0.705;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:2.00000119" />
   <rect
      id="hover-bottomright"
      y="-30.281038"
@@ -244,11 +244,11 @@
      width="4"
      height="4"
      class="ColorScheme-Background"
-     style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355"
+     style="opacity:0.705;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355"
      transform="rotate(90)" />
   <rect
      transform="rotate(90)"
-     style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355"
+     style="opacity:0.705;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355"
      class="ColorScheme-Background"
      height="4"
      width="4"
@@ -262,11 +262,11 @@
      width="4"
      height="4"
      class="ColorScheme-Background"
-     style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355"
+     style="opacity:0.705;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355"
      transform="rotate(90)" />
   <rect
      transform="rotate(90)"
-     style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355"
+     style="opacity:0.705;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355"
      class="ColorScheme-Background"
      height="4"
      width="4"
