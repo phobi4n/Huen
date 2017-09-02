@@ -27,7 +27,7 @@
      fit-margin-top="10"
      inkscape:current-layer="svg2"
      inkscape:cy="22.870319"
-     inkscape:cx="48.743821"
+     inkscape:cx="55.232866"
      inkscape:zoom="9.9702061"
      showgrid="false"
      id="namedview99"
@@ -226,7 +226,7 @@
      width="5"
      height="5"
      class="ColorScheme-Background"
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.99999988" />
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.99999988;opacity:0.705" />
   <rect
      id="south-active-tab-topright"
      y="-15"
@@ -235,7 +235,7 @@
      width="5"
      class="ColorScheme-Background"
      height="5"
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.99999988" />
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.99999988;opacity:0.705" />
   <rect
      id="south-active-tab-top"
      class="ColorScheme-Background"
@@ -244,7 +244,7 @@
      x="15"
      width="15"
      height="5"
-     style="fill:currentColor;fill-opacity:1;stroke-width:1.00000012" />
+     style="fill:currentColor;fill-opacity:1;stroke-width:1.00000012;opacity:0.705" />
   <rect
      id="south-active-tab-left"
      class="ColorScheme-Background"
@@ -253,7 +253,7 @@
      x="10"
      width="5"
      height="15"
-     style="fill:currentColor;fill-opacity:1;stroke-width:1.00000012" />
+     style="fill:currentColor;fill-opacity:1;stroke-width:1.00000012;opacity:0.705" />
   <rect
      id="south-active-tab-right"
      class="ColorScheme-Background"
@@ -262,7 +262,7 @@
      x="30"
      width="5"
      height="15"
-     style="fill:currentColor;fill-opacity:1;stroke-width:1.00000012" />
+     style="fill:currentColor;fill-opacity:1;stroke-width:1.00000012;opacity:0.705" />
   <rect
      id="south-active-tab-center"
      class="ColorScheme-Background"
@@ -271,9 +271,9 @@
      x="15"
      width="15"
      height="15"
-     style="fill:currentColor;fill-opacity:1" />
+     style="fill:currentColor;fill-opacity:1;opacity:0.705" />
   <rect
-     style="fill:currentColor;fill-opacity:1;stroke-width:1.00000012"
+     style="fill:currentColor;fill-opacity:1;stroke-width:1.00000012;opacity:0.705"
      class="ColorScheme-Background"
      height="5"
      width="15"
@@ -282,7 +282,7 @@
      y="-35.000008"
      id="south-active-tab-bottom" />
   <rect
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.99999988"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.99999988;opacity:0.705"
      class="ColorScheme-Background"
      height="5"
      width="5"
@@ -291,7 +291,7 @@
      y="-35.000008"
      id="south-active-tab-bottomright" />
   <rect
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.99999988"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.99999988;opacity:0.705"
      class="ColorScheme-Background"
      height="5"
      width="5"
@@ -300,7 +300,7 @@
      y="-35.000008"
      id="south-active-tab-bottomleft" />
   <rect
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.99999988"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.99999988;opacity:0.705"
      class="ColorScheme-Background"
      height="5"
      width="5"
@@ -309,7 +309,7 @@
      y="-15.300897"
      id="north-active-tab-topleft" />
   <rect
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.99999988"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.99999988;opacity:0.705"
      height="5"
      class="ColorScheme-Background"
      width="5"
@@ -318,7 +318,7 @@
      y="-15.300897"
      id="north-active-tab-topright" />
   <rect
-     style="fill:currentColor;fill-opacity:1;stroke-width:1.00000012"
+     style="fill:currentColor;fill-opacity:1;stroke-width:1.00000012;opacity:0.705"
      height="5"
      width="15"
      x="72.772125"
@@ -327,7 +327,7 @@
      class="ColorScheme-Background"
      id="north-active-tab-top" />
   <rect
-     style="fill:currentColor;fill-opacity:1;stroke-width:1.00000012"
+     style="fill:currentColor;fill-opacity:1;stroke-width:1.00000012;opacity:0.705"
      height="15"
      width="5"
      x="67.772125"
@@ -336,7 +336,7 @@
      class="ColorScheme-Background"
      id="north-active-tab-left" />
   <rect
-     style="fill:currentColor;fill-opacity:1;stroke-width:1.00000012"
+     style="fill:currentColor;fill-opacity:1;stroke-width:1.00000012;opacity:0.705"
      height="15"
      width="5"
      x="87.772125"
@@ -345,7 +345,7 @@
      class="ColorScheme-Background"
      id="north-active-tab-right" />
   <rect
-     style="fill:currentColor;fill-opacity:1"
+     style="fill:currentColor;fill-opacity:1;opacity:0.705"
      height="15"
      width="15"
      x="72.772125"
@@ -361,7 +361,7 @@
      width="15"
      height="5"
      class="ColorScheme-Background"
-     style="fill:currentColor;fill-opacity:1;stroke-width:1.00000012" />
+     style="fill:currentColor;fill-opacity:1;stroke-width:1.00000012;opacity:0.705" />
   <rect
      id="north-active-tab-bottomright"
      y="-35.300903"
@@ -370,7 +370,7 @@
      width="5"
      height="5"
      class="ColorScheme-Background"
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.99999988" />
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.99999988;opacity:0.705" />
   <rect
      id="north-active-tab-bottomleft"
      y="-35.300903"
@@ -379,5 +379,5 @@
      width="5"
      height="5"
      class="ColorScheme-Background"
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.99999988" />
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.99999988;opacity:0.705" />
 </svg>
