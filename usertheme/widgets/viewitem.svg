@@ -32,7 +32,7 @@
      id="namedview28"
      showgrid="false"
      inkscape:zoom="10.951365"
-     inkscape:cx="7.1866698"
+     inkscape:cx="10.233268"
      inkscape:cy="44.453682"
      inkscape:current-layer="svg7080"
      inkscape:pagecheckerboard="true"
@@ -45,8 +45,8 @@
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
-        color:#31363b;
-        stop-color:#31363b;
+        
+        stop-
       }
       .ColorScheme-Background {
         color:#ffffff;
@@ -57,8 +57,8 @@
         stop-color:#3daee9;
       }
       .ColorScheme-ViewText {
-        color:#31363b;
-        stop-color:#31363b;
+        
+        stop-
       }
       .ColorScheme-ViewBackground {
         color:#fcfcfc;
@@ -73,8 +73,8 @@
         stop-color:#3daee9;
       }
       .ColorScheme-ButtonText {
-        color:#31363b;
-        stop-color:#31363b;
+        
+        stop-
       }
       .ColorScheme-ButtonBackground {
         color:#eff0f1;
@@ -189,88 +189,174 @@
     </rdf:RDF>
   </metadata>
   <rect
-     style="opacity:1;fill:currentColor;fill-opacity:1"
+     style="opacity:0.2;fill:currentColor;fill-opacity:1"
      y="24.342033"
      width="5"
      x="-16.090324"
      height="5"
      id="hint-stretch-borders" />
   <rect
-     id="hover-top"
-     y="55.530499"
-     x="2.2810371"
-     width="24.000013"
-     height="4"
-     class="ColorScheme-Background"
-     style="opacity:0.705;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649685" />
-  <rect
-     style="opacity:0.705;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649685"
-     class="ColorScheme-Background"
-     height="4"
-     width="24.000013"
-     x="2.2810249"
-     y="83.395134"
-     id="hover-bottom" />
-  <rect
-     transform="rotate(90)"
-     style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649709;opacity:0.705"
-     class="ColorScheme-Background"
-     height="4"
-     width="23.999998"
-     x="59.530506"
-     y="-30.281038"
-     id="hover-right" />
-  <rect
-     style="fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.81649709;opacity:0.705"
-     class="ColorScheme-Background"
-     height="4"
-     width="23.999998"
-     x="-83.395134"
-     y="-1.7189751"
-     id="hover-left"
-     transform="rotate(-90)" />
-  <rect
      id="hover-center"
      y="59.395123"
      x="2.2810249"
      width="24.000013"
      height="24.000013"
-     class="ColorScheme-Background"
-     style="opacity:0.705;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:2.00000119" />
-  <rect
-     id="hover-bottomright"
-     y="-30.281038"
-     x="83.530502"
-     width="4"
-     height="4"
-     class="ColorScheme-Background"
-     style="opacity:0.705;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355"
-     transform="rotate(90)" />
-  <rect
-     transform="rotate(90)"
-     style="opacity:0.705;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355"
-     class="ColorScheme-Background"
-     height="4"
-     width="4"
-     x="55.530506"
-     y="-30.281038"
-     id="hover-topright" />
-  <rect
+     class="ColorScheme-Text"
+     style="opacity:0.1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:2.00000119" />
+  <g
+     id="hover-bottom"
+     transform="translate(1.91757,-9.3139031)">
+    <rect
+       id="rect842"
+       y="92.709038"
+       x="0.36345574"
+       width="24.000013"
+       height="4"
+       class="ColorScheme-Text"
+       style="opacity:0.1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:0.81649685" />
+    <rect
+       style="opacity:0.2;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40824842"
+       class="ColorScheme-Text"
+       height="1"
+       width="24.000013"
+       x="0.36345574"
+       y="95.709038"
+       id="rect836" />
+  </g>
+  <g
+     id="hover-top"
+     transform="matrix(1,0,0,-1,1.9175701,152.10416)">
+    <rect
+       style="opacity:0.1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:0.81649685"
+       class="ColorScheme-Text"
+       height="4"
+       width="24.000013"
+       x="0.36345574"
+       y="92.709038"
+       id="rect844" />
+    <rect
+       id="rect846"
+       y="95.709038"
+       x="0.36345574"
+       width="24.000013"
+       height="1"
+       class="ColorScheme-Text"
+       style="opacity:0.2;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40824842" />
+  </g>
+  <g
+     id="hover-left"
+     transform="rotate(90,17.979199,77.010865)">
+    <rect
+       style="opacity:0.1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:0.81649685"
+       class="ColorScheme-Text"
+       height="4"
+       width="24.000013"
+       x="0.36345574"
+       y="92.709038"
+       id="rect850" />
+    <rect
+       id="rect852"
+       y="95.709038"
+       x="0.36345574"
+       width="24.000013"
+       height="1"
+       class="ColorScheme-Text"
+       style="opacity:0.2;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40824842" />
+  </g>
+  <g
+     id="hover-right"
+     transform="rotate(-90,8.6652954,75.093295)">
+    <rect
+       style="opacity:0.1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:0.81649685"
+       class="ColorScheme-Text"
+       height="4"
+       width="24.000013"
+       x="0.36345574"
+       y="92.709038"
+       id="rect856" />
+    <rect
+       id="rect858"
+       y="95.709038"
+       x="0.36345574"
+       width="24.000013"
+       height="1"
+       class="ColorScheme-Text"
+       style="opacity:0.2;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40824842" />
+  </g>
+  <g
      id="hover-topleft"
-     y="-2.2810249"
-     x="55.530491"
-     width="4"
-     height="4"
-     class="ColorScheme-Background"
-     style="opacity:0.705;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355"
-     transform="rotate(90)" />
-  <rect
-     transform="rotate(90)"
-     style="opacity:0.705;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355"
-     class="ColorScheme-Background"
-     height="4"
-     width="4"
-     x="83.395134"
-     y="-2.2810249"
-     id="hover-bottomleft" />
+     transform="translate(31.593526,-0.04433138)">
+    <path
+       inkscape:connector-curvature="0"
+       id="TOPLEFTOUTER"
+       class="ColorScheme-Text"
+       d="m -33.3125,55.439453 v 4 h 1 v -3 h 3 v -1 z"
+       style="opacity:0.2;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355" />
+    <rect
+       transform="rotate(90)"
+       style="opacity:0.1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:0.25000018"
+       class="ColorScheme-Text"
+       height="3"
+       width="3"
+       x="56.439453"
+       y="29.3125"
+       id="TOPLEFTINNER" />
+  </g>
+  <g
+     transform="matrix(-1,0,0,1,-3.031462,-0.04433047)"
+     id="hover-topright">
+    <path
+       style="opacity:0.2;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355"
+       d="m -33.3125,55.439453 v 4 h 1 v -3 h 3 v -1 z"
+       class="ColorScheme-Text"
+       id="path4516"
+       inkscape:connector-curvature="0" />
+    <rect
+       id="rect4518"
+       y="29.3125"
+       x="56.439453"
+       width="3"
+       height="3"
+       class="ColorScheme-Text"
+       style="opacity:0.1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:0.25000018"
+       transform="rotate(90)" />
+  </g>
+  <g
+     id="hover-bottomright"
+     transform="rotate(-180,-1.5157309,71.417294)">
+    <path
+       inkscape:connector-curvature="0"
+       id="path4522"
+       class="ColorScheme-Text"
+       d="m -33.3125,55.439453 v 4 h 1 v -3 h 3 v -1 z"
+       style="opacity:0.2;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355" />
+    <rect
+       transform="rotate(90)"
+       style="opacity:0.1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:0.25000018"
+       class="ColorScheme-Text"
+       height="3"
+       width="3"
+       x="56.439453"
+       y="29.3125"
+       id="rect4524" />
+  </g>
+  <g
+     transform="matrix(1,0,0,-1,31.593524,142.83459)"
+     id="hover-bottomleft">
+    <path
+       style="opacity:0.2;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355"
+       d="m -33.3125,55.439453 v 4 h 1 v -3 h 3 v -1 z"
+       class="ColorScheme-Text"
+       id="path4528"
+       inkscape:connector-curvature="0" />
+    <rect
+       id="rect4530"
+       y="29.3125"
+       x="56.439453"
+       width="3"
+       height="3"
+       class="ColorScheme-Text"
+       style="opacity:0.1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:0.25000018"
+       transform="rotate(90)" />
+  </g>
 </svg>
