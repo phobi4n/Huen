@@ -83,6 +83,6 @@ void WriteTheme::generate(int rr, int gg, int bb)
     }
 
     system("kwriteconfig5 --file=plasmarc --group=Theme --key=name Default; \
-            sleep 0.4; \
+            sleep 0.6; \
             kwriteconfig5 --file=plasmarc --group=Theme --key=name Huen");
 }
