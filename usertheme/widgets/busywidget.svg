@@ -19,8 +19,8 @@
   <defs
      id="defs36" />
   <style
-       id="current-color-scheme"
-       type="text/css">      .ColorScheme-Text {
+     id="current-color-scheme"
+     type="text/css">      .ColorScheme-Text {
         color:#31363b;
       }
       .ColorScheme-Background{
@@ -59,17 +59,17 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1215"
-     inkscape:window-height="696"
+     inkscape:window-width="1453"
+     inkscape:window-height="883"
      id="namedview34"
      showgrid="false"
      inkscape:pagecheckerboard="true"
      inkscape:zoom="3.0260989"
-     inkscape:cx="83.532555"
+     inkscape:cx="24.545719"
      inkscape:cy="52.347068"
      inkscape:current-layer="svg2"
-     inkscape:window-x="487"
-     inkscape:window-y="209"
+     inkscape:window-x="194"
+     inkscape:window-y="85"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -89,16 +89,16 @@
      style="stroke-width:6.54099989">
     <path
        id="path4426"
-       style="fill:none;stroke:currentColor;stroke-width:14;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
-        class="ColorScheme-Text"
+       style="color:#31363b;fill:none;fill-opacity:1;stroke:#d8dbde;stroke-width:4.65696383;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       class="ColorScheme-Text"
        sodipodi:type="arc"
-       sodipodi:cx="57.5"
-       sodipodi:cy="207.5"
-       sodipodi:rx="44.578999"
-       sodipodi:ry="44.578999"
+       sodipodi:cx="55.184391"
+       sodipodi:cy="202.86607"
+       sodipodi:rx="58.75399"
+       sodipodi:ry="58.75399"
        sodipodi:start="0"
-       sodipodi:end="4.712389"
-       d="M 102.079,207.5 A 44.578999,44.578999 0 0 1 74.559644,248.68562 44.578999,44.578999 0 0 1 25.977888,239.02211 44.578999,44.578999 0 0 1 16.314376,190.44036 44.578999,44.578999 0 0 1 57.500001,162.921"
+       sodipodi:end="2.0943951"
+       d="m 113.93838,202.86607 a 58.75399,58.75399 0 0 1 -29.376994,50.88245 58.75399,58.75399 0 0 1 -58.75399,0"
        sodipodi:open="true" />
     <g
        id="g4424"
