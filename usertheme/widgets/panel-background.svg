@@ -21,7 +21,7 @@
   <sodipodi:namedview
      inkscape:current-layer="svg3642"
      inkscape:cy="25.109027"
-     inkscape:cx="15.751232"
+     inkscape:cx="41.926415"
      inkscape:zoom="11.23525"
      showgrid="false"
      id="namedview36"
@@ -35,8 +35,8 @@
      borderopacity="1"
      bordercolor="#666666"
      pagecolor="#ffffff"
-     inkscape:window-x="134"
-     inkscape:window-y="171"
+     inkscape:window-x="0"
+     inkscape:window-y="152"
      inkscape:window-maximized="0"
      inkscape:pagecheckerboard="true"
      inkscape:showpageshadow="false" />
@@ -187,7 +187,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
       <cc:Work
          rdf:about="">
@@ -230,55 +230,83 @@
   <rect
      transform="rotate(90)"
      id="right"
-     height="6"
+     height="1"
      x="12"
-     y="-57.5"
+     y="-52.5"
      width="48"
      class="ColorScheme-Background"
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.33941126" />
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.13856407" />
   <rect
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.33941126"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.13856407"
      class="ColorScheme-Background"
      width="48"
-     y="-3.5"
+     y="1.5"
      x="12"
-     height="6"
+     height="1"
      id="left"
      transform="rotate(90)" />
   <rect
      transform="rotate(90)"
      id="topleft"
-     height="6"
+     height="1"
      x="11"
-     y="-3.5"
+     y="1.5"
      width="1"
      class="ColorScheme-Background"
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.0489898" />
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.02" />
   <rect
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.0489898"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.02"
      class="ColorScheme-Background"
      width="1"
-     y="-57.5"
+     y="-52.5"
      x="11"
-     height="6"
+     height="1"
      id="topright"
      transform="rotate(90)" />
   <rect
      transform="rotate(90)"
      id="bottomright"
-     height="6"
+     height="1"
      x="65"
-     y="-57.5"
+     y="-52.5"
      width="1"
      class="ColorScheme-Background"
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.0489898" />
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.02" />
   <rect
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.0489898"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.02"
      class="ColorScheme-Background"
      width="1"
-     y="-3.5"
+     y="1.5"
      x="65"
-     height="6"
+     height="1"
      id="bottomleft"
      transform="rotate(90)" />
+  <rect
+     style="opacity:1;fill:#484848;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.82618427;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="hint-top-margin"
+     width="4"
+     height="4"
+     x="60.968826"
+     y="21.50771" />
+  <rect
+     y="21.240692"
+     x="74.497673"
+     height="4"
+     width="4"
+     id="hint-left-margin"
+     style="opacity:1;fill:#484848;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.82618427;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <rect
+     style="opacity:1;fill:#484848;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.82618427;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="hint-bottom-margin"
+     width="4"
+     height="4"
+     x="60.256783"
+     y="26.581028" />
+  <rect
+     y="26.314011"
+     x="66.309166"
+     height="4"
+     width="4"
+     id="hint-right-margin"
+     style="opacity:1;fill:#484848;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:5.82618427;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
 </svg>
