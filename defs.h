@@ -9,7 +9,7 @@
 
 // Text colours (quoted triplets)
 #define NORMAL_TEXT "252,252,252"
-#define DARK_TEXT "14,14,14"
+#define DARK_TEXT "34,34,34"
 
 // Backgrounds (quoted triplets)
 #define NORMAL_DIALOG "6,7,9"
