@@ -28,7 +28,7 @@
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
      inkscape:zoom="8.4730514"
-     inkscape:cx="-57.421931"
+     inkscape:cx="-143.96533"
      inkscape:cy="-28.96234"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -326,7 +326,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
       <cc:Work
          rdf:about="">
@@ -355,7 +355,7 @@
        width="48"
        id="center"
        class="ColorScheme-ViewBackground"
-       style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:19.33273697;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:19.33273697;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
        y="294.80777"
        x="192.47311"
@@ -363,9 +363,9 @@
        width="1"
        class="ColorScheme-Text"
        id="left"
-       style="opacity:1;fill:#484848;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.34914732;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:0.4;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.34914732;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
-       style="opacity:1;fill:#484848;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.34914732;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0.4;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.34914732;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="right"
        class="ColorScheme-Text"
        width="1"
@@ -380,9 +380,9 @@
        width="1"
        id="top"
        class="ColorScheme-Text"
-       style="opacity:1;fill:#484848;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.34914732;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:0.4;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.34914732;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
-       style="opacity:1;fill:#484848;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.34914732;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0.4;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.34914732;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="bottom"
        class="ColorScheme-Text"
        width="1"
@@ -398,9 +398,9 @@
        width="1"
        class="ColorScheme-Text"
        id="bottomleft"
-       style="opacity:1;fill:#484848;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91642052;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:0.4;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91642052;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
-       style="opacity:1;fill:#484848;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91642052;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0.4;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91642052;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="topleft"
        class="ColorScheme-Text"
        width="1"
@@ -416,9 +416,9 @@
        width="1"
        class="ColorScheme-Text"
        id="topright"
-       style="opacity:1;fill:#484848;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91642052;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:0.4;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91642052;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
-       style="opacity:1;fill:#484848;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91642052;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0.4;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91642052;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="bottomright"
        class="ColorScheme-Text"
        width="1"
@@ -456,18 +456,18 @@
        style="opacity:1;fill:#06663c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:9.41600895;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:url(#linearGradient4621);fill-opacity:1;stroke:none;stroke-width:1.15470052"
+       style="fill:url(#linearGradient4621);fill-opacity:1;stroke:none;stroke-width:1.15470052;opacity:0.618"
        d="m 391.67238,293.33304 v -10 h -47.99999 v 10 z"
        id="shadow-top" />
     <path
        id="shadow-topright"
        d="m 401.67238,293.33304 v -10 h -10 v 10 z"
-       style="fill:url(#radialGradient6486);fill-opacity:1;stroke:none;stroke-width:0.52704626"
+       style="fill:url(#radialGradient6486);fill-opacity:1;stroke:none;stroke-width:0.52704626;opacity:0.618"
        inkscape:connector-curvature="0" />
     <path
        id="shadow-right"
        d="m 391.67238,341.33304 h 10 v -48 h -10 z"
-       style="fill:url(#linearGradient6490);fill-opacity:1;stroke:none;stroke-width:1.15470052"
+       style="fill:url(#linearGradient6490);fill-opacity:1;stroke:none;stroke-width:1.15470052;opacity:0.618"
        inkscape:connector-curvature="0" />
     <rect
        style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.95999998"
@@ -479,28 +479,28 @@
        id="shadow-center" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:url(#linearGradient6496);fill-opacity:1;stroke:none;stroke-width:1.15470052"
+       style="fill:url(#linearGradient6496);fill-opacity:1;stroke:none;stroke-width:1.15470052;opacity:0.618"
        d="m 343.67239,341.33304 h -10 v -48 h 10 z"
        id="shadow-left" />
     <path
        id="shadow-bottom"
        d="m 391.67238,341.33304 v 10 h -47.99999 v -10 z"
-       style="fill:url(#linearGradient6500);fill-opacity:1;stroke:none;stroke-width:1.15470052"
+       style="fill:url(#linearGradient6500);fill-opacity:1;stroke:none;stroke-width:1.15470052;opacity:0.618"
        inkscape:connector-curvature="0" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:url(#radialGradient6504);fill-opacity:1;stroke:none;stroke-width:0.52704626"
+       style="fill:url(#radialGradient6504);fill-opacity:1;stroke:none;stroke-width:0.52704626;opacity:0.618"
        d="m 333.67239,293.33304 v -10 h 10 v 10 z"
        id="shadow-topleft" />
     <path
        inkscape:connector-curvature="0"
-       style="fill:url(#radialGradient6508);fill-opacity:1;stroke:none;stroke-width:0.52704626"
+       style="fill:url(#radialGradient6508);fill-opacity:1;stroke:none;stroke-width:0.52704626;opacity:0.618"
        d="m 401.67238,341.33304 v 10 h -10 v -10 z"
        id="shadow-bottomright" />
     <path
        id="shadow-bottomleft"
        d="m 333.67239,341.33304 v 10 h 10 v -10 z"
-       style="fill:url(#radialGradient6512);fill-opacity:1;stroke:none;stroke-width:0.52704626"
+       style="fill:url(#radialGradient6512);fill-opacity:1;stroke:none;stroke-width:0.52704626;opacity:0.618"
        inkscape:connector-curvature="0" />
     <rect
        style="opacity:1;fill:#06663c;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:19.33273697;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -612,5 +612,12 @@
        height="10"
        x="300.944"
        y="261.61758" />
+    <rect
+       style="opacity:0.61799999;fill:#264dfe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:4.45800018;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="hint-compose-over-border"
+       width="6.7272105"
+       height="6.963253"
+       x="253.82358"
+       y="275.15778" />
   </g>
 </svg>
