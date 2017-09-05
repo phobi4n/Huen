@@ -363,9 +363,9 @@
        width="1"
        class="ColorScheme-Text"
        id="left"
-       style="opacity:0.4;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.34914732;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.34914732;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
-       style="opacity:0.4;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.34914732;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.34914732;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="right"
        class="ColorScheme-Text"
        width="1"
@@ -380,9 +380,9 @@
        width="1"
        id="top"
        class="ColorScheme-Text"
-       style="opacity:0.4;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.34914732;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.34914732;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
-       style="opacity:0.4;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.34914732;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.34914732;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="bottom"
        class="ColorScheme-Text"
        width="1"
@@ -398,9 +398,9 @@
        width="1"
        class="ColorScheme-Text"
        id="bottomleft"
-       style="opacity:0.4;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91642052;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91642052;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
-       style="opacity:0.4;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91642052;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91642052;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="topleft"
        class="ColorScheme-Text"
        width="1"
@@ -416,9 +416,9 @@
        width="1"
        class="ColorScheme-Text"
        id="topright"
-       style="opacity:0.4;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91642052;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91642052;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
-       style="opacity:0.4;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91642052;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.91642052;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="bottomright"
        class="ColorScheme-Text"
        width="1"
