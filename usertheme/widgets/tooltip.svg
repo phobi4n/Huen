@@ -7,7 +7,6 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
-   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg3642"
@@ -15,7 +14,7 @@
    width="205"
    height="210.94"
    sodipodi:docname="tooltip.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -31,7 +30,7 @@
      showgrid="false"
      inkscape:pagecheckerboard="true"
      inkscape:zoom="11.171317"
-     inkscape:cx="62.230267"
+     inkscape:cx="75.630001"
      inkscape:cy="89.828264"
      inkscape:window-x="124"
      inkscape:window-y="210"
@@ -39,7 +38,7 @@
      inkscape:current-layer="svg3642" />
   <defs
      id="defs3644">
-      <style
+    <style
        type="text/css"
        id="current-color-scheme">
       .ColorScheme-Text {
@@ -58,7 +57,7 @@
         
         stop-
       }
-      .ColorScheme-ViewBackground {
+      .ColorScheme-Background {
         color:#fcfcfc;
         stop-color:#fcfcfc;
       }
@@ -87,86 +86,6 @@
         stop-color:#3daee9;
       }
       </style>
-    <linearGradient
-       id="linearGradient4465">
-      <stop
-         id="stop4467"
-         stop-opacity=".50980"
-         offset="0" />
-      <stop
-         id="stop4469"
-         stop-opacity="0"
-         offset="1" />
-    </linearGradient>
-    <linearGradient
-       id="linearGradient4446">
-      <stop
-         id="stop4448"
-         stop-opacity=".35294"
-         offset="0" />
-      <stop
-         id="stop4450"
-         stop-opacity="0"
-         offset="1" />
-    </linearGradient>
-    <radialGradient
-       id="radialGradient3382"
-       cx="984"
-       cy="905.36"
-       gradientTransform="matrix(.0000077643 1.7647 -1.7647 .0000077643 1968.7 -1429.5)"
-       xlink:href="#linearGradient4465"
-       r="8.5"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       id="radialGradient4255"
-       cx="982.91"
-       cy="906.45"
-       gradientTransform="matrix(1.7647 -.0000049409 .0000049409 1.7647 -1363.5 -1342.6)"
-       xlink:href="#linearGradient4465"
-       r="8.5"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       id="linearGradient4259"
-       y1="-964.36"
-       x2="83.6"
-       gradientTransform="matrix(.71429 0 0 1 -317.71 1250.4)"
-       xlink:href="#linearGradient4446"
-       y2="-954.36"
-       x1="83.6"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       id="radialGradient4263"
-       cx="984"
-       cy="905.36"
-       gradientTransform="matrix(-1.7647 -6.432e-7 6.432e-7 -1.7647 2057.5 1904.7)"
-       xlink:href="#linearGradient4465"
-       r="8.5"
-       gradientUnits="userSpaceOnUse" />
-    <radialGradient
-       id="radialGradient4275"
-       cx="984"
-       cy="905.36"
-       gradientTransform="matrix(-.0000076189 -1.7647 1.7647 -.0000076189 -1276.7 1993.5)"
-       xlink:href="#linearGradient4465"
-       r="8.5"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       id="linearGradient4283"
-       y1="-964.36"
-       x2="83.6"
-       gradientTransform="matrix(.71429 0 0 1 -317.71 1250.4)"
-       xlink:href="#linearGradient4446"
-       y2="-953.93"
-       x1="83.6"
-       gradientUnits="userSpaceOnUse" />
-    <linearGradient
-       id="linearGradient4452"
-       y1="286"
-       x2="-260"
-       y2="296"
-       x1="-260"
-       gradientUnits="userSpaceOnUse"
-       xlink:href="#linearGradient4446" />
   </defs>
   <metadata
      id="metadata3647">
@@ -198,12 +117,12 @@
      height="16"
      width="16"
      id="center"
-     class="ColorScheme-ViewBackground"
+     class="ColorScheme-Background"
      style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.32000008" />
   <rect
      style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.16000004"
      id="top"
-      class="ColorScheme-ViewBackground"
+     class="ColorScheme-Background"
      width="16"
      height="4"
      x="69.76178"
@@ -214,13 +133,13 @@
      height="4"
      width="16"
      id="bottom"
-      class="ColorScheme-ViewBackground"
+     class="ColorScheme-Background"
      style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.16000004" />
   <rect
      transform="rotate(90)"
      style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.16000004"
      id="left"
-      class="ColorScheme-ViewBackground"
+     class="ColorScheme-Background"
      width="16"
      height="4"
      x="117.1339"
@@ -231,14 +150,14 @@
      height="4"
      width="16"
      id="right"
-      class="ColorScheme-ViewBackground"
+     class="ColorScheme-Background"
      style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.16000004"
      transform="rotate(90)" />
   <rect
      transform="rotate(90)"
      style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.08000002"
      id="topright"
-      class="ColorScheme-ViewBackground"
+     class="ColorScheme-Background"
      width="4"
      height="4"
      x="113.1339"
@@ -249,14 +168,14 @@
      height="4"
      width="4"
      id="topleft"
-      class="ColorScheme-ViewBackground"
+     class="ColorScheme-Background"
      style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.08000002"
      transform="rotate(90)" />
   <rect
      transform="rotate(90)"
      style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.08000002"
      id="bottomleft"
-      class="ColorScheme-ViewBackground"
+     class="ColorScheme-Background"
      width="4"
      height="4"
      x="137.1339"
@@ -267,7 +186,7 @@
      height="4"
      width="4"
      id="bottomright"
-      class="ColorScheme-ViewBackground"
+     class="ColorScheme-Background"
      style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.08000002"
      transform="rotate(90)" />
 </svg>
