@@ -17,7 +17,7 @@ if [ -x Huen ]; then
     cp -rfv ./usertheme/* /usr/share/huen
     cp -fv ./Huen /usr/bin
     cp -fv ./huen-icon.svg /usr/share/icons/hicolor/scalable/apps
-    cp -fv ./Huen.desktop ./Huen-auto.desktop /usr/share/applications
+    cp -fv ./Huen.desktop  /usr/share/applications
 else
     echo ""
     echo "Compiling the binary failed. Check Qt-Dev and ImageMagick-Dev packages are installed."
