@@ -50,10 +50,8 @@ void MainWindow::loadPlasmaWallpaper()
     gP = wallpaperImage.getGreen();
     bP = wallpaperImage.getBlue();
 
-//    wallpaperImage.processResize();
-//    rR = wallpaperImage.getRed();
-//    gR = wallpaperImage.getGreen();
-//    bR = wallpaperImage.getBlue();
+    qDebug() << "Lum Avg : " << luminance(rA,gA,bA);
+    qDebug() << "Lum Peak: " << luminance(rP,gP,bP);
 
     holder = pixmap.scaled(labelWidth, labelHeight, Qt::KeepAspectRatio, Qt::SmoothTransformation);
     ui->label->setAlignment(Qt::AlignCenter);

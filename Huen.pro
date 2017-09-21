@@ -4,7 +4,7 @@
 #
 #-------------------------------------------------
 
-QT       += core gui
+QT       += core
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
@@ -22,7 +22,7 @@ DEFINES += QT_DEPRECATED_WARNINGS
 # You can also select to disable deprecated APIs only up to a certain version of Qt.
 #DEFINES += QT_DISABLE_DEPRECATED_BEFORE=0x060000    # disables all the APIs deprecated before Qt 6.0.0
 
-RESOURCES = application.qrc
+RESOURCES =
 
 CONFIG += link_pkgconfig
 PKGCONFIG += Magick++ MagickCore
@@ -32,22 +32,19 @@ INCLUDEPATH += /usr/include/ImageMagick-6
 
 SOURCES += \
         main.cpp \
-        mainwindow.cpp \
         readplasmaconfig.cpp \
         imagergb.cpp \
         writetheme.cpp \
         oneclick.cpp \
-    colourops.cpp
+        colourops.cpp
 
 HEADERS += \
-        mainwindow.h \
         readplasmaconfig.h \
         imagergb.h \
         writetheme.h \
         template.h \
-    oneclick.h \
-    colourops.h \
-    defs.h
+        oneclick.h \
+        colourops.h \
+        defs.h
 
 FORMS += \
-        mainwindow.ui

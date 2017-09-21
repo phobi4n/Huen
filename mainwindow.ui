@@ -82,13 +82,13 @@
      </rect>
     </property>
     <property name="frameShape">
-     <enum>QFrame::Panel</enum>
+     <enum>QFrame::NoFrame</enum>
     </property>
     <property name="frameShadow">
-     <enum>QFrame::Sunken</enum>
+     <enum>QFrame::Plain</enum>
     </property>
     <property name="lineWidth">
-     <number>1</number>
+     <number>0</number>
     </property>
     <property name="midLineWidth">
      <number>0</number>

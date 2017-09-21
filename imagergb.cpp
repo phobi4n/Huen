@@ -60,21 +60,23 @@ void ImageRGB::processHistogramPeak()
        p++;
     }
 
+    qDebug() << "Counter Value:" << counter << red << green << blue;
+
     red = red * 255/ 65535;
     green = green * 255 / 65535;
     blue = blue * 255 / 65535;
 }
 
-void ImageRGB::processResize()
-{
-    Magick::Image image(thiswall.toStdString());
-    image.resize("1x1");
-    Magick::Color val = image.pixelColor(1,1);
+//void ImageRGB::processResize()
+//{
+//    Magick::Image image(thiswall.toStdString());
+//    image.resize("1x1");
+//    Magick::Color val = image.pixelColor(1,1);
 
-    red = static_cast<long>(val.redQuantum()) * 256 / 65535 ;
-    green = static_cast<long>(val.greenQuantum()) * 256 / 65535;
-    blue = static_cast<long>(val.blueQuantum()) * 256 / 65535;
-}
+//    red = static_cast<long>(val.redQuantum()) * 256 / 65535 ;
+//    green = static_cast<long>(val.greenQuantum()) * 256 / 65535;
+//    blue = static_cast<long>(val.blueQuantum()) * 256 / 65535;
+//}
 
 
 

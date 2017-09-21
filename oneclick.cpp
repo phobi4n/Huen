@@ -3,6 +3,7 @@
 #include "imagergb.h"
 #include "writetheme.h"
 #include "colourops.h"
+#include <QDebug>
 
 extern int luminance(int, int, int);
 extern int saturation(int, int, int);
@@ -25,6 +26,14 @@ oneClick::oneClick()
     rA = (rA < 0.0) ? 0.0 : rA;
     gA = (gA < 0.0) ? 0.0 : gA;
     bA = (bA < 0.0) ? 0.0 : bA;
+
+    wallpaperImage.processHistogramPeak();
+    rP = wallpaperImage.getRed();
+    gP = wallpaperImage.getGreen();
+    bP = wallpaperImage.getBlue();
+
+    qDebug() << "Lum Avg : " << luminance(rA,gA,bA);
+    qDebug() << "Lum Peak: " << luminance(rP,gP,bP);
 
     WriteTheme newTheme;
     newTheme.generate((int)rA, (int)gA, (int)bA);

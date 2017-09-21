@@ -10,6 +10,9 @@ private:
     float rA;
     float gA;
     float bA;
+    int rP;
+    int gP;
+    int bP;
 };
 
 #endif // ONECLICK_H
