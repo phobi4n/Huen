@@ -5,14 +5,23 @@ if [ $EUID != 0 ]; then
     exit 1
 fi
 
+USER_HOME=$(eval echo ~$SUDO_USER)
+echo $USER_HOME
+
 if [ -f Makefile ]; then
     make distclean
 fi
 
 qmake
-make
+make -j2
 
 if [ -x Huen ]; then
+
+	if [ -d "$USER_HOME/.local/share/plasma/desktoptheme/Huen" ]; then
+		echo "LOCAL COPY EXISTS. Deleting."
+		rm -rf "$USER_HOME/.local/share/plasma/desktoptheme/Huen"
+	fi
+
     mkdir -pv /usr/share/huen
     cp -rfv ./usertheme/* /usr/share/huen
     cp -fv ./Huen /usr/bin
