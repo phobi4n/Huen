@@ -14,29 +14,18 @@ oneClick::oneClick()
     QString wall = QString(plasma.getWallpaper());
 
     ImageRGB wallpaperImage(wall);
-    wallpaperImage.processResize();
-    rR = wallpaperImage.getRed();
-    gR = wallpaperImage.getGreen();
-    bR = wallpaperImage.getBlue();
-
-    wallpaperImage.processHistogramPeak();
-    rP = wallpaperImage.getRed();
-    gP = wallpaperImage.getGreen();
-    bP = wallpaperImage.getBlue();
-
-    int satPeak = saturation(rP, gP, bP);
-    int satResize = saturation(rR, gR,bR);
-
-    if (satPeak > satResize) {
-        rr = rP;
-        gg = gP;
-        bb = bP;
-    } else {
-        rr = rR;
-        gg = gR;
-        bb = bR;
-    }
+    wallpaperImage.processHistogram();
+    rA = wallpaperImage.getRed();
+    gA = wallpaperImage.getGreen();
+    bA = wallpaperImage.getBlue();
+    changeSaturation(&rA, &gA, &bA, 1.7);
+    rA = (rA > 255.0) ? 255.0 : rA;
+    gA = (gA > 255.0) ? 255.0 : gA;
+    bA = (bA > 255.0) ? 255.0 : bA;
+    rA = (rA < 0.0) ? 0.0 : rA;
+    gA = (gA < 0.0) ? 0.0 : gA;
+    bA = (bA < 0.0) ? 0.0 : bA;
 
     WriteTheme newTheme;
-    newTheme.generate(rr, gg, bb);
+    newTheme.generate((int)rA, (int)gA, (int)bA);
 }

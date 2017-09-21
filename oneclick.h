@@ -7,15 +7,9 @@ public:
     oneClick();
 
 private:
-    int rR;
-    int gR;
-    int bR;
-    int rP;
-    int gP;
-    int bP;
-    int rr;
-    int gg;
-    int bb;
+    float rA;
+    float gA;
+    float bA;
 };
 
 #endif // ONECLICK_H
