@@ -1,25 +1,25 @@
-#include <Magick++.h>
+
 #include <QString>
 #include <QDebug>
 #include <QProcess>
 #include "imagergb.h"
 
 
-ImageRGB::ImageRGB()
+ImageRGB::ImageRGB(QString currentWallpaper)
 {
+    thiswall = currentWallpaper;
+    qDebug() << thiswall;
+    Magick::Image image(thiswall.toStdString());
+    Magick::colorHistogram(&histogram, image);
 }
 
-void ImageRGB::processHistogram(QString currentWallpaper)
+void ImageRGB::processHistogram()
 {
     red = 0;
     green = 0;
     blue = 0;
-    
-    Magick::Image image(currentWallpaper.toStdString());
     long counter3 = 0;
-    
-    std::vector<std::pair<Magick::Color, long>> histogram;
-    Magick::colorHistogram(&histogram, image);
+
     std::vector<std::pair<Magick::Color, long>>::const_iterator p = histogram.begin();
     
     while (p != histogram.end()) {
@@ -33,13 +33,12 @@ void ImageRGB::processHistogram(QString currentWallpaper)
     red = red / counter3 * 255 / 65535;
     green = green / counter3 * 255 / 65535;
     blue = blue / counter3 * 255 / 65535;
+
 }
 
-
-
-void ImageRGB::processHistogramPeak(QString currentWallpaper)
+void ImageRGB::processHistogramPeak()
 {
-    Magick::Image image(currentWallpaper.toStdString());
+    Magick::Image image(thiswall.toStdString());
     red = 0;
     green = 0;
     blue = 0;
@@ -69,9 +68,9 @@ void ImageRGB::processHistogramPeak(QString currentWallpaper)
     blue = blue * 255 / 65535;
 }
 
-void ImageRGB::processResize(QString currentWallpaper)
+void ImageRGB::processResize()
 {
-    Magick::Image image(currentWallpaper.toStdString());
+    Magick::Image image(thiswall.toStdString());
     image.resize("1x1");
     Magick::Color val = image.pixelColor(1,1);
 

@@ -13,13 +13,13 @@ oneClick::oneClick()
     ReadPlasmaConfig plasma;
     QString wall = QString(plasma.getWallpaper());
 
-    ImageRGB wallpaperImage;
-    wallpaperImage.processResize(wall);
+    ImageRGB wallpaperImage(wall);
+    wallpaperImage.processResize();
     rR = wallpaperImage.getRed();
     gR = wallpaperImage.getGreen();
     bR = wallpaperImage.getBlue();
 
-    wallpaperImage.processHistogramPeak(wall);
+    wallpaperImage.processHistogramPeak();
     rP = wallpaperImage.getRed();
     gP = wallpaperImage.getGreen();
     bP = wallpaperImage.getBlue();

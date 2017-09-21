@@ -24,46 +24,33 @@ MainWindow::MainWindow(QWidget *parent) :
 
 }
 
-void workerAverage(QString *wall, int *r, int *g, int *b)
-{
-    ImageRGB wallpaperImage;
-    wallpaperImage.processHistogram(*wall);
-    *r = wallpaperImage.getRed();
-    *g = wallpaperImage.getGreen();
-    *b = wallpaperImage.getBlue();
-}
-
-void workerPeak(QString *wall, int *r, int *g, int *b)
-{
-    ImageRGB wallpaperImage;
-    wallpaperImage.processHistogramPeak(*wall);
-    *r = wallpaperImage.getRed();
-    *g = wallpaperImage.getGreen();
-    *b = wallpaperImage.getBlue();
-}
-
 
 void MainWindow::loadPlasmaWallpaper()
 {
     ReadPlasmaConfig plasma;
     QString wall = QString(plasma.getWallpaper());
 
-    QFuture<void> t1 = QtConcurrent::run(workerAverage, &wall, &rA, &gA, &bA);
-    QFuture<void> t2 = QtConcurrent::run(workerPeak, &wall, &rP, &gP, &bP);
+    ImageRGB wallpaperImage(wall);
+
+    wallpaperImage.processHistogram();
+    rA = wallpaperImage.getRed();
+    gA = wallpaperImage.getGreen();
+    bA = wallpaperImage.getBlue();
 
     pixmap.load(wall);
 
-    ImageRGB wallpaperImage;
-    wallpaperImage.processResize(wall);
+    wallpaperImage.processHistogramPeak();
+    rP = wallpaperImage.getRed();
+    gP = wallpaperImage.getGreen();
+    bP = wallpaperImage.getBlue();
+
+    wallpaperImage.processResize();
     rR = wallpaperImage.getRed();
     gR = wallpaperImage.getGreen();
     bR = wallpaperImage.getBlue();
 
     holder = pixmap.scaled(labelWidth, labelHeight, Qt::KeepAspectRatio, Qt::SmoothTransformation);
     ui->label->setAlignment(Qt::AlignCenter);
-
-    t1.waitForFinished();
-    t2.waitForFinished();
 
     rr = rA;
     gg = gA;
