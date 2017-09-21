@@ -13,6 +13,11 @@ private:
     int rP;
     int gP;
     int bP;
+    int lumAvg;
+    int lumPk;
+    int r;
+    int g;
+    int b;
 };
 
 #endif // ONECLICK_H
