@@ -16,7 +16,7 @@
    viewBox="0 0 241.5946 164.26081"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.1 r"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
    sodipodi:docname="clock.svg">
   <defs
      id="defs2">
@@ -28,9 +28,21 @@
          offset="0"
          id="stop4628" />
       <stop
+         id="stop967"
+         offset="0.88179362"
+         style="stop-color:#e6e6e6;stop-opacity:1" />
+      <stop
+         id="stop961"
+         offset="0.90987575"
+         style="stop-color:#fbfbfb;stop-opacity:1" />
+      <stop
+         style="stop-color:#dddddd;stop-opacity:1"
+         offset="0.98102403"
+         id="stop963" />
+      <stop
          id="stop4654"
          offset="1"
-         style="stop-color:#f7f7f7;stop-opacity:1;" />
+         style="stop-color:#b3b3b3;stop-opacity:1" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
@@ -61,14 +73,14 @@
          id="stop4514" />
       <stop
          id="stop4522"
-         offset="0.93392688"
-         style="stop-color:#000000;stop-opacity:1" />
+         offset="0.94016516"
+         style="stop-color:#000000;stop-opacity:0.85779816" />
       <stop
-         style="stop-color:#000000;stop-opacity:0"
-         offset="0.99392766"
+         style="stop-color:#000000;stop-opacity:0.38073394"
+         offset="0.96849471"
          id="stop4581" />
       <stop
-         style="stop-color:#030303;stop-opacity:0"
+         style="stop-color:#010101;stop-opacity:0"
          offset="1"
          id="stop4516" />
     </linearGradient>
@@ -241,8 +253,8 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="2.7246131"
-     inkscape:cx="653.88971"
-     inkscape:cy="229.22735"
+     inkscape:cx="645.6645"
+     inkscape:cy="122.19568"
      inkscape:document-units="px"
      inkscape:current-layer="g4510"
      showgrid="false"
@@ -253,11 +265,11 @@
      units="px"
      inkscape:pagecheckerboard="true"
      inkscape:showpageshadow="false"
-     inkscape:window-width="1920"
-     inkscape:window-height="1135"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="1"
+     inkscape:window-width="1320"
+     inkscape:window-height="835"
+     inkscape:window-x="41"
+     inkscape:window-y="229"
+     inkscape:window-maximized="0"
      inkscape:snap-global="false"
      showguides="true"
      inkscape:guide-bbox="true"
@@ -746,90 +758,83 @@
       </g>
     </g>
     <g
-       transform="matrix(0.93501485,0,0,1.3274912,-2.6401231,-79.424468)"
-       id="MinuteHand">
-      <g
-         id="g4940"
-         transform="translate(0.25098991)">
-        <rect
-           y="245.07945"
-           x="-54.631344"
-           height="38.391823"
-           width="3.3638589"
-           id="rect4936"
-           style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.32489786;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-        <rect
-           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.55920756;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.15909089"
-           id="rect4938"
-           width="6.2045331"
-           height="39.531338"
-           x="-56.051674"
-           y="244.61497" />
-      </g>
+       id="MinuteHand"
+       transform="translate(18.677191,0.13733228)">
       <rect
-         style="opacity:1;fill:none;fill-opacity:0.17727272;fill-rule:nonzero;stroke:none;stroke-width:0.59190357;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:#2a2a2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.35353968;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect4936"
+         width="2.8470309"
+         height="53.711449"
+         x="-53.337448"
+         y="245.91635"
+         ry="1.7103848" />
+      <rect
+         style="opacity:1;fill:none;fill-opacity:0.17727272;fill-rule:nonzero;stroke:none;stroke-width:0.65944111;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="rect4942"
-         width="9.2389946"
-         height="44.388859"
-         x="-57.317917"
-         y="242.54514" />
+         width="8.6385975"
+         height="58.925819"
+         x="-56.233227"
+         y="242.55206" />
     </g>
-    <ellipse
-       style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#9e9e9e;stroke-width:0.74916464;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+    <circle
+       style="opacity:1;fill:#cccccc;fill-opacity:1;fill-rule:nonzero;stroke:#171717;stroke-width:2.55752873;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="HandCenterScrew"
-       cx="-4.1943517"
-       cy="242.52629"
-       rx="5.3653035"
-       ry="5.365303" />
+       cx="22.779703"
+       cy="240.17355"
+       r="6.403491"
+       class="ColorScheme-Background" />
     <g
-       id="SecondHand"
-       transform="matrix(0.56299745,0,0,1,-11.731457,-0.25226964)">
-      <rect
-         y="245.36613"
-         x="-42.24752"
-         height="52.303905"
-         width="2.3256943"
-         id="rect5022"
-         style="opacity:1;fill:#737373;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.48203003;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-      <rect
-         y="242.74059"
-         x="-45.318008"
-         height="58.526558"
-         width="8.4666662"
-         id="rect5024"
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.7178477;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       id="SecondHand">
+      <g
+         transform="matrix(0.56299745,0,0,1,4.748417,1.1210532)"
+         id="g969">
+        <rect
+           style="opacity:1;fill:#bc2a2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.48203003;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5022"
+           width="2.3256943"
+           height="52.303905"
+           x="-42.24752"
+           y="245.36613" />
+        <rect
+           style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.7178477;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+           id="rect5024"
+           width="8.4666662"
+           height="58.526558"
+           x="-45.318008"
+           y="242.74059" />
+      </g>
+      <circle
+         r="1.9393306"
+         cy="245.84476"
+         cx="-18.382151"
+         id="path961"
+         style="opacity:1;fill:#bc2a2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.18829182;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.98655916" />
     </g>
     <g
        id="HourHand">
       <rect
-         y="245.60783"
-         x="-69.520813"
-         height="38.273445"
-         width="4.2788072"
+         y="251.10114"
+         x="-56.606693"
+         height="37.063877"
+         width="3.9943826"
          id="rect4920"
-         style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.3658632;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+         style="opacity:1;fill:#2a2a2a;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.34786347;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         ry="0.056958623" />
       <rect
-         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.61922371;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.15909089"
-         id="rect4922"
-         width="6.5820775"
-         height="39.912064"
-         x="-70.672447"
-         y="245.12061" />
-      <rect
-         y="242.37695"
-         x="-72.0009"
+         y="247.87025"
+         x="-59.229"
          height="44.388859"
          width="9.2389946"
          id="rect4928"
          style="opacity:1;fill:none;fill-opacity:0.17727272;fill-rule:nonzero;stroke:none;stroke-width:0.59190357;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
       <rect
-         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.13653113;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.1626386;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
          id="HOURLIGHT"
-          class="ColorScheme-Background"
-         width="2.3366354"
-         height="9.7601233"
-         x="-68.549728"
-         y="273.21692" />
+         class="ColorScheme-Background"
+         width="2.6348627"
+         height="12.282088"
+         x="-55.926933"
+         y="274.46936" />
     </g>
   </g>
 </svg>
