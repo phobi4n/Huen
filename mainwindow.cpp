@@ -36,7 +36,13 @@ void MainWindow::loadPlasmaWallpaper()
     rA = wallpaperImage.getRed();
     gA = wallpaperImage.getGreen();
     bA = wallpaperImage.getBlue();
-
+    changeSaturation(&rA, &gA, &bA, 1.7);
+    rA = (rA > 255.0) ? 255.0 : rA;
+    gA = (gA > 255.0) ? 255.0 : gA;
+    bA = (bA > 255.0) ? 255.0 : bA;
+    rA = (rA < 0.0) ? 0.0 : rA;
+    gA = (gA < 0.0) ? 0.0 : gA;
+    bA = (bA < 0.0) ? 0.0 : bA;
     pixmap.load(wall);
 
     wallpaperImage.processHistogramPeak();
@@ -44,10 +50,10 @@ void MainWindow::loadPlasmaWallpaper()
     gP = wallpaperImage.getGreen();
     bP = wallpaperImage.getBlue();
 
-    wallpaperImage.processResize();
-    rR = wallpaperImage.getRed();
-    gR = wallpaperImage.getGreen();
-    bR = wallpaperImage.getBlue();
+//    wallpaperImage.processResize();
+//    rR = wallpaperImage.getRed();
+//    gR = wallpaperImage.getGreen();
+//    bR = wallpaperImage.getBlue();
 
     holder = pixmap.scaled(labelWidth, labelHeight, Qt::KeepAspectRatio, Qt::SmoothTransformation);
     ui->label->setAlignment(Qt::AlignCenter);
@@ -113,14 +119,7 @@ void MainWindow::on_radioPeak_clicked()
     drawPreview(holder, rr, gg, bb);
 }
 
-void MainWindow::on_radioResize_clicked()
-{
-    rr = rR;
-    gg = gR;
-    bb = bR;
 
-    drawPreview(holder, rr, gg, bb);
-}
 
 void MainWindow::on_pushReload_clicked()
 {

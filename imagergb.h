@@ -24,6 +24,7 @@ private:
     long green;
     long blue;
     std::vector<std::pair<Magick::Color, long>> histogram;
+//    std::vector<std::pair<Magick::Color, long>> histogram;
     QString thiswall;
 };
 

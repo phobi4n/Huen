@@ -3,6 +3,6 @@
 
 int luminance(int, int, int);
 int saturation(int, int, int);
-void changeSaturation(float, float, float, float);
+void changeSaturation(float *, float *, float *, float);
 
 #endif // COLOUROPS_H

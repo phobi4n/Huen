@@ -1,6 +1,6 @@
 #include "colourops.h"
 #include <math.h>
-
+#include <QDebug>
 
 
 int luminance(int r, int g, int b)
@@ -12,6 +12,7 @@ int luminance(int r, int g, int b)
     max = (max >= b) ? max : b;
 
     int lightness = ((min + max) / 2);
+    qDebug() << lightness;
     return lightness;
 }
 

@@ -8,7 +8,6 @@
 ImageRGB::ImageRGB(QString currentWallpaper)
 {
     thiswall = currentWallpaper;
-    qDebug() << thiswall;
     Magick::Image image(thiswall.toStdString());
     Magick::colorHistogram(&histogram, image);
 }
@@ -44,22 +43,20 @@ void ImageRGB::processHistogramPeak()
     blue = 0;
     long tmp = 0;
     long counter = 0;
-    
-    std::vector<std::pair<Magick::Color, long>> histogram;
-    Magick::colorHistogram( &histogram, image );
+
     std::vector<std::pair<Magick::Color, long>>::const_iterator p=histogram.begin();
-    
+
     while (p != histogram.end())
     {
         tmp = static_cast<long>(p->second);
 
-        if (tmp>counter) {
+        if (tmp > counter) {
             red = static_cast<long>(p->first.redQuantum());
             green = static_cast<long>(p->first.greenQuantum());
             blue = static_cast<long>(p->first.blueQuantum());
             counter = tmp;
         }
-       
+
        p++;
     }
 

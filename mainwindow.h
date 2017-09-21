@@ -18,7 +18,6 @@ public:
 private slots:
     void on_radioAverage_clicked();
     void on_radioPeak_clicked();
-    void on_radioResize_clicked();
     void on_pushReload_clicked();
     void on_pushApply_clicked();
 
@@ -32,9 +31,9 @@ private:
     int rr;
     int gg;
     int bb;
-    int rA;
-    int gA;
-    int bA;
+    float rA;
+    float gA;
+    float bA;
     int rP;
     int gP;
     int bP;

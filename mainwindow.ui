@@ -6,8 +6,8 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>678</width>
-    <height>578</height>
+    <width>643</width>
+    <height>525</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -17,8 +17,8 @@
    <widget class="QPushButton" name="cancelButton">
     <property name="geometry">
      <rect>
-      <x>556</x>
-      <y>520</y>
+      <x>528</x>
+      <y>480</y>
       <width>88</width>
       <height>34</height>
      </rect>
@@ -30,14 +30,14 @@
    <widget class="QGroupBox" name="groupBox">
     <property name="geometry">
      <rect>
-      <x>40</x>
-      <y>430</y>
-      <width>151</width>
-      <height>121</height>
+      <x>20</x>
+      <y>420</y>
+      <width>191</width>
+      <height>91</height>
      </rect>
     </property>
     <property name="title">
-     <string>Sample &amp;Method</string>
+     <string>Color Sample &amp;Method</string>
     </property>
     <property name="flat">
      <bool>false</bool>
@@ -50,12 +50,12 @@
       <rect>
        <x>20</x>
        <y>30</y>
-       <width>105</width>
+       <width>151</width>
        <height>22</height>
       </rect>
      </property>
      <property name="text">
-      <string>A&amp;verage</string>
+      <string>A&amp;verage Saturated</string>
      </property>
     </widget>
     <widget class="QRadioButton" name="radioPeak">
@@ -68,31 +68,30 @@
       </rect>
      </property>
      <property name="text">
-      <string>Pea&amp;k</string>
-     </property>
-    </widget>
-    <widget class="QRadioButton" name="radioResize">
-     <property name="geometry">
-      <rect>
-       <x>20</x>
-       <y>90</y>
-       <width>105</width>
-       <height>22</height>
-      </rect>
-     </property>
-     <property name="text">
-      <string>Resi&amp;ze</string>
+      <string>Pea&amp;k Count</string>
      </property>
     </widget>
    </widget>
    <widget class="QLabel" name="label">
     <property name="geometry">
      <rect>
-      <x>40</x>
-      <y>34</y>
+      <x>20</x>
+      <y>20</y>
       <width>600</width>
       <height>375</height>
      </rect>
+    </property>
+    <property name="frameShape">
+     <enum>QFrame::Panel</enum>
+    </property>
+    <property name="frameShadow">
+     <enum>QFrame::Sunken</enum>
+    </property>
+    <property name="lineWidth">
+     <number>1</number>
+    </property>
+    <property name="midLineWidth">
+     <number>0</number>
     </property>
     <property name="text">
      <string>TextLabel</string>
@@ -101,8 +100,8 @@
    <widget class="QPushButton" name="pushApply">
     <property name="geometry">
      <rect>
-      <x>448</x>
-      <y>520</y>
+      <x>420</x>
+      <y>480</y>
       <width>88</width>
       <height>34</height>
      </rect>
@@ -114,8 +113,8 @@
    <widget class="QPushButton" name="pushReload">
     <property name="geometry">
      <rect>
-      <x>556</x>
-      <y>432</y>
+      <x>530</x>
+      <y>420</y>
       <width>88</width>
       <height>34</height>
      </rect>

@@ -12,7 +12,7 @@ int main(int argc, char *argv[])
         QApplication a(argc, argv);
         MainWindow w;
         w.setWindowIcon(QIcon(":/huen-icon.svg"));
-        w.setFixedSize(678,578);
+//        w.setFixedSize(678,578);
         w.show();
         retVal = a.exec();
     }
