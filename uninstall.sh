@@ -20,3 +20,7 @@ fi
 if [ -f /usr/share/applications/Huen.desktop ]; then
 	rm -v /usr/share/applications/Huen.desktop
 fi
+
+if [ -d "$USER_HOME/.local/share/plasma/desktoptheme/Huen" ]; then
+	rm -rf "$USER_HOME/.local/share/plasma/desktoptheme/Huen"
+fi
