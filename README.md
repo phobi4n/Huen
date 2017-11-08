@@ -1,5 +1,5 @@
 # Huen
-Huen creates a Plasma theme coloured to match your current wallpaper.  
+Huen creates a Plasma theme coloured to match your current wallpaper. [Demonstration video here](https://www.youtube.com/watch?v=_ZdZWec-bFk "YouTube") 
 
 ## Installation
 Huen requires the development packages of Qt 5 and ImageMagick 6.  
