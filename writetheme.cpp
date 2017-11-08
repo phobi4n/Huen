@@ -7,6 +7,7 @@
 #include <QTextStream>
 #include <QStandardPaths>
 #include <QDir>
+#include <QDebug>
 #include "writetheme.h"
 #include "template.h"
 #include "colourops.h"
@@ -19,9 +20,6 @@ WriteTheme::WriteTheme()
 {
     darkText = false;
 }
-
-
-
 
 void WriteTheme::generate(int rr, int gg, int bb)
 {
@@ -60,7 +58,7 @@ void WriteTheme::generate(int rr, int gg, int bb)
             qFatal("Unable to create local theme directory.");
         }
 
-        QString sourceDir = "/usr/share/huen/* ";
+        QString sourceDir = QDir::homePath() + "/.local/share/huen/* ";
         QString command = "cp -r ";
         command += sourceDir;
         command += destDir;

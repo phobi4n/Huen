@@ -1,3 +1,5 @@
+#include <QDir>
+#include <QDebug>
 #include "oneclick.h"
 #include "readplasmaconfig.h"
 #include "imagergb.h"
@@ -10,6 +12,13 @@ extern int saturation(int, int, int);
 
 oneClick::oneClick()
 {
+    QString checkData = QDir::homePath() + "/.local/share/huen";
+    QDir dir(checkData);
+
+    if (!dir.exists()) {
+        qFatal("Data couldn't be found. Exiting.");
+    }
+
     ReadPlasmaConfig plasma;
     QString wall = QString(plasma.getWallpaper());
 
