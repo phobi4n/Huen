@@ -1,7 +1,7 @@
 #!/bin/bash
 
-if [ $EUID != 0 ]; then
-    echo "You need to run me as sudo"
+if [ $EUID == 0 ]; then
+    echo "You need to run me as a regular user"
     exit 1
 fi
 
@@ -9,18 +9,18 @@ if [ -f Makefile ]; then
     make distclean
 fi
 
-if [ -d /usr/share/huen ]; then
-	rm -rv /usr/share/huen
+if [ -d $HOME/.local/share/huen ]; then
+	rm -rfv $HOME/.local/share/huen
 fi
 
-if [ -x /usr/bin/Huen ]; then
-	rm -v /usr/bin/Huen
+if [ -x $HOME/.local/bin/Huen ]; then
+	rm -v $HOME/.local/bin/Huen
 fi
 
-if [ -f /usr/share/applications/Huen.desktop ]; then
-	rm -v /usr/share/applications/Huen.desktop
+if [ -f $HOME/.local/share/applications/Huen.desktop ]; then
+	rm -v $HOME/.local/share/applications/Huen.desktop
 fi
 
-if [ -d "$USER_HOME/.local/share/plasma/desktoptheme/Huen" ]; then
-	rm -rf "$USER_HOME/.local/share/plasma/desktoptheme/Huen"
+if [ -d "$HOME/.local/share/plasma/desktoptheme/Huen" ]; then
+	rm -rfv "$HOME/.local/share/plasma/desktoptheme/Huen"
 fi
