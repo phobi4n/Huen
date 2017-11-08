@@ -1,12 +1,12 @@
 #!/bin/bash
 
-if [ $EUID != 0 ]; then
-    echo "You need to run me as sudo"
+if [ $EUID == 0 ]; then
+    echo "You need to run me as a regular user."
     exit 1
 fi
 
-USER_HOME=$(eval echo ~$SUDO_USER)
-echo $USER_HOME
+#USER_HOME=$(eval echo ~$SUDO_USER)
+#echo $USER_HOME
 
 if [ -f Makefile ]; then
     make distclean
@@ -17,16 +17,16 @@ make -j2
 
 if [ -x Huen ]; then
 
-	if [ -d "$USER_HOME/.local/share/plasma/desktoptheme/Huen" ]; then
+	if [ -d "$HOME/.local/share/plasma/desktoptheme/Huen" ]; then
 		echo "LOCAL COPY EXISTS. Deleting."
-		rm -rf "$USER_HOME/.local/share/plasma/desktoptheme/Huen"
+		rm -rf "$HOME/.local/share/plasma/desktoptheme/Huen"
 	fi
 
-    mkdir -pv /usr/share/huen
-    cp -rfv ./usertheme/* /usr/share/huen
-    cp -fv ./Huen /usr/bin
-    cp -fv ./huen-icon.svg /usr/share/icons/hicolor/scalable/apps
-    cp -fv ./Huen.desktop  /usr/share/applications
+    mkdir -pv $HOME/.local/share/huen
+    cp -rfv ./usertheme/* $HOME/.local/share/huen
+    cp -fv ./Huen $HOME/.local/bin
+    cp -fv ./huen-icon.svg $HOME/.local/share/icons/hicolor/scalable/apps
+    cp -fv ./Huen.desktop  $HOME/.local/share/applications
 else
     echo ""
     echo "Compiling the binary failed. Check Qt-Dev and ImageMagick-Dev packages are installed."
