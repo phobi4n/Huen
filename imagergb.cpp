@@ -1,13 +1,15 @@
-
 #include <QString>
 #include <QDebug>
-#include <QProcess>
+#include <iostream>
+#include <string>
 #include "imagergb.h"
 
 
 ImageRGB::ImageRGB(QString currentWallpaper)
 {
     thiswall = currentWallpaper;
+    qDebug() << "04. Wallpaper path from ImageRGB: " << thiswall;
+    std::cout << "05. Wallpaper path as Std::String: " << thiswall.toStdString();
     Magick::Image image(thiswall.toStdString());
     Magick::colorHistogram(&histogram, image);
 }

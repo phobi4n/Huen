@@ -15,12 +15,16 @@ oneClick::oneClick()
     QString checkData = QDir::homePath() + "/.local/share/huen";
     QDir dir(checkData);
 
+    qDebug() << "01. Huen data directory: " << checkData;
+
     if (!dir.exists()) {
         qFatal("Data couldn't be found. Exiting.");
     }
 
     ReadPlasmaConfig plasma;
     QString wall = QString(plasma.getWallpaper());
+
+    qDebug() << "03. Wallpaper path from config file: " << wall;
 
     ImageRGB wallpaperImage(wall);
     wallpaperImage.processHistogram();

@@ -2,6 +2,7 @@
 #include <QString>
 #include <QStandardPaths>
 #include <QTextStream>
+#include <QDebug>
 #include "readplasmaconfig.h"
 
 ReadPlasmaConfig::ReadPlasmaConfig()
@@ -13,6 +14,8 @@ QString ReadPlasmaConfig::getWallpaper()
     QString localConfig = QStandardPaths::locate(QStandardPaths::HomeLocation,
                                               "", QStandardPaths::LocateDirectory);
     localConfig += ".config/plasma-org.kde.plasma.desktop-appletsrc";
+
+    qDebug() << "02. Plasma config file: " << localConfig;
 
     QString gotcha;
 
