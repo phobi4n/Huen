@@ -11,40 +11,76 @@ ReadPlasmaConfig::ReadPlasmaConfig()
 
 QString ReadPlasmaConfig::getWallpaper()
 {
-    QString localConfig = QStandardPaths::locate(QStandardPaths::HomeLocation,
+    QString userHome = QStandardPaths::locate(QStandardPaths::HomeLocation,
                                               "", QStandardPaths::LocateDirectory);
-    localConfig += ".config/plasma-org.kde.plasma.desktop-appletsrc";
-
-    qDebug() << "02. Plasma config file: " << localConfig;
-
+    QString plasmaRc = userHome + ".config/plasma-org.kde.plasma.desktop-appletsrc";
+    QString activRc  = userHome + ".config/kactivitymanagerdrc";
     QString gotcha;
+    QString curAct;
+    QString line;
 
-    QFile file(localConfig);
-    if (!file.open(QIODevice::ReadOnly | QIODevice::Text)) {
-        qFatal("Unable to open local Plasma config.");
+
+    QFile activ(activRc);
+
+    if (activ.open(QIODevice::ReadOnly | QIODevice::Text)) {
+        QTextStream ina(&activ);
+        QString holder;
+
+        while (!ina.atEnd()) {
+            holder = ina.readLine();
+
+            if (holder.contains("currentActivity"))
+                    curAct = holder.mid(16);
+        }
+        activ.close();
     }
 
-    QTextStream in(&file);
+
+    QFile plas(plasmaRc);
+
+    if (!plas.open(QIODevice::ReadOnly | QIODevice::Text)) {
+        qFatal("Unable to open Plasma config.");
+    }
+
+    QTextStream in(&plas);
+
+    if (!curAct.isEmpty()) {
+        while (!in.atEnd()) {
+            line = in.readLine();
+            if (line.contains(curAct, Qt::CaseSensitive)) {
+                qDebug() << "02. Found: " << line;
+                break;
+            }
+        }
+        if (in.atEnd())
+            in.seek(0);
+    }
 
     while (!in.atEnd()) {
-        QString line = in.readLine();
+        line = in.readLine();
         if (line.contains("[org.kde.image]", Qt::CaseSensitive)) {
             break;
         }
     }
 
     while (!in.atEnd()) {
-        QString line = in.readLine();
+        line = in.readLine();
         if (line.contains("Image=", Qt::CaseSensitive)) {
             gotcha = line;
-            file.close();
             break;
         }
     }
+
+    plas.close();
 
     if (in.atEnd()) {
         qFatal("Reached end of Plasma config without finding what I wanted.");
     }
 
-    return gotcha.mid(13);
+    gotcha = gotcha.mid(6);
+
+    if (gotcha.startsWith("file:/"))
+        gotcha = gotcha.mid(7);
+
+    return gotcha;
 }
