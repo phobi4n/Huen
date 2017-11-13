@@ -13,10 +13,10 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    id="svg7080"
    version="1.0"
-   viewBox="0 0 25 115.00003"
-   height="115"
-   width="25"
-   inkscape:version="0.92.1 r"
+   viewBox="0 0 32.000015 32.000024"
+   height="32.000015"
+   width="32.000015"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="viewitem.svg">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -32,18 +32,22 @@
      id="namedview28"
      showgrid="false"
      inkscape:zoom="10.951365"
-     inkscape:cx="10.233268"
-     inkscape:cy="44.453682"
+     inkscape:cx="11.540817"
+     inkscape:cy="13.196306"
      inkscape:current-layer="svg7080"
      inkscape:pagecheckerboard="true"
      inkscape:window-x="48"
      inkscape:window-y="69"
-     inkscape:window-maximized="0" />
+     inkscape:window-maximized="0"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
   <defs
      id="defs7082">
     <style
-       type="text/css"
-       id="current-color-scheme">
+       id="current-color-scheme"
+       type="text/css">
       .ColorScheme-Text {
         
         stop-
@@ -90,91 +94,91 @@
       }
       </style>
     <linearGradient
-       id="linearGradient1580"
-       osb:paint="solid">
+       osb:paint="solid"
+       id="linearGradient1580">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         id="stop1578"
          offset="0"
-         id="stop1578" />
+         style="stop-color:#000000;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       id="linearGradient5158"
-       osb:paint="solid">
+       osb:paint="solid"
+       id="linearGradient5158">
       <stop
-         style="stop-color:#000000;stop-opacity:1;"
+         id="stop5156"
          offset="0"
-         id="stop5156" />
+         style="stop-color:#000000;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       id="linearGradient5114"
-       osb:paint="solid">
+       osb:paint="solid"
+       id="linearGradient5114">
       <stop
-         style="stop-color:#ff2e13;stop-opacity:1;"
+         id="stop5112"
          offset="0"
-         id="stop5112" />
+         style="stop-color:#ff2e13;stop-opacity:1;" />
     </linearGradient>
     <linearGradient
-       id="Hover-3"
-       osb:paint="solid">
+       osb:paint="solid"
+       id="Hover-3">
       <stop
-         id="stop5510"
-         offset="0"
+         style="stop-color:#2a2a2a;stop-opacity:1;"
          stop-opacity=".49412"
-         style="stop-color:#2a2a2a;stop-opacity:1;" />
+         offset="0"
+         id="stop5510" />
     </linearGradient>
     <linearGradient
-       id="linearGradient5514"
-       y2="544.36"
-       y1="544.36"
-       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-128.43,-470.36)"
+       x1="134.42999"
+       x2="146.42999"
        xlink:href="#Hover-3"
-       x2="146.43"
-       x1="134.43"
-       gradientTransform="translate(-128.43,-470.36)" />
+       gradientUnits="userSpaceOnUse"
+       y1="544.35999"
+       y2="544.35999"
+       id="linearGradient5514" />
     <linearGradient
-       id="linearGradient5522"
-       y2="-131.43"
-       y1="-131.43"
-       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-470.36,128.43)"
+       x1="550.35999"
+       x2="556.35999"
        xlink:href="#Hover-3"
-       x2="556.36"
-       x1="550.36"
-       gradientTransform="translate(-470.36,128.43)" />
+       gradientUnits="userSpaceOnUse"
+       y1="-131.42999"
+       y2="-131.42999"
+       id="linearGradient5522" />
     <linearGradient
-       id="linearGradient5526"
-       y2="-149.43"
-       y1="-149.43"
-       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-470.36,128.43)"
+       x1="550.35999"
+       x2="556.35999"
        xlink:href="#Hover-3"
-       x2="556.36"
-       x1="550.36"
-       gradientTransform="translate(-470.36,128.43)" />
+       gradientUnits="userSpaceOnUse"
+       y1="-149.42999"
+       y2="-149.42999"
+       id="linearGradient5526" />
     <linearGradient
-       id="linearGradient5530"
-       y2="-149.43"
-       y1="-149.43"
-       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-470.36,128.43)"
+       x1="532.35999"
+       x2="538.35999"
        xlink:href="#Hover-3"
-       x2="538.36"
-       x1="532.36"
-       gradientTransform="translate(-470.36,128.43)" />
+       gradientUnits="userSpaceOnUse"
+       y1="-149.42999"
+       y2="-149.42999"
+       id="linearGradient5530" />
     <linearGradient
-       id="linearGradient5534"
-       y2="-131.43"
-       y1="-131.43"
-       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(-470.36,128.43)"
+       x1="532.35999"
+       x2="538.35999"
        xlink:href="#Hover-3"
-       x2="538.36"
-       x1="532.36"
-       gradientTransform="translate(-470.36,128.43)" />
+       gradientUnits="userSpaceOnUse"
+       y1="-131.42999"
+       y2="-131.42999"
+       id="linearGradient5534" />
     <linearGradient
-       id="linearGradient5588"
-       y2="-131.43"
-       y1="-131.43"
-       xlink:href="#Hover-3"
+       x1="538.35999"
+       x2="550.35999"
        gradientUnits="userSpaceOnUse"
-       x2="550.36"
-       x1="538.36" />
+       xlink:href="#Hover-3"
+       y1="-131.42999"
+       y2="-131.42999"
+       id="linearGradient5588" />
   </defs>
   <metadata
      id="metadata7085">
@@ -184,179 +188,86 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <rect
-     style="opacity:0.2;fill:currentColor;fill-opacity:1"
-     y="24.342033"
-     width="5"
-     x="-16.090324"
-     height="5"
-     id="hint-stretch-borders" />
-  <rect
-     id="hover-center"
-     y="59.395123"
-     x="2.2810249"
-     width="24.000013"
+     style="opacity:1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:2.00000119"
+     class="ColorScheme-Background"
      height="24.000013"
-     class="ColorScheme-Text"
-     style="opacity:0.1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:2.00000119" />
-  <g
-     id="hover-bottom"
-     transform="translate(1.91757,-9.3139031)">
-    <rect
-       id="rect842"
-       y="92.709038"
-       x="0.36345574"
-       width="24.000013"
-       height="4"
-       class="ColorScheme-Text"
-       style="opacity:0.1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:0.81649685" />
-    <rect
-       style="opacity:0.2;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40824842"
-       class="ColorScheme-Text"
-       height="1"
-       width="24.000013"
-       x="0.36345574"
-       y="95.709038"
-       id="rect836" />
-  </g>
-  <g
+     width="24.000013"
+     x="4.000001"
+     y="4.000001"
+     id="hover-center" />
+  <rect
      id="hover-top"
-     transform="matrix(1,0,0,-1,1.9175701,152.10416)">
-    <rect
-       style="opacity:0.1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:0.81649685"
-       class="ColorScheme-Text"
-       height="4"
-       width="24.000013"
-       x="0.36345574"
-       y="92.709038"
-       id="rect844" />
-    <rect
-       id="rect846"
-       y="95.709038"
-       x="0.36345574"
-       width="24.000013"
-       height="1"
-       class="ColorScheme-Text"
-       style="opacity:0.2;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40824842" />
-  </g>
-  <g
-     id="hover-left"
-     transform="rotate(90,17.979199,77.010865)">
-    <rect
-       style="opacity:0.1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:0.81649685"
-       class="ColorScheme-Text"
-       height="4"
-       width="24.000013"
-       x="0.36345574"
-       y="92.709038"
-       id="rect850" />
-    <rect
-       id="rect852"
-       y="95.709038"
-       x="0.36345574"
-       width="24.000013"
-       height="1"
-       class="ColorScheme-Text"
-       style="opacity:0.2;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40824842" />
-  </g>
-  <g
+     y="3.000001"
+     x="4.000001"
+     width="24.000013"
+     height="1"
+     class="ColorScheme-Background"
+     style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:evenodd;stroke-width:0.40824842" />
+  <rect
+     style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:evenodd;stroke-width:0.40824842"
+     class="ColorScheme-Background"
+     height="1"
+     width="24.000013"
+     x="4.000001"
+     y="28.000015"
+     id="hover-bottom" />
+  <rect
+     transform="rotate(90)"
      id="hover-right"
-     transform="rotate(-90,8.6652954,75.093295)">
-    <rect
-       style="opacity:0.1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:0.81649685"
-       class="ColorScheme-Text"
-       height="4"
-       width="24.000013"
-       x="0.36345574"
-       y="92.709038"
-       id="rect856" />
-    <rect
-       id="rect858"
-       y="95.709038"
-       x="0.36345574"
-       width="24.000013"
-       height="1"
-       class="ColorScheme-Text"
-       style="opacity:0.2;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.40824842" />
-  </g>
-  <g
-     id="hover-topleft"
-     transform="translate(31.593526,-0.04433138)">
-    <path
-       inkscape:connector-curvature="0"
-       id="TOPLEFTOUTER"
-       class="ColorScheme-Text"
-       d="m -33.3125,55.439453 v 4 h 1 v -3 h 3 v -1 z"
-       style="opacity:0.2;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355" />
-    <rect
-       transform="rotate(90)"
-       style="opacity:0.1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:0.25000018"
-       class="ColorScheme-Text"
-       height="3"
-       width="3"
-       x="56.439453"
-       y="29.3125"
-       id="TOPLEFTINNER" />
-  </g>
-  <g
-     transform="matrix(-1,0,0,1,-3.031462,-0.04433047)"
-     id="hover-topright">
-    <path
-       style="opacity:0.2;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355"
-       d="m -33.3125,55.439453 v 4 h 1 v -3 h 3 v -1 z"
-       class="ColorScheme-Text"
-       id="path4516"
-       inkscape:connector-curvature="0" />
-    <rect
-       id="rect4518"
-       y="29.3125"
-       x="56.439453"
-       width="3"
-       height="3"
-       class="ColorScheme-Text"
-       style="opacity:0.1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:0.25000018"
-       transform="rotate(90)" />
-  </g>
-  <g
+     y="-29.000015"
+     x="4.000001"
+     width="24.000013"
+     height="1"
+     class="ColorScheme-Background"
+     style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:evenodd;stroke-width:0.40824842" />
+  <rect
+     style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:evenodd;stroke-width:0.40824842"
+     class="ColorScheme-Background"
+     height="1"
+     width="24.000013"
+     x="4.000001"
+     y="-4.000001"
+     id="hover-left"
+     transform="rotate(90)" />
+  <rect
+     transform="rotate(90)"
+     id="hover-bottomleft"
+     y="-4.000001"
+     x="28.000015"
+     width="1"
+     height="1"
+     class="ColorScheme-Background"
+     style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:evenodd;stroke-width:0.08333334" />
+  <rect
+     style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:evenodd;stroke-width:0.08333334"
+     class="ColorScheme-Background"
+     height="1"
+     width="1"
+     x="28.000015"
+     y="-29.000015"
      id="hover-bottomright"
-     transform="rotate(-180,-1.5157309,71.417294)">
-    <path
-       inkscape:connector-curvature="0"
-       id="path4522"
-       class="ColorScheme-Text"
-       d="m -33.3125,55.439453 v 4 h 1 v -3 h 3 v -1 z"
-       style="opacity:0.2;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355" />
-    <rect
-       transform="rotate(90)"
-       style="opacity:0.1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:0.25000018"
-       class="ColorScheme-Text"
-       height="3"
-       width="3"
-       x="56.439453"
-       y="29.3125"
-       id="rect4524" />
-  </g>
-  <g
-     transform="matrix(1,0,0,-1,31.593524,142.83459)"
-     id="hover-bottomleft">
-    <path
-       style="opacity:0.2;fill:currentColor;fill-opacity:1;fill-rule:evenodd;stroke-width:0.33333355"
-       d="m -33.3125,55.439453 v 4 h 1 v -3 h 3 v -1 z"
-       class="ColorScheme-Text"
-       id="path4528"
-       inkscape:connector-curvature="0" />
-    <rect
-       id="rect4530"
-       y="29.3125"
-       x="56.439453"
-       width="3"
-       height="3"
-       class="ColorScheme-Text"
-       style="opacity:0.1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:0.25000018"
-       transform="rotate(90)" />
-  </g>
+     transform="rotate(90)" />
+  <rect
+     transform="rotate(90)"
+     id="hover-topright"
+     y="-29.000015"
+     x="3.000001"
+     width="1"
+     height="1"
+     class="ColorScheme-Background"
+     style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:evenodd;stroke-width:0.08333334" />
+  <rect
+     style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:evenodd;stroke-width:0.08333334"
+     class="ColorScheme-Background"
+     height="1"
+     width="1"
+     x="3.000001"
+     y="-4.000001"
+     id="hover-topleft"
+     transform="rotate(90)" />
 </svg>
