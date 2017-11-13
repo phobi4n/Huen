@@ -103,10 +103,10 @@
         color:#fcfcfc;
       }
       .ColorScheme-Background {
-        color:#3daee9;
+        
       }
       .ColorScheme-Background{
-        color:#3daee9;
+        
       }
       .ColorScheme-ButtonText {
         
@@ -115,10 +115,10 @@
         color:#eff0f1;
       }
       .ColorScheme-ButtonHover {
-        color:#3daee9;
+        
       }
       .ColorScheme-ButtonFocus{
-        color:#3daee9;
+        
       }</style>
   </defs>
   <rect
@@ -156,7 +156,7 @@
      width="32"
      id="base-center"
      class="ColorScheme-Text"
-     style="opacity:1;fill:currentColor;fill-opacity:0.1;fill-rule:nonzero;stroke:none;stroke-width:3.53898835;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+     style="opacity:1;fill:currentColor;fill-opacity:0.05;fill-rule:nonzero;stroke:none;stroke-width:3.53898835;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <rect
      y="9.6107769"
      x="24.489597"
@@ -164,9 +164,9 @@
      width="1"
      id="base-left"
      class="ColorScheme-Background"
-     style="color:#3daee9;opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:1.64171863;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+     style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:1.64171863;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <rect
-     style="color:#3daee9;opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:1.64171863;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:1.64171863;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="base-right"
      class="ColorScheme-Background"
      width="1"
@@ -181,9 +181,9 @@
      width="1"
      id="base-top"
      class="ColorScheme-Background"
-     style="color:#3daee9;opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:1.64171863;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+     style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:1.64171863;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <rect
-     style="color:#3daee9;opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:1.64171863;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:1.64171863;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="base-bottom"
      class="ColorScheme-Background"
      width="1"
@@ -198,9 +198,9 @@
      width="1"
      id="base-bottomright"
      class="ColorScheme-Background"
-     style="color:#3daee9;opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:0.29021761;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+     style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:0.29021761;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <rect
-     style="color:#3daee9;opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:0.29021761;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:0.29021761;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="base-topleft"
      class="ColorScheme-Background"
      width="1"
@@ -208,7 +208,7 @@
      x="24.489597"
      y="8.6107769" />
   <rect
-     style="color:#3daee9;opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:0.29021761;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:0.29021761;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="base-topright"
      class="ColorScheme-Background"
      width="1"
@@ -216,7 +216,7 @@
      x="57.489597"
      y="8.6107769" />
   <rect
-     style="color:#3daee9;opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:0.29021761;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:0.29021761;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="base-bottomleft"
      class="ColorScheme-Background"
      width="1"
