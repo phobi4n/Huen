@@ -30,7 +30,7 @@
      showgrid="false"
      inkscape:pagecheckerboard="true"
      inkscape:zoom="11.171317"
-     inkscape:cx="75.630001"
+     inkscape:cx="87.645606"
      inkscape:cy="89.828264"
      inkscape:window-x="124"
      inkscape:window-y="210"
@@ -117,76 +117,76 @@
      height="16"
      width="16"
      id="center"
-     class="ColorScheme-Background"
-     style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.32000008" />
+     class="ColorScheme-ViewBackground"
+     style="fill:currentColor;fill-opacity:0.7;stroke:none;stroke-width:0.32000008" />
   <rect
      style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.16000004"
      id="top"
-     class="ColorScheme-Background"
+     class="ColorScheme-ViewBackground"
      width="16"
-     height="4"
+     height="2"
      x="69.76178"
      y="113.1339" />
   <rect
      y="137.1339"
      x="69.76178"
-     height="4"
+     height="2"
      width="16"
      id="bottom"
-     class="ColorScheme-Background"
+     class="ColorScheme-ViewBackground"
      style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.16000004" />
   <rect
      transform="rotate(90)"
      style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.16000004"
      id="left"
-     class="ColorScheme-Background"
+     class="ColorScheme-ViewBackground"
      width="16"
-     height="4"
+     height="2"
      x="117.1339"
      y="-65.76178" />
   <rect
      y="-89.76178"
      x="117.1339"
-     height="4"
+     height="2"
      width="16"
      id="right"
-     class="ColorScheme-Background"
+     class="ColorScheme-ViewBackground"
      style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.16000004"
      transform="rotate(90)" />
   <rect
      transform="rotate(90)"
      style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.08000002"
      id="topright"
-     class="ColorScheme-Background"
-     width="4"
-     height="4"
+     class="ColorScheme-ViewBackground"
+     width="2"
+     height="2"
      x="113.1339"
      y="-89.76178" />
   <rect
      y="-65.76178"
      x="113.1339"
-     height="4"
-     width="4"
+     height="2"
+     width="2"
      id="topleft"
-     class="ColorScheme-Background"
+     class="ColorScheme-ViewBackground"
      style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.08000002"
      transform="rotate(90)" />
   <rect
      transform="rotate(90)"
      style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.08000002"
      id="bottomleft"
-     class="ColorScheme-Background"
-     width="4"
-     height="4"
+     class="ColorScheme-ViewBackground"
+     width="2"
+     height="2"
      x="137.1339"
      y="-65.76178" />
   <rect
      y="-89.76178"
      x="137.1339"
-     height="4"
-     width="4"
+     height="2"
+     width="2"
      id="bottomright"
-     class="ColorScheme-Background"
+     class="ColorScheme-ViewBackground"
      style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.08000002"
      transform="rotate(90)" />
 </svg>
