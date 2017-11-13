@@ -120,7 +120,7 @@
      class="ColorScheme-ViewBackground"
      style="fill:currentColor;fill-opacity:0.7;stroke:none;stroke-width:0.32000008" />
   <rect
-     style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.16000004"
+     style="fill:currentColor;fill-opacity:0.7;stroke:none;stroke-width:0.16000004"
      id="top"
      class="ColorScheme-ViewBackground"
      width="16"
@@ -134,10 +134,10 @@
      width="16"
      id="bottom"
      class="ColorScheme-ViewBackground"
-     style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.16000004" />
+     style="fill:currentColor;fill-opacity:0.7;stroke:none;stroke-width:0.16000004" />
   <rect
      transform="rotate(90)"
-     style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.16000004"
+     style="fill:currentColor;fill-opacity:0.7;stroke:none;stroke-width:0.16000004"
      id="left"
      class="ColorScheme-ViewBackground"
      width="16"
@@ -151,11 +151,11 @@
      width="16"
      id="right"
      class="ColorScheme-ViewBackground"
-     style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.16000004"
+     style="fill:currentColor;fill-opacity:0.7;stroke:none;stroke-width:0.16000004"
      transform="rotate(90)" />
   <rect
      transform="rotate(90)"
-     style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.08000002"
+     style="fill:currentColor;fill-opacity:0.7;stroke:none;stroke-width:0.08000002"
      id="topright"
      class="ColorScheme-ViewBackground"
      width="2"
@@ -169,11 +169,11 @@
      width="2"
      id="topleft"
      class="ColorScheme-ViewBackground"
-     style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.08000002"
+     style="fill:currentColor;fill-opacity:0.7;stroke:none;stroke-width:0.08000002"
      transform="rotate(90)" />
   <rect
      transform="rotate(90)"
-     style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.08000002"
+     style="fill:currentColor;fill-opacity:0.7;stroke:none;stroke-width:0.08000002"
      id="bottomleft"
      class="ColorScheme-ViewBackground"
      width="2"
@@ -187,6 +187,6 @@
      width="2"
      id="bottomright"
      class="ColorScheme-ViewBackground"
-     style="fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0.08000002"
+     style="fill:currentColor;fill-opacity:0.7;stroke:none;stroke-width:0.08000002"
      transform="rotate(90)" />
 </svg>
