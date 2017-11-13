@@ -23,9 +23,11 @@ WriteTheme::WriteTheme()
 
 void WriteTheme::generate(int rr, int gg, int bb)
 {
-    if (luminance(rr, gg, bb) > DARK_THRESHOLD)
+    int brightness = luminance(rr, gg, bb);
+    if (brightness > DARK_THRESHOLD)
         darkText = true;
 
+    qDebug() << "LUM " << luminance(rr, gg, bb);
     QString replacement =
             QString::number(rr) + ',' +
             QString::number(gg) + ',' +
@@ -35,7 +37,26 @@ void WriteTheme::generate(int rr, int gg, int bb)
     QString textColour = NORMAL_TEXT;
     QString dialogColour = NORMAL_DIALOG;
     QString buttonText = NORMAL_TEXT;
+    QString highlight;
 
+    if (brightness < 32) {
+         highlight =
+                QString::number(rr*4) + ',' +
+                QString::number(gg*4) + ',' +
+                QString::number(bb*4);
+    } else if (brightness < 64) {
+        highlight =
+               QString::number(rr*2) + ',' +
+               QString::number(gg*2) + ',' +
+               QString::number(bb*2);
+    } else {
+         highlight =
+                QString::number(rr) + ',' +
+                QString::number(gg) + ',' +
+                QString::number(bb);
+    }
+
+    qDebug() << "HIGHLIGHT" << highlight;
     if (darkText) {
         textColour = DARK_TEXT;
         dialogColour = LIGHT_DIALOG;
@@ -46,6 +67,7 @@ void WriteTheme::generate(int rr, int gg, int bb)
     plasmaTemplate.replace("yyy,yyy,yyy", textColour);
     plasmaTemplate.replace("zzz,zzz,zzz", dialogColour);
     plasmaTemplate.replace("aaa,aaa,aaa", textColour);
+    plasmaTemplate.replace("ccc,ccc,ccc", highlight);
 
     QString destDir= QStandardPaths::locate(QStandardPaths::HomeLocation,
                                               "", QStandardPaths::LocateDirectory);
