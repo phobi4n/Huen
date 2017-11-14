@@ -60,7 +60,7 @@ void WriteTheme::generate(int rr, int gg, int bb)
     }
 
     plasmaTemplate.replace("xxx,xxx,xxx", replacement);
-    plasmaTemplate.replace("bbb,bbb,bbb", replacement);
+    plasmaTemplate.replace("bbb,bbb,bbb", highlight);
     plasmaTemplate.replace("yyy,yyy,yyy", textColour);
     plasmaTemplate.replace("zzz,zzz,zzz", dialogColour);
     plasmaTemplate.replace("aaa,aaa,aaa", textColour);
