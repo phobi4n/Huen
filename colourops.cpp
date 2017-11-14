@@ -1,5 +1,6 @@
 #include "colourops.h"
 #include <math.h>
+#include <QDebug>
 
 
 int luminance(int r, int g, int b)
@@ -46,6 +47,7 @@ void changeSaturation(float *R, float *G, float *B, float change)
     float Pg = 0.587;
     float Pb = 0.114;
 
+    qDebug() << *R << *G << *B;
     float  P=sqrt(
                  (*R)*(*R)*Pr+
                  (*G)*(*G)*Pg+
@@ -54,4 +56,5 @@ void changeSaturation(float *R, float *G, float *B, float change)
     *R=P+((*R)-P)*change;
     *G=P+((*G)-P)*change;
     *B=P+((*B)-P)*change;
+    qDebug() << *R << *G << *B;
 }

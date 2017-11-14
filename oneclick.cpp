@@ -5,6 +5,7 @@
 #include "imagergb.h"
 #include "writetheme.h"
 #include "colourops.h"
+#include "defs.h"
 
 extern int luminance(int, int, int);
 extern int saturation(int, int, int);
@@ -32,7 +33,8 @@ oneClick::oneClick()
     gA = wallpaperImage.getGreen();
     bA = wallpaperImage.getBlue();
 
-    changeSaturation(&rA, &gA, &bA, 1.7);
+    changeSaturation(&rA, &gA, &bA, SATURATION_MULTIPLIER);
+    qDebug() << "AVG" << rA << gA << bA;
 
     rA = (rA > 255.0) ? 255.0 : rA;
     gA = (gA > 255.0) ? 255.0 : gA;
@@ -45,6 +47,7 @@ oneClick::oneClick()
     rP = wallpaperImage.getRed();
     gP = wallpaperImage.getGreen();
     bP = wallpaperImage.getBlue();
+    qDebug() << "PEAK" << rP << gP << bP;
 
     lumAvg = luminance((int)rA,(int)gA,(int)bA);
     lumPk  = luminance(rP,gP,bP);

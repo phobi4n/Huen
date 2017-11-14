@@ -17,14 +17,12 @@ public:
     void processHistogram();
     void processHistogramPeak();
     void processResize();
-    void processResizeSTL(QString);
     
 private:
     long red;
     long green;
     long blue;
     std::vector<std::pair<Magick::Color, long>> histogram;
-//    std::vector<std::pair<Magick::Color, long>> histogram;
     QString thiswall;
 };
 

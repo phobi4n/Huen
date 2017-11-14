@@ -8,11 +8,11 @@
 #define DARK_THRESHOLD 162
 
 // Text colours (quoted triplets)
-#define NORMAL_TEXT "252,252,252"
+#define NORMAL_TEXT "255,255,255"
 #define DARK_TEXT "34,34,34"
 
 // Backgrounds (quoted triplets)
-#define NORMAL_DIALOG "6,7,9"
+#define NORMAL_DIALOG "14,17,21"
 #define LIGHT_DIALOG "248,252,252"
 
 #endif // DEFS_H

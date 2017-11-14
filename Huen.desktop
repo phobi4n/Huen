@@ -8,5 +8,3 @@ Icon=huen-icon
 Exec=Huen
 Categories=Settings;DesktopSettings;
 MimeType=
-StartupNotify=false
-Terminal=false

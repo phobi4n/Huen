@@ -1,5 +1,4 @@
 #include "oneclick.h"
-#include <QApplication>
 
 int main()
 {
