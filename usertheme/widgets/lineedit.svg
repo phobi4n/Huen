@@ -163,12 +163,12 @@
      height="32"
      width="1"
      id="base-left"
-     class="ColorScheme-Background"
+     class="ColorScheme-ViewFocus"
      style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:1.64171863;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <rect
      style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:1.64171863;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="base-right"
-     class="ColorScheme-Background"
+     class="ColorScheme-ViewFocus"
      width="1"
      height="32"
      x="57.489597"
@@ -180,12 +180,12 @@
      height="32"
      width="1"
      id="base-top"
-     class="ColorScheme-Background"
+     class="ColorScheme-ViewFocus"
      style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:1.64171863;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <rect
      style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:1.64171863;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="base-bottom"
-     class="ColorScheme-Background"
+     class="ColorScheme-ViewFocus"
      width="1"
      height="32"
      x="41.610779"
@@ -197,12 +197,12 @@
      height="1"
      width="1"
      id="base-bottomright"
-     class="ColorScheme-Background"
+     class="ColorScheme-ViewFocus"
      style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:0.29021761;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <rect
      style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:0.29021761;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="base-topleft"
-     class="ColorScheme-Background"
+     class="ColorScheme-ViewFocus"
      width="1"
      height="1"
      x="24.489597"
@@ -210,7 +210,7 @@
   <rect
      style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:0.29021761;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="base-topright"
-     class="ColorScheme-Background"
+     class="ColorScheme-ViewFocus"
      width="1"
      height="1"
      x="57.489597"
@@ -218,7 +218,7 @@
   <rect
      style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:nonzero;stroke:none;stroke-width:0.29021761;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="base-bottomleft"
-     class="ColorScheme-Background"
+     class="ColorScheme-ViewFocus"
      width="1"
      height="1"
      x="24.489597"
