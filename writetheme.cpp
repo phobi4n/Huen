@@ -7,7 +7,6 @@
 #include <QTextStream>
 #include <QStandardPaths>
 #include <QDir>
-#include <QDebug>
 #include "writetheme.h"
 #include "template.h"
 #include "colourops.h"
@@ -27,7 +26,6 @@ void WriteTheme::generate(int rr, int gg, int bb)
     if (brightness > DARK_THRESHOLD)
         darkText = true;
 
-    qDebug() << "LUM " << luminance(rr, gg, bb);
     QString replacement =
             QString::number(rr) + ',' +
             QString::number(gg) + ',' +
@@ -56,7 +54,6 @@ void WriteTheme::generate(int rr, int gg, int bb)
                 QString::number(bb);
     }
 
-    qDebug() << "HIGHLIGHT" << highlight;
     if (darkText) {
         textColour = DARK_TEXT;
         dialogColour = LIGHT_DIALOG;

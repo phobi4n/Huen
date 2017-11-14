@@ -1,5 +1,4 @@
 #include <QDir>
-#include <QDebug>
 #include "oneclick.h"
 #include "readplasmaconfig.h"
 #include "imagergb.h"
@@ -16,7 +15,6 @@ oneClick::oneClick()
     QString checkData = QDir::homePath() + "/.local/share/huen";
     QDir dir(checkData);
 
-    qDebug() << "01. Huen data directory: " << checkData;
 
     if (!dir.exists()) {
         qFatal("Data couldn't be found. Exiting.");
@@ -25,8 +23,6 @@ oneClick::oneClick()
     ReadPlasmaConfig plasma;
     QString wall = QString(plasma.getWallpaper());
 
-    qDebug() << "03. Wallpaper path from config file: " << wall;
-
     ImageRGB wallpaperImage(wall);
     wallpaperImage.processHistogram();
     rA = wallpaperImage.getRed();
@@ -34,7 +30,6 @@ oneClick::oneClick()
     bA = wallpaperImage.getBlue();
 
     changeSaturation(&rA, &gA, &bA, SATURATION_MULTIPLIER);
-    qDebug() << "AVG" << rA << gA << bA;
 
     rA = (rA > 255.0) ? 255.0 : rA;
     gA = (gA > 255.0) ? 255.0 : gA;
@@ -47,7 +42,6 @@ oneClick::oneClick()
     rP = wallpaperImage.getRed();
     gP = wallpaperImage.getGreen();
     bP = wallpaperImage.getBlue();
-    qDebug() << "PEAK" << rP << gP << bP;
 
     lumAvg = luminance((int)rA,(int)gA,(int)bA);
     lumPk  = luminance(rP,gP,bP);

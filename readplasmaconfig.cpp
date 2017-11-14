@@ -48,7 +48,6 @@ QString ReadPlasmaConfig::getWallpaper()
         while (!in.atEnd()) {
             line = in.readLine();
             if (line.contains(curAct, Qt::CaseSensitive)) {
-                qDebug() << "02. Found: " << line;
                 break;
             }
         }
