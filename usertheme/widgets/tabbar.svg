@@ -27,7 +27,7 @@
      fit-margin-top="10"
      inkscape:current-layer="svg2"
      inkscape:cy="22.870319"
-     inkscape:cx="54.172205"
+     inkscape:cx="64.008946"
      inkscape:zoom="9.9702061"
      showgrid="false"
      id="namedview99"
@@ -228,7 +228,7 @@
      class="ColorScheme-Text" />
   <rect
      style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.55153131;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     class="ColorScheme-Background"
+     class="ColorScheme-ViewFocus"
      id="south-active-tab-bottom"
      width="32"
      height="2"
@@ -262,7 +262,7 @@
      style="opacity:1;fill:currentColor;fill-opacity:0.05;fill-rule:nonzero;stroke:none;stroke-width:7.55153131;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <rect
      style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88788283;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     class="ColorScheme-Background"
+     class="ColorScheme-ViewFocus"
      id="south-active-tab-bottomleft"
      width="2"
      height="2"
@@ -294,7 +294,7 @@
      height="2"
      width="2"
      id="south-active-tab-bottomright"
-     class="ColorScheme-Background"
+     class="ColorScheme-ViewFocus"
      style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88788283;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <rect
      y="5.8170309"
@@ -310,7 +310,7 @@
      height="2"
      width="32"
      id="north-active-tab-bottom"
-     class="ColorScheme-Background"
+     class="ColorScheme-ViewFocus"
      style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.55153131;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <rect
      style="opacity:1;fill:currentColor;fill-opacity:0.05;fill-rule:nonzero;stroke:none;stroke-width:7.55153131;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -345,7 +345,7 @@
      height="2"
      width="2"
      id="north-active-tab-bottomleft"
-     class="ColorScheme-Background"
+     class="ColorScheme-ViewFocus"
      style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88788283;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <rect
      style="opacity:1;fill:currentColor;fill-opacity:0.05;fill-rule:nonzero;stroke:none;stroke-width:1.88788283;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
@@ -367,7 +367,7 @@
      style="opacity:1;fill:currentColor;fill-opacity:0.05;fill-rule:nonzero;stroke:none;stroke-width:1.88788283;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
   <rect
      style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.88788283;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     class="ColorScheme-Background"
+     class="ColorScheme-ViewFocus"
      id="north-active-tab-bottomright"
      width="2"
      height="2"
