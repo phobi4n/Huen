@@ -15,7 +15,7 @@
    height="90.000023"
    id="svg3642"
    sodipodi:version="0.32"
-   inkscape:version="0.92.2 5c3e80d, 2017-08-06"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
    sodipodi:docname="background.svg"
    inkscape:output_extension="org.inkscape.output.svgz.inkscape"
    version="1.0"
@@ -28,7 +28,7 @@
      inkscape:pageopacity="0.25882353"
      inkscape:pageshadow="2"
      inkscape:zoom="6.2241585"
-     inkscape:cx="60.754087"
+     inkscape:cx="32.39684"
      inkscape:cy="47.536246"
      inkscape:current-layer="layer1"
      showgrid="true"
@@ -307,7 +307,7 @@
        height="48"
        width="48"
        id="center"
-       class="ColorScheme-Background"
+       class="ColorScheme-ViewBackground"
        style="opacity:1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:19.33273697;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <rect
        style="opacity:0.1;fill:currentColor;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.34914732;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
