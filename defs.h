@@ -12,7 +12,7 @@
 #define DARK_TEXT "34,34,34"
 
 // Backgrounds (quoted triplets)
-#define NORMAL_DIALOG "14,17,21"
+#define NORMAL_DIALOG "10,12,15"
 #define LIGHT_DIALOG "248,252,252"
 
 #endif // DEFS_H
