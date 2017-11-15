@@ -21,9 +21,9 @@ void ImageRGB::processHistogram()
     std::vector<std::pair<Magick::Color, long>>::const_iterator p = histogram.begin();
     
     while (p != histogram.end()) {
-        red = red + static_cast<long>(p->first.redQuantum());
-        green = green + static_cast<long>(p->first.greenQuantum());
-        blue = blue + static_cast <long>(p->first.blueQuantum());
+        red = red + p->first.redQuantum();
+        green = green + p->first.greenQuantum();
+        blue = blue + p->first.blueQuantum();
         ++p;
         ++counter3;
     }
@@ -36,26 +36,21 @@ void ImageRGB::processHistogram()
 
 void ImageRGB::processHistogramPeak()
 {
-    Magick::Image image(thiswall.toStdString());
     red = 0;
     green = 0;
     blue = 0;
-    long tmp = 0;
     long counter = 0;
 
     std::vector<std::pair<Magick::Color, long>>::const_iterator p=histogram.begin();
 
     while (p != histogram.end())
     {
-        tmp = static_cast<long>(p->second);
-
-        if (tmp > counter) {
-            red = static_cast<long>(p->first.redQuantum());
-            green = static_cast<long>(p->first.greenQuantum());
-            blue = static_cast<long>(p->first.blueQuantum());
-            counter = tmp;
+        if (p->second > counter) {
+            red = p->first.redQuantum();
+            green = p->first.greenQuantum();
+            blue = p->first.blueQuantum();
+            counter = p->second;
         }
-
        p++;
     }
 

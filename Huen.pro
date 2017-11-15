@@ -29,6 +29,7 @@ PKGCONFIG += Magick++ MagickCore
 
 INCLUDEPATH += /usr/include/ImageMagick-6
 
+CONFIG += c++11
 
 SOURCES += \
         main.cpp \

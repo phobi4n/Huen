@@ -19,9 +19,9 @@ public:
     void processResize();
     
 private:
-    long red;
-    long green;
-    long blue;
+    unsigned long red;
+    unsigned long green;
+    unsigned long blue;
     std::vector<std::pair<Magick::Color, long>> histogram;
     QString thiswall;
 };
