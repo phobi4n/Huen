@@ -1,3 +1,4 @@
+#!/usr/bin/env xdg-open
 [Desktop Entry]
 Encoding=UTF-8
 Type=Application
@@ -8,3 +9,4 @@ Icon=huen-icon
 Exec=Huen
 Categories=Settings;DesktopSettings;
 MimeType=
+StartupNotify=false
