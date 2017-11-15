@@ -21,7 +21,7 @@
   <sodipodi:namedview
      inkscape:current-layer="svg3642"
      inkscape:cy="57.776706"
-     inkscape:cx="130.71269"
+     inkscape:cx="37.62885"
      inkscape:zoom="5.9030356"
      showgrid="false"
      id="namedview36"
@@ -102,7 +102,7 @@
          offset="0"
          id="stop890" />
       <stop
-         style="stop-color:#000000;stop-opacity:0"
+         style="stop-color:currentColor;stop-opacity:0"
          offset="1"
          id="stop892" />
     </linearGradient>
@@ -114,7 +114,7 @@
          offset="0"
          id="stop884" />
       <stop
-         style="stop-color:#000000;stop-opacity:0.01304348"
+         style="stop-color:currentColor;stop-opacity:0.01304348"
          offset="1"
          id="stop886" />
     </linearGradient>
@@ -290,11 +290,11 @@
       <stop
          id="stop3275-1"
          offset="0"
-         style="stop-color:#000000;stop-opacity:0.78431374;" />
+         style="stop-color:currentColor;stop-opacity:0.78431374;" />
       <stop
          id="stop3277-0"
          offset="1"
-         style="stop-color:#000000;stop-opacity:0;" />
+         style="stop-color:currentColor;stop-opacity:0;" />
     </linearGradient>
     <linearGradient
        gradientTransform="matrix(0,-1,-1.3333333,0,1552.3396,60.000001)"
@@ -406,7 +406,7 @@
     </rdf:RDF>
   </metadata>
   <rect
-     style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0"
+     style="opacity:1;fill:currentColor;fill-opacity:0.9;stroke:none;stroke-width:0"
      class="ColorScheme-Background"
      width="48"
      y="10.195488"
@@ -420,9 +420,9 @@
      y="9.195488"
      width="48"
      class="ColorScheme-Background"
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.13856407" />
+     style="fill:currentColor;fill-opacity:0.9;stroke-width:0.13856407" />
   <rect
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.13856407"
+     style="fill:currentColor;fill-opacity:0.9;stroke-width:0.13856407"
      class="ColorScheme-Background"
      width="48"
      y="58.195488"
@@ -437,9 +437,9 @@
      y="-112"
      width="48"
      class="ColorScheme-Background"
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.13856407" />
+     style="fill:currentColor;fill-opacity:0.9;stroke-width:0.13856407" />
   <rect
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.13856407"
+     style="fill:currentColor;fill-opacity:0.9;stroke-width:0.13856407"
      class="ColorScheme-Background"
      width="48"
      y="-63"
@@ -455,9 +455,9 @@
      y="-63"
      width="1"
      class="ColorScheme-Background"
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.02" />
+     style="fill:currentColor;fill-opacity:0.9;stroke-width:0.02" />
   <rect
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.02"
+     style="fill:currentColor;fill-opacity:0.9;stroke-width:0.02"
      class="ColorScheme-Background"
      width="1"
      y="-112"
@@ -473,9 +473,9 @@
      y="-112"
      width="1"
      class="ColorScheme-Background"
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.02" />
+     style="fill:currentColor;fill-opacity:0.9;stroke-width:0.02" />
   <rect
-     style="fill:currentColor;fill-opacity:1;stroke-width:0.02"
+     style="fill:currentColor;fill-opacity:0.9;stroke-width:0.02"
      class="ColorScheme-Background"
      width="1"
      y="-63"
