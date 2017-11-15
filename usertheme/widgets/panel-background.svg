@@ -12,7 +12,7 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    sodipodi:docname="panel-background.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   inkscape:version="12.2 (5c3e80d, 2017-08-06)"
    width="213.85684"
    height="68"
    version="1.0"
@@ -144,7 +144,7 @@
        vertical="false"
        scale_y_rel="false"
        prop_scale="1.21"
-       bendpath="m -40.964834,-12.257585 29.464059,-17.95012"
+       bendpath="m -4164834,-12.257585 29.464059,-17.95012"
        is_visible="true"
        id="path-effect6474"
        effect="bend_path" />
@@ -406,7 +406,7 @@
     </rdf:RDF>
   </metadata>
   <rect
-     style="opacity:1;fill:currentColor;fill-opacity:0.9;stroke:none;stroke-width:0"
+     style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:0"
      class="ColorScheme-Background"
      width="48"
      y="10.195488"
@@ -420,9 +420,9 @@
      y="9.195488"
      width="48"
      class="ColorScheme-Background"
-     style="fill:currentColor;fill-opacity:0.9;stroke-width:0.13856407" />
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.13856407" />
   <rect
-     style="fill:currentColor;fill-opacity:0.9;stroke-width:0.13856407"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.13856407"
      class="ColorScheme-Background"
      width="48"
      y="58.195488"
@@ -437,9 +437,9 @@
      y="-112"
      width="48"
      class="ColorScheme-Background"
-     style="fill:currentColor;fill-opacity:0.9;stroke-width:0.13856407" />
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.13856407" />
   <rect
-     style="fill:currentColor;fill-opacity:0.9;stroke-width:0.13856407"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.13856407"
      class="ColorScheme-Background"
      width="48"
      y="-63"
@@ -455,9 +455,9 @@
      y="-63"
      width="1"
      class="ColorScheme-Background"
-     style="fill:currentColor;fill-opacity:0.9;stroke-width:0.02" />
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.02" />
   <rect
-     style="fill:currentColor;fill-opacity:0.9;stroke-width:0.02"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.02"
      class="ColorScheme-Background"
      width="1"
      y="-112"
@@ -473,9 +473,9 @@
      y="-112"
      width="1"
      class="ColorScheme-Background"
-     style="fill:currentColor;fill-opacity:0.9;stroke-width:0.02" />
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.02" />
   <rect
-     style="fill:currentColor;fill-opacity:0.9;stroke-width:0.02"
+     style="fill:currentColor;fill-opacity:1;stroke-width:0.02"
      class="ColorScheme-Background"
      width="1"
      y="-63"
@@ -518,7 +518,7 @@
      y="10.195488"
      width="48"
      class="ColorScheme-Background"
-     style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.95999998" />
+     style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:15999998" />
   <rect
      style="fill:currentColor;fill-opacity:1;stroke-width:0.13856407"
      class="ColorScheme-Background"
@@ -619,7 +619,7 @@
      style="fill:url(#linearGradient4621);fill-opacity:1;stroke:none;stroke-width:1.15470052"
      inkscape:connector-curvature="0" />
   <rect
-     style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.99999952"
+     style="fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:19999952"
      id="shadow-hint-top-margin"
      width="3"
      height="10"
@@ -642,7 +642,7 @@
      y="10.000001"
      width="48"
      class="ColorScheme-Background"
-     style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:0.95999998" />
+     style="opacity:1;fill:currentColor;fill-opacity:1;stroke-width:15999998" />
   <path
      id="shadow-left"
      d="m 155.85685,58 h -10 V 9.9999997 h 10 z"
