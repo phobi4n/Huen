@@ -31,9 +31,9 @@
      inkscape:window-height="860"
      id="namedview28"
      showgrid="false"
-     inkscape:zoom="16.544551"
-     inkscape:cx="10.951572"
-     inkscape:cy="16.071056"
+     inkscape:zoom="19.601066"
+     inkscape:cx="7.3992204"
+     inkscape:cy="16.154844"
      inkscape:current-layer="svg7080"
      inkscape:pagecheckerboard="true"
      inkscape:window-x="48"
@@ -200,160 +200,121 @@
      height="24.000013"
      class="ColorScheme-ViewFocus"
      style="opacity:1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:2.00000119" />
-  <g
-     transform="translate(-2.1046371,0.09131432)"
-     id="hover-right">
-    <rect
-       transform="rotate(90)"
-       id="rect979"
-       y="-32.104652"
-       x="3.9086881"
-       width="24.000013"
-       height="1"
-       class="ColorScheme-ViewFocus"
-       style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:evenodd;stroke-width:0.40824842" />
-    <rect
-       id="rect839"
-       y="3.9086871"
-       x="30.104652"
-       width="1"
-       height="24.000013"
-       class="ColorScheme-ViewFocus"
-       style="opacity:1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:0.40824842" />
-  </g>
-  <g
-     transform="translate(-7.9179541,5.4394547)"
-     id="hover-topright">
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:evenodd;stroke-width:0.1666667"
-       d="m 35.917969,-3.4394531 v 1 h 1 v 1 h 1 v -2 z"
-       id="rect847"
-       class="ColorScheme-ViewFocus" />
-    <rect
-       id="rect850"
-       y="-2.4394531"
-       x="35.917969"
-       width="1"
-       height="1"
-       class="ColorScheme-ViewFocus"
-       style="opacity:1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:0.08333334" />
-  </g>
-  <g
+  <rect
+     style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:evenodd;stroke-width:0.40824842"
+     class="ColorScheme-ViewFocus"
+     height="1"
+     width="24.000013"
+     x="4.0000029"
+     y="-29.000015"
+     id="hover-right"
+     transform="rotate(90)" />
+  <rect
+     style="opacity:1;fill:#000000;fill-opacity:0.7;fill-rule:nonzero;stroke:none;stroke-width:1.90528011;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="hover-hint-right-margin"
+     width="4"
+     height="1"
+     x="42.006367"
+     y="22.150675" />
+  <rect
+     y="19.574284"
+     x="41.894348"
+     height="1"
+     width="4"
+     id="hover-hint-left-margin"
+     style="opacity:1;fill:#000000;fill-opacity:0.7;fill-rule:nonzero;stroke:none;stroke-width:1.90528011;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <rect
+     style="opacity:1;fill:#000000;fill-opacity:0.7;fill-rule:nonzero;stroke:none;stroke-width:1.90528011;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="hover-hint-bottom-margin"
+     width="4"
+     height="1"
+     x="12.074284"
+     y="-44.394348"
+     transform="rotate(90)" />
+  <rect
+     transform="rotate(90)"
+     y="-44.394348"
+     x="6.0742836"
+     height="1"
+     width="4"
+     id="hover-hint-top-margin"
+     style="opacity:1;fill:#000000;fill-opacity:0.7;fill-rule:nonzero;stroke:none;stroke-width:1.90528011;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+  <rect
+     transform="rotate(90)"
      id="hover-left"
-     transform="matrix(-1,0,0,1,34.104654,0.09131289)">
-    <rect
-       style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:evenodd;stroke-width:0.40824842"
-       class="ColorScheme-ViewFocus"
-       height="1"
-       width="24.000013"
-       x="3.9086881"
-       y="-32.104652"
-       id="rect856"
-       transform="rotate(90)" />
-    <rect
-       style="opacity:1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:0.40824842"
-       class="ColorScheme-ViewFocus"
-       height="24.000013"
-       width="1"
-       x="30.104652"
-       y="3.9086871"
-       id="rect858" />
-  </g>
-  <g
+     y="-4.000001"
+     x="4.0000029"
+     width="24.000013"
+     height="1"
+     class="ColorScheme-ViewFocus"
+     style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:evenodd;stroke-width:0.40824842" />
+  <rect
+     transform="scale(-1)"
      id="hover-top"
-     transform="rotate(-90,17.097984,17.00667)">
-    <rect
-       style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:evenodd;stroke-width:0.40824842"
-       class="ColorScheme-ViewFocus"
-       height="1"
-       width="24.000013"
-       x="3.9086881"
-       y="-32.104652"
-       id="rect862"
-       transform="rotate(90)" />
-    <rect
-       style="opacity:1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:0.40824842"
-       class="ColorScheme-ViewFocus"
-       height="24.000013"
-       width="1"
-       x="30.104652"
-       y="3.9086871"
-       id="rect864" />
-  </g>
-  <g
-     transform="matrix(0,1,1,0,0.091313,-2.1046378)"
-     id="hover-bottom">
-    <rect
-       transform="rotate(90)"
-       id="rect868"
-       y="-32.104652"
-       x="3.9086881"
-       width="24.000013"
-       height="1"
-       class="ColorScheme-ViewFocus"
-       style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:evenodd;stroke-width:0.40824842" />
-    <rect
-       id="rect870"
-       y="3.9086871"
-       x="30.104652"
-       width="1"
-       height="24.000013"
-       class="ColorScheme-ViewFocus"
-       style="opacity:1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:0.40824842" />
-  </g>
-  <g
-     id="hover-topleft"
-     transform="matrix(-1,0,0,1,39.917971,5.4394531)">
-    <path
-       id="path874"
-       d="m 35.917969,-3.4394531 v 1 h 1 v 1 h 1 v -2 z"
-       style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:evenodd;stroke-width:0.1666667"
-       inkscape:connector-curvature="0"
-       class="ColorScheme-ViewFocus" />
-    <rect
-       style="opacity:1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:0.08333334"
-       class="ColorScheme-ViewFocus"
-       height="1"
-       width="1"
-       x="35.917969"
-       y="-2.4394531"
-       id="rect876" />
-  </g>
-  <g
+     y="-4"
+     x="-28.000015"
+     width="24.000013"
+     height="1"
+     class="ColorScheme-ViewFocus"
+     style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:evenodd;stroke-width:0.40824842" />
+  <rect
+     style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:evenodd;stroke-width:0.40824842"
+     class="ColorScheme-ViewFocus"
+     height="1"
+     width="24.000013"
+     x="-28.000015"
+     y="-29.000015"
+     id="hover-bottom"
+     transform="scale(-1)" />
+  <path
+     style="opacity:1;fill:currentColor;fill-opacity:0.7;fill-rule:nonzero;stroke:none;stroke-width:1.67644536;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
      id="hover-bottomright"
-     transform="matrix(1,0,0,-1,-7.9179548,26.560562)">
-    <path
-       id="path880"
-       d="m 35.917969,-3.4394531 v 1 h 1 v 1 h 1 v -2 z"
-       style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:evenodd;stroke-width:0.1666667"
-       inkscape:connector-curvature="0"
-       class="ColorScheme-ViewFocus" />
-    <rect
-       style="opacity:1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:0.08333334"
-       class="ColorScheme-ViewFocus"
-       height="1"
-       width="1"
-       x="35.917969"
-       y="-2.4394531"
-       id="rect882" />
-  </g>
-  <g
-     transform="rotate(-180,19.958985,13.280281)"
-     id="hover-bottomleft">
-    <path
-       inkscape:connector-curvature="0"
-       style="opacity:1;fill:currentColor;fill-opacity:0.8;fill-rule:evenodd;stroke-width:0.1666667"
-       d="m 35.917969,-3.4394531 v 1 h 1 v 1 h 1 v -2 z"
-       id="path886"
-       class="ColorScheme-ViewFocus" />
-    <rect
-       id="rect888"
-       y="-2.4394531"
-       x="35.917969"
-       width="1"
-       height="1"
-       class="ColorScheme-ViewFocus"
-       style="opacity:1;fill:currentColor;fill-opacity:0.3;fill-rule:evenodd;stroke-width:0.08333334" />
-  </g>
+     sodipodi:type="arc"
+     sodipodi:cx="28.000015"
+     sodipodi:cy="28.000015"
+     sodipodi:rx="1"
+     sodipodi:ry="1"
+     sodipodi:start="0"
+     sodipodi:end="1.5707963"
+     d="m 29.000015,28.000015 a 1,1 0 0 1 -1,1 l 0,-1 z"
+     class="ColorScheme-ViewFocus" />
+  <path
+     class="ColorScheme-ViewFocus"
+     d="m -3.000001,28.000015 a 1,1 0 0 1 -0.9999999,1 l -1e-7,-1 z"
+     sodipodi:end="1.5707963"
+     sodipodi:start="0"
+     sodipodi:ry="1"
+     sodipodi:rx="1"
+     sodipodi:cy="28.000015"
+     sodipodi:cx="-4.000001"
+     sodipodi:type="arc"
+     id="hover-bottomleft"
+     style="opacity:1;fill:currentColor;fill-opacity:0.7;fill-rule:nonzero;stroke:none;stroke-width:1.67644536;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     transform="scale(-1,1)" />
+  <path
+     transform="scale(-1)"
+     style="opacity:1;fill:currentColor;fill-opacity:0.7;fill-rule:nonzero;stroke:none;stroke-width:1.67644536;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     id="hover-topleft"
+     sodipodi:type="arc"
+     sodipodi:cx="-4.0000019"
+     sodipodi:cy="-4"
+     sodipodi:rx="1"
+     sodipodi:ry="1"
+     sodipodi:start="0"
+     sodipodi:end="1.5707963"
+     d="m -3.0000019,-4 a 1,1 0 0 1 -1,1 l 0,-1 z"
+     class="ColorScheme-ViewFocus" />
+  <path
+     class="ColorScheme-ViewFocus"
+     d="m 29.000015,-4.0000029 a 1,1 0 0 1 -1,1 l 0,-1 z"
+     sodipodi:end="1.5707963"
+     sodipodi:start="0"
+     sodipodi:ry="1"
+     sodipodi:rx="1"
+     sodipodi:cy="-4.0000029"
+     sodipodi:cx="28.000015"
+     sodipodi:type="arc"
+     id="hover-topright"
+     style="opacity:1;fill:currentColor;fill-opacity:0.7;fill-rule:nonzero;stroke:none;stroke-width:1.67644536;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     transform="scale(1,-1)" />
 </svg>
