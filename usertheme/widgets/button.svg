@@ -26,19 +26,19 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1345"
-     inkscape:window-height="761"
+     inkscape:window-width="1405"
+     inkscape:window-height="843"
      id="namedview4532"
      showgrid="false"
-     inkscape:zoom="14.62283"
-     inkscape:cx="66.02992"
-     inkscape:cy="21.297512"
+     inkscape:zoom="51.620179"
+     inkscape:cx="108.37452"
+     inkscape:cy="13.446426"
      inkscape:current-layer="svg2"
      inkscape:measure-start="0,0"
      inkscape:measure-end="0,0"
      inkscape:pagecheckerboard="true"
-     inkscape:window-x="14"
-     inkscape:window-y="243"
+     inkscape:window-x="18"
+     inkscape:window-y="236"
      inkscape:window-maximized="0"
      inkscape:showpageshadow="false"
      fit-margin-top="5"
@@ -322,7 +322,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -372,42 +372,6 @@
      style="fill:currentColor;fill-opacity:0.6;fill-rule:evenodd;stroke-width:0.57735062"
      transform="rotate(-90)" />
   <rect
-     transform="scale(-1)"
-     style="fill:currentColor;fill-opacity:0.6;fill-rule:evenodd;stroke-width:0.16666678"
-     class="ColorScheme-ViewFocus"
-     height="2.0000012"
-     width="2.0000012"
-     x="-33.000027"
-     y="-33"
-     id="normal-bottomright" />
-  <rect
-     id="normal-bottomleft"
-     class="ColorScheme-ViewFocus"
-     y="-33"
-     x="-7.0000038"
-     width="2.0000012"
-     height="2.0000012"
-     style="fill:currentColor;fill-opacity:0.6;fill-rule:evenodd;stroke-width:0.16666678"
-     transform="scale(-1)" />
-  <rect
-     transform="scale(-1)"
-     style="fill:currentColor;fill-opacity:0.6;fill-rule:evenodd;stroke-width:0.16666678"
-     class="ColorScheme-ViewFocus"
-     height="2.0000012"
-     width="2.0000012"
-     x="-7.0000095"
-     y="-6.9999852"
-     id="normal-topleft" />
-  <rect
-     id="normal-topright"
-     class="ColorScheme-ViewFocus"
-     y="-6.9999852"
-     x="-33.000027"
-     width="2.0000012"
-     height="2.0000012"
-     style="fill:currentColor;fill-opacity:0.6;fill-rule:evenodd;stroke-width:0.16666678"
-     transform="scale(-1)" />
-  <rect
      id="hover-center"
      y="-33.183956"
      x="-130.46449"
@@ -415,7 +379,8 @@
      height="24.000013"
      class="ColorScheme-ViewFocus"
      style="fill:currentColor;fill-opacity:0.8;fill-rule:evenodd;stroke-width:2.00000119"
-     transform="scale(-1)" />
+     transform="scale(-1)"
+     ry="0.63440871" />
   <g
      transform="translate(-13.644174,6.1334782)"
      id="hover-top">
@@ -578,7 +543,7 @@
   </g>
   <rect
      transform="scale(-1)"
-     style="fill:currentColor;fill-opacity:0.4;fill-rule:evenodd;stroke-width:2.00000119"
+     style="fill:currentColor;fill-opacity:0.2;fill-rule:evenodd;stroke-width:2.00000119"
      class="ColorScheme-ViewFocus"
      height="24.000013"
      width="24.000013"
@@ -657,4 +622,100 @@
      y="-7.4579973"
      class="ColorScheme-ViewFocus"
      id="pressed-topright" />
+  <g
+     id="normal-topright"
+     transform="translate(-6.1269301,0.98633844)">
+    <path
+       id="path922"
+       transform="translate(0,-2.5122419e-5)"
+       d="m 37.126953,4.0136719 v 2 h 2 v -1 h -1 v -1 z"
+       style="fill:currentColor;fill-opacity:0.6;fill-rule:evenodd;stroke-width:0.16666678"
+       class="ColorScheme-ViewFocus"
+       inkscape:connector-curvature="0" />
+    <path
+       transform="scale(1,-1)"
+       d="m 39.126954,-5.0136476 a 1.0000006,1.0000006 0 0 1 -1.000001,1.0000006 l 0,-1.0000006 z"
+       sodipodi:end="1.5707963"
+       sodipodi:start="0"
+       sodipodi:ry="1.0000006"
+       sodipodi:rx="1.0000006"
+       sodipodi:cy="-5.0136476"
+       sodipodi:cx="38.126953"
+       sodipodi:type="arc"
+       id="path916"
+       style="opacity:1;fill:currentColor;fill-opacity:0.6;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       class="ColorScheme-ViewFocus" />
+  </g>
+  <g
+     transform="matrix(-1,0,0,1,44.126957,0.98634178)"
+     id="normal-topleft">
+    <path
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ViewFocus"
+       style="fill:currentColor;fill-opacity:0.6;fill-rule:evenodd;stroke-width:0.16666678"
+       d="m 37.126953,4.0136719 v 2 h 2 v -1 h -1 v -1 z"
+       transform="translate(0,-2.5122419e-5)"
+       id="path911" />
+    <path
+       class="ColorScheme-ViewFocus"
+       style="opacity:1;fill:currentColor;fill-opacity:0.6;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path913"
+       sodipodi:type="arc"
+       sodipodi:cx="38.126953"
+       sodipodi:cy="-5.0136476"
+       sodipodi:rx="1.0000006"
+       sodipodi:ry="1.0000006"
+       sodipodi:start="0"
+       sodipodi:end="1.5707963"
+       d="m 39.126954,-5.0136476 a 1.0000006,1.0000006 0 0 1 -1.000001,1.0000006 l 0,-1.0000006 z"
+       transform="scale(1,-1)" />
+  </g>
+  <g
+     transform="matrix(1,0,0,-1,-6.1269358,37.013647)"
+     id="normal-bottomright">
+    <path
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ViewFocus"
+       style="fill:currentColor;fill-opacity:0.6;fill-rule:evenodd;stroke-width:0.16666678"
+       d="m 37.126953,4.0136719 v 2 h 2 v -1 h -1 v -1 z"
+       transform="translate(0,-2.5122419e-5)"
+       id="path917" />
+    <path
+       class="ColorScheme-ViewFocus"
+       style="opacity:1;fill:currentColor;fill-opacity:0.6;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path919"
+       sodipodi:type="arc"
+       sodipodi:cx="38.126953"
+       sodipodi:cy="-5.0136476"
+       sodipodi:rx="1.0000006"
+       sodipodi:ry="1.0000006"
+       sodipodi:start="0"
+       sodipodi:end="1.5707963"
+       d="m 39.126954,-5.0136476 a 1.0000006,1.0000006 0 0 1 -1.000001,1.0000006 l 0,-1.0000006 z"
+       transform="scale(1,-1)" />
+  </g>
+  <g
+     transform="rotate(-180,22.063479,18.506823)"
+     id="normal-bottomleft">
+    <path
+       inkscape:connector-curvature="0"
+       class="ColorScheme-ViewFocus"
+       style="fill:currentColor;fill-opacity:0.6;fill-rule:evenodd;stroke-width:0.16666678"
+       d="m 37.126953,4.0136719 v 2 h 2 v -1 h -1 v -1 z"
+       transform="translate(0,-2.5122419e-5)"
+       id="path923" />
+    <path
+       class="ColorScheme-ViewFocus"
+       style="opacity:1;fill:currentColor;fill-opacity:0.6;fill-rule:nonzero;stroke:none;stroke-width:2.98988104;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       id="path925"
+       sodipodi:type="arc"
+       sodipodi:cx="38.126953"
+       sodipodi:cy="-5.0136476"
+       sodipodi:rx="1.0000006"
+       sodipodi:ry="1.0000006"
+       sodipodi:start="0"
+       sodipodi:end="1.5707963"
+       d="m 39.126954,-5.0136476 a 1.0000006,1.0000006 0 0 1 -1.000001,1.0000006 l 0,-1.0000006 z"
+       transform="scale(1,-1)" />
+  </g>
 </svg>
