@@ -2,7 +2,7 @@
 #define DEFS_H
 
 // Saturation adjustment
-#define SATURATION_MULTIPLIER 1.7
+#define SATURATION_MULTIPLIER 1.4
 
 // Level at which to change dark text on light background [0 - 255]
 #define DARK_THRESHOLD 162
