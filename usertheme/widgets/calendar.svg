@@ -14,8 +14,8 @@
    viewBox="0 0 30 30"
    id="svg2"
    version="1.1"
-   inkscape:version="0.92.1 r"
-   sodipodi:docname="calendar.svgz">
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="calendar.svg">
   <defs
      id="defs4">
     <style
@@ -70,29 +70,30 @@
   <sodipodi:namedview
      id="base"
      pagecolor="#b0dba0"
-     bordercolor="#cc0000"
+     bordercolor="#000000"
      borderopacity="1"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:zoom="16.643577"
-     inkscape:cx="22.928642"
-     inkscape:cy="11.608763"
+     inkscape:cx="13.108812"
+     inkscape:cy="16.415422"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="true"
+     showgrid="false"
      inkscape:showpageshadow="false"
-     borderlayer="true"
+     borderlayer="false"
      units="px"
-     inkscape:window-width="1133"
-     inkscape:window-height="841"
-     inkscape:window-x="0"
-     inkscape:window-y="152"
+     inkscape:window-width="1399"
+     inkscape:window-height="846"
+     inkscape:window-x="246"
+     inkscape:window-y="138"
      inkscape:window-maximized="0"
      showguides="true"
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:pagecheckerboard="true">
     <inkscape:grid
        type="xygrid"
        id="grid3336"
@@ -117,12 +118,22 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(0,-904.36218)">
-    <path
-       id="event"
-       d="m 30,918.36218 -16,16 h 16 z"
-       style="opacity:1;fill:currentColor;fill-opacity:1;stroke:none"
-        class="ColorScheme-Background"
-       inkscape:connector-curvature="0"
-       sodipodi:nodetypes="cccc" />
+    <g
+       id="g817">
+      <rect
+         y="907.45264"
+         x="2.729928"
+         height="24"
+         width="24"
+         id="rect817"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.72804165;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         class="ColorScheme-ViewFocus"
+         style="color:#3daee9;opacity:1;fill:currentColor;fill-opacity:1;stroke:none;stroke-width:1.18776011"
+         d="M 24.232009,909.95053 5.2278472,928.95469 H 24.232009 Z"
+         id="event" />
+    </g>
   </g>
 </svg>
