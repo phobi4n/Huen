@@ -16,4 +16,7 @@ A menu entry should appear under Settings.
 Edit "defs.h" to set your own text and background colours then re-run install.sh.
 
 ## Removing
-Remove Huen with ./uninstall.sh.
+Remove Huen with
+```
+./uninstall.sh
+```
