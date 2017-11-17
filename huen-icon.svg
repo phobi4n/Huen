@@ -15,7 +15,7 @@
    height="32"
    id="svg47"
    sodipodi:docname="huen-icon.svg"
-   inkscape:version="0.92.1 r">
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
   <sodipodi:namedview
      pagecolor="#ffffff"
      bordercolor="#666666"
@@ -29,9 +29,9 @@
      inkscape:window-height="921"
      id="namedview49"
      showgrid="false"
-     inkscape:zoom="19.92983"
-     inkscape:cx="12.677966"
-     inkscape:cy="12.36715"
+     inkscape:zoom="14.092518"
+     inkscape:cx="17.151776"
+     inkscape:cy="27.734776"
      inkscape:window-x="76"
      inkscape:window-y="210"
      inkscape:window-maximized="0"
@@ -124,7 +124,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -133,53 +133,68 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="matrix(1 0 0 1 -384.57143 -515.798)">
-    <rect
-       style="opacity:1;fill:url(#linearGradient4566);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.52169657;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.21052635"
-       id="rect4558"
-       width="32"
-       height="28"
-       x="384.57144"
-       y="518.03528" />
-    <path
-       style="opacity:1;fill:url(#linearGradient4586);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.52169657;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.21052635"
-       d="m 416.57144,519.72473 -29.5664,23.9668 6.04296,2.34375 h 23.52344 z"
-       id="rect4573"
-       inkscape:connector-curvature="0" />
-    <path
-       sodipodi:type="star"
-       style="opacity:1;fill:#59ccb5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.21052635"
-       id="path4597"
-       sodipodi:sides="3"
-       sodipodi:cx="350.67313"
-       sodipodi:cy="564.61157"
-       sodipodi:r1="14.332531"
-       sodipodi:r2="7.1662655"
-       sodipodi:arg1="0.40861848"
-       sodipodi:arg2="1.455816"
-       inkscape:flatsided="true"
-       inkscape:rounded="0"
-       inkscape:randomized="0"
-       d="m 363.82567,570.30649 -24.66076,2.84806 9.86389,-22.78087 z"
-       inkscape:transform-center-x="-1.8424313"
-       inkscape:transform-center-y="0.54500886"
-       transform="matrix(0.79363448,-0.27276709,0.16714918,0.43856113,32.302905,387.24136)" />
     <g
-       id="g4783"
-       transform="translate(5.9384766e-5,0.23724533)">
+       id="g852">
       <rect
-         width="31.999952"
-         x="384.57144"
-         y="541.7981"
-         height="3.9999681"
-         style="fill:url(#linearGradient4607);fill-opacity:1"
-         id="rect4267" />
+         ry="0"
+         y="498.37878"
+         x="374.63708"
+         height="48"
+         width="48"
+         id="rect842"
+         style="opacity:1;fill:none;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.02365255;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+      <g
+         transform="matrix(1.3749995,0,0,1.3749995,-152.14846,-209.20821)"
+         id="g840">
+        <rect
+           style="opacity:1;fill:url(#linearGradient4566);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.52169657;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.21052635"
+           id="rect4558"
+           width="32"
+           height="28"
+           x="384.57144"
+           y="518.03528" />
+        <path
+           style="opacity:1;fill:url(#linearGradient4586);fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.52169657;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.21052635"
+           d="m 416.57144,519.72473 -29.5664,23.9668 6.04296,2.34375 h 23.52344 z"
+           id="rect4573"
+           inkscape:connector-curvature="0" />
+        <path
+           sodipodi:type="star"
+           style="opacity:1;fill:#59ccb5;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.21052635"
+           id="path4597"
+           sodipodi:sides="3"
+           sodipodi:cx="350.67313"
+           sodipodi:cy="564.61157"
+           sodipodi:r1="14.332531"
+           sodipodi:r2="7.1662655"
+           sodipodi:arg1="0.40861848"
+           sodipodi:arg2="1.455816"
+           inkscape:flatsided="true"
+           inkscape:rounded="0"
+           inkscape:randomized="0"
+           d="m 363.82567,570.30649 -24.66076,2.84806 9.86389,-22.78087 z"
+           inkscape:transform-center-x="-1.8424313"
+           inkscape:transform-center-y="0.54500886"
+           transform="matrix(0.79363448,-0.27276709,0.16714918,0.43856113,32.302905,387.24136)" />
+        <g
+           id="g4783"
+           transform="matrix(1,0,0,1.3637793,5.9384766e-5,-198.31275)">
+          <rect
+             width="31.999952"
+             x="384.57144"
+             y="541.7981"
+             height="3.9999681"
+             style="fill:url(#linearGradient4607);fill-opacity:1"
+             id="rect4267" />
+        </g>
+        <rect
+           style="opacity:1;fill:#eb475e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:7.67316055;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.21052635"
+           id="rect4599"
+           width="10.680455"
+           height="3.4049289"
+           x="404.34079"
+           y="541.75586" />
+      </g>
     </g>
-    <rect
-       style="opacity:1;fill:#eb475e;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:6.23873329;stroke-linecap:square;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:0.21052635"
-       id="rect4599"
-       width="10.680455"
-       height="2.25088"
-       x="404.34079"
-       y="542.90991" />
   </g>
 </svg>
