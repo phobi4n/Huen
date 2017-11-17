@@ -1,8 +1,8 @@
 # Huen
-Huen creates a Plasma theme coloured to match your current wallpaper. [Demonstration video here](https://www.youtube.com/watch?v=_ZdZWec-bFk "YouTube") 
+Huen creates a Plasma theme coloured to match your current wallpaper. [Demonstration video here](https://youtu.be/xvJ1-V_WJpM "YouTube") 
 
 ## Installation
-Huen requires the development packages of Qt 5 and ImageMagick 6.  
+Huen requires ImageMagick 6.  
 
 To install:
 
@@ -10,7 +10,10 @@ To install:
 ./install.sh
 ```
 
-A menu entry should appear under Settings. __N.B.__ If updating from previous version, you must delete ~/.local/share/plasma/desktoptheme/Huen to allow the new theme to be copied over.
+A menu entry should appear under Settings.
 
 ## Customisation
-Edit "defs.h" to set your own text and background colours.  
+Edit "defs.h" to set your own text and background colours then re-run install.sh.
+
+## Removing
+Remove Huen with ./uninstall.sh.
